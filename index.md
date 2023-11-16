@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Poster submission now open until 31 May 2024!
+notification: Abstract submission now open until 31 May 2024!
 sections:
   - hero:
       title: IHCC-PRECISE Conference
@@ -19,7 +19,7 @@ sections:
         - title: Speakers
           description: Plenaries | Panels | Lightning
           url: https://gmail.com
-        - title: poster submission
+        - title: abstract submission
           description: Closing 31 May 2024
           url: /privacy/
         - title: travel information
@@ -60,10 +60,9 @@ sections:
       image: /images/1698735745264.jpeg
       alt: Image alt text
   - infobar:
-      title: Abstract Submission
-      subtitle: closing 31 may 2024
+      title: Get your passes now!
+      subtitle: early bird until 31 mar 2024
       id: infobar
-      description: Placeholder text for abstract themes and other submission criteria.
-      button: submission form
-      url: /form
+      button: register
+      url: /register
 ---
