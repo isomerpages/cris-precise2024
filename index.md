@@ -7,11 +7,9 @@ permalink: /
 notification: Poster submission now open until 31 May 2024!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      title: IHCC-PRECISE Conference
+      subtitle: 21 - 23 August 2024 | Singapore
+      background: /images/AdobeStock_519075188_Preview.jpeg
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -23,6 +21,7 @@ sections:
           description: Page A is important too
           url: /privacy/
       variant: center
+      backgroundColor: gray
   - infopic:
       title: The New Landscape to Global Healthcare
       subtitle: From cohorts to clinics
