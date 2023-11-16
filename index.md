@@ -37,10 +37,13 @@ sections:
       image: /images/photo_1562503542_2a1e6f03b16b.jpeg
       alt: Image alt text
   - infopic:
-      title: "Connect with fellow "
-      subtitle: global community
+      title: Plenaries, Panels and Lighting Sessions
+      subtitle: meet our speakers
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Learn from thought leaders, policy makers, and researchers around
+        the world at the forefront of the precision medicine space.
+      button: find out more
+      url: /speakers
+      image: /images/1698746104107.jpeg
       alt: Image alt text
 ---
