@@ -32,7 +32,7 @@ sections:
       description: Join us to discuss opportunities and challenges in translating
         advances in precision medicine to reshape the landscape of modern
         healthcare.
-      button: Find out more
+      button: Register now
       url: /about
       image: /images/photo_1562503542_2a1e6f03b16b.jpeg
       alt: Image alt text
