@@ -23,10 +23,14 @@ sections:
           description: Page A is important too
           url: /privacy/
       variant: center
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: The New Landscape to Global Healthcare
+      subtitle: From cohorts to clinics
+      id: infopic
+      description: Join us to discuss opportunities and challenges in translating
+        advances in precision medicine to reshape the landscape of modern
+        healthcare.
+      button: Find out more
+      url: /about
+      alt: Image alt text
 ---
