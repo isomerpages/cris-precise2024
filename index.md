@@ -7,7 +7,7 @@ permalink: /
 notification: Abstract submission now open until 31 May 2024!
 sections:
   - hero:
-      title: IHCC-PRECISE Conference
+      title: IHCC-PRECISE Conferencec 2024
       subtitle: "From Cohorts to Clinics: The New Landscape to Global Healthcare"
       background: /images/AdobeStock_519075188_Preview.jpeg
       button: REGISTER NOW
