@@ -1,6 +1,9 @@
 ---
 title: About the Conference
 permalink: /about/conference/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+* Conference aims
+* About IHCC
+* About PRECISE
