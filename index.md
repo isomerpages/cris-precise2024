@@ -36,4 +36,11 @@ sections:
       url: /about
       image: /images/photo_1562503542_2a1e6f03b16b.jpeg
       alt: Image alt text
+  - infopic:
+      title: "Connect with fellow "
+      subtitle: global community
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
