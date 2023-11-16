@@ -59,4 +59,11 @@ sections:
       url: /programme
       image: /images/1698735745264.jpeg
       alt: Image alt text
+  - infobar:
+      title: Abstract Submission
+      subtitle: closing 31 may 2024
+      id: infobar
+      description: Placeholder text for abstract themes and other submission criteria.
+      button: submission form
+      url: /form
 ---
