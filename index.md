@@ -10,6 +10,8 @@ sections:
       title: IHCC-PRECISE Conference
       subtitle: "From Cohorts to Clinics: The New Landscape to Global Healthcare"
       background: /images/AdobeStock_519075188_Preview.jpeg
+      button: REGISTER NOW
+      url: /register
       key_highlights:
         - title: Programme
           description: 21-23 Aug 2024
@@ -45,5 +47,16 @@ sections:
       button: find out more
       url: /speakers
       image: /images/1698746104107.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Showcase of global precision medicine advancements
+      subtitle: Be part of a global community
+      id: infopic
+      description: Learn about the innovative, cost-effective, and clinically
+        effective solutions that make precision medicine accessible, equitable
+        and beneficial worldwide.
+      button: programme
+      url: /programme
+      image: /images/1698735745264.jpeg
       alt: Image alt text
 ---
