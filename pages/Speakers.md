@@ -1,6 +1,7 @@
 ---
 title: Speakers
 permalink: /speakers/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+Pending
