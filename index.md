@@ -32,5 +32,6 @@ sections:
         healthcare.
       button: Find out more
       url: /about
+      image: /images/photo_1562503542_2a1e6f03b16b.jpeg
       alt: Image alt text
 ---
