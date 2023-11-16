@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Programme
           description: 21-23 Aug 2024
-          url: https://google.com
+          url: /programme/day1
         - title: Speakers
           description: Plenaries | Panels | Lightning
           url: https://gmail.com
