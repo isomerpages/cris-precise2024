@@ -24,7 +24,7 @@ sections:
           url: /about/abstractsubmission/
         - title: travel information
           description: Getting to Singapore
-          url: ""
+          url: /about/travel/
       variant: center
       backgroundColor: gray
   - infopic:
