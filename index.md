@@ -8,18 +8,21 @@ notification: Poster submission now open until 31 May 2024!
 sections:
   - hero:
       title: IHCC-PRECISE Conference
-      subtitle: 21 - 23 August 2024 | Singapore
+      subtitle: "From Cohorts to Clinics: The New Landscape to Global Healthcare"
       background: /images/AdobeStock_519075188_Preview.jpeg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Programme
+          description: 21-23 Aug 2024
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Speakers
+          description: Plenaries | Panels | Lightning
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: poster submission
+          description: Closing 31 May 2024
           url: /privacy/
+        - title: travel information
+          description: Getting to Singapore
+          url: ""
       variant: center
       backgroundColor: gray
   - infopic:
