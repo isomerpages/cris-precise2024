@@ -39,7 +39,7 @@ sections:
       image: /images/photo_1562503542_2a1e6f03b16b.jpeg
       alt: Image alt text
   - infopic:
-      title: Plenaries, Panels and Lighting Sessions
+      title: Plenaries, Panels and Lightning Sessions
       subtitle: meet our speakers
       id: infopic
       description: Learn from thought leaders, policy makers, and researchers around
