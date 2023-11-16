@@ -2,7 +2,7 @@ collections:
   about:
     output: true
     order:
-      - Abstract Submission.md
       - About the Conference.md
-      - Partners.md
+      - Abstract Submission.md
       - Travel Information.md
+      - Partners.md
