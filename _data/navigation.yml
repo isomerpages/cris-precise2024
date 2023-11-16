@@ -7,6 +7,6 @@ links:
   - title: Speakers
     url: /speakers
   - title: About
-    url: /about
+    collection: about
   - title: Contact
     url: /contact-us/
