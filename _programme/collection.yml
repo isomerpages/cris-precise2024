@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - Day 1.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
