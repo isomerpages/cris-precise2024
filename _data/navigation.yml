@@ -1,12 +1,12 @@
 logo: /images/logo.png
 links:
-  - title: REGISTER
+  - title: About
+    collection: about
+  - title: REGISTRATION
     url: /partners
   - title: Programme
     collection: programme
   - title: Speakers
     url: /speakers
-  - title: About
-    collection: about
   - title: Contact
     url: /contact-us/
