@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: PRECISE-IHCC Conference Secretariat
+agency_name: the PRECISE-IHCC Conference Secretariat
 contacts:
   - content:
       - phone: +65 6123 4563
