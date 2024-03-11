@@ -4,7 +4,7 @@ permalink: /about/travel/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h3><strong>About Singapore</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About_Singapore.bmp">
 </div>
