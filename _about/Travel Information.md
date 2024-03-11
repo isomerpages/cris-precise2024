@@ -21,3 +21,5 @@ as strategic partnerships between research institutes, corporates, and
 public hospitals yield new medicines and therapies for regional and global
 markets.</p>
 <p></p>
+<h3><strong>Conference Venue</strong></h3>
+<p></p>
