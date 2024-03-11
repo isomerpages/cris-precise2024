@@ -18,7 +18,8 @@ and promote cross-population cohort research and design cross-cohort pilot
 projects to address various global challenges.</p>
 <p>The three-day conference will be held <strong>on-site</strong> from <strong>21 to 23 August 2024</strong> in <strong>Singapore</strong>.</p>
 <h3><strong>Conference Aims</strong></h3>
-<p>Through this conference we aim to:</p>
+<p><strong>Through this conference we aim to:</strong>
+</p>
 <p><strong>Aim #1 Encourage Scientific Exchange</strong>: Thought leaders,
 policymakers, researchers, and industry stakeholders in the field of precision
 medicine will have a platform to share their insights, discoveries and
