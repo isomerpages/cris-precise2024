@@ -215,7 +215,7 @@ description: ""
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>HALL 2 - Genomic Screening</strong>
+<p><strong>HALL 2: Genomic Screening</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
