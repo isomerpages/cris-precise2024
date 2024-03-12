@@ -21,6 +21,12 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<h4><strong>Session 4: </strong>Biobanks for Precision Medicine</h4>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>09.00am - 09.30am</p>
 </td>
@@ -47,7 +53,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<h4><strong>Session 4: </strong>Biobanks for Precision Medicine</h4>
+<h4><strong>Session 5: </strong>Pharmacogenomics</h4>
 </td>
 </tr>
 <tr>
@@ -69,15 +75,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<h4><strong>Session 5: </strong>Pharmacogenomics</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1.30pm - 2.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Plenary Talk</p>
+<h4><strong>Session 6:</strong><br>(a) Rare Diseases<br>(b) Biobanks for Precision Medicine</h4>
 </td>
 </tr>
 <tr>
@@ -90,7 +88,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.20pm - 4.00pm</p>
+<p>3.25pm - 4.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teabreak Networking Session</p>
@@ -99,15 +97,39 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<h4><strong>Session 6:</strong><br>(a) Rare Diseases<br>(b) Biobanks for Precision Medicine</h4>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.00pm - 5.20pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Breakout Symposium Talks</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
