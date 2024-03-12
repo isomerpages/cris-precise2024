@@ -186,26 +186,14 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>3.25pm - 4.00pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p>Teabreak Networking Session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="4">
 <p></p>
-<h4><strong>SESSION 7:&nbsp; </strong><br>(a) Training/Early Career Scientists<br>(b) Genomic/precision medicine for therapeutic R&amp;D</h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<h4><strong>SESSION 7:&nbsp; </strong></h4>
 </td>
 </tr>
 <tr>
@@ -213,10 +201,34 @@ description: ""
 <p>4.00pm - 5.25pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Breakout Symposium Talks</p>
+<p><strong>HALL 1: Training/Early Career Scientists</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Session Talk 1: Sharon Plon</p>
+</li>
+<li>
+<p>Session Talk 2: Richard Haspel</p>
+</li>
+<li>
+<p>Session Talk 3: Vicky Nembarawe</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>HALL 2: Genomic/precision medicine for therapeutic R&amp;D</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Session Talk 1: Lyndon Mitnaul</p>
+</li>
+<li>
+<p>Session Talk 2: Guillermo del Angel</p>
+</li>
+<li>
+<p>Session Talk 3: Mark McCarthy</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
