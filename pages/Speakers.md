@@ -118,7 +118,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Chen Zhengmin" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Chen Zhengmin" src="/images/Speaker Photos/Speaker_Photo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -145,20 +145,101 @@ description: ""
 <div class="isomer-card-title">Prof Eva Maria Cutiongco-Dela Paz</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Collet Dandara" src="/images/Speaker Photos/Symposium Speakers/Prof_Collet_Dandara.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Prof Collet Dandara</div>
+<div class="isomer-card-description">University of Cape Town</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Guillermo Del Angel" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Guillermo Del Angel</div>
+<div class="isomer-card-description">AstraZeneca</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Martin Delatycki" src="/images/Speaker Photos/Symposium Speakers/Prof_Martin_Delatycki.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Martin Delatycki</div>
+<div class="isomer-card-description">Murdoch Children's Research Institute</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Andrés Moreno Estrada" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Andrés Moreno Estrada</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Arash Etemadi" src="/images/Speaker Photos/Symposium Speakers/Dr_Arash_Etemadi.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Arash Etemadi</div>
+<div class="isomer-card-description">National Cancer Institute, NIH</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr William Foulkes" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr William Foulkes</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Geoffrey Ginsburg" src="/images/Speaker Photos/Symposium Speakers/Dr_Geoffrey_Ginsburg.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Geoffrey Ginsburg</div>
+<div class="isomer-card-description">All of Us Research Program, National Institutes of Health</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Claudia Gonzaga-Jauregui" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Claudia Gonzaga-Jauregui</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Richard Haspel" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Richard Haspel</div>
+</div>
+</div>
 </div>
 <p></p>
 <p><em>*Speakers are arranged based on Last Name alphabetical order.</em>
