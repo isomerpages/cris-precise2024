@@ -21,7 +21,7 @@ sections:
           url: /speakers
         - title: abstract submission
           description: Closing 31 March 2024
-          url: /about/abstractsubmission/
+          url: /abstractsubmission/
         - title: travel information
           description: Getting to Singapore
           url: /about/travel/
