@@ -29,7 +29,7 @@ webpage more information: <a href="https://www.ica.gov.sg/enter-transit-depart/e
 </p>
 <p></p>
 <h3><strong>Conference Venue</strong></h3>
-<h4><strong>One Farrer Hotel</strong> </h4>
+<h4><strong>One Farrer Hotel</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/One_Farrer_Hotel.jpg">
 </div>
