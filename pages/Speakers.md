@@ -108,148 +108,58 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Collet Dandara" src="/images/Speaker Photos/Symposium Speakers/Prof_Collet_Dandara.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Prof John Chambers" src="/images/Speaker Photos/Speaker_Photo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Prof Collet Dandara</div>
-<div class="isomer-card-description">University of Cape Town</div>
+<div class="isomer-card-title">Prof John Chambers</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Guillermo Del Angel" src="/images/Speaker Photos/Speaker_Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Chen Zhengmin" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Guillermo Del Angel</div>
-<div class="isomer-card-description">AstraZeneca</div>
+<div class="isomer-card-title">Prof Chen Zhengmin</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Martin Delatycki" src="/images/Speaker Photos/Symposium Speakers/Prof_Martin_Delatycki.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Chien Yin Hsiu" src="/images/Speaker Photos/Speaker_Photo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Prof Martin Delatycki</div>
-<div class="isomer-card-description">Murdoch Children's Research Institute</div>
+<div class="isomer-card-title">Prof Chien Yin Hsiu</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Arash Etemadi" src="/images/Speaker Photos/Symposium Speakers/Dr_Arash_Etemadi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Eva Maria Cutiongco-Dela Paz" src="/images/Speaker Photos/Speaker_Photo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Arash Etemadi</div>
-<div class="isomer-card-description">National Cancer Institute, NIH</div>
+<div class="isomer-card-title">Prof Eva Maria Cutiongco-Dela Paz</div>
 </div>
 </div>
-<div class="isomer-card">
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Geoffrey Ginsburg" src="/images/Speaker Photos/Symposium Speakers/Dr_Geoffrey_Ginsburg.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Geoffrey Ginsburg</div>
-<div class="isomer-card-description">All of Us Research Program, National Institutes of Health</div>
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
 </div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Elaine Lo Ah Gi" src="/images/Speaker Photos/Symposium Speakers/Dr_Elaine_Lo_Ah_Gi.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Dr Elaine Lo Ah Gi</div>
-<div class="isomer-card-description">National University Hospital</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Mark McCarthy" src="/images/Speaker Photos/Symposium Speakers/Dr_Mark_McCarthy.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Dr Mark McCarthy</div>
-<div class="isomer-card-description">Genentech</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Nicola Mulder" src="/images/Speaker Photos/Symposium Speakers/Prof_Nicola_Mulder.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Prof Nicola Mulder</div>
-<div class="isomer-card-description">University of Cape Town</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Fatima Qafoud" src="/images/Speaker Photos/Speaker_Photo.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Dr Fatima Qafoud</div>
-<div class="isomer-card-description">Qatar Biobank</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Heidi Rehm" src="/images/Speaker Photos/Symposium Speakers/Dr_Heidi_Rehm.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Dr Heidi Rehm</div>
-<div class="isomer-card-description">Massachusetts General Hospital and Broad Institute</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Chonlaphat Sukasem" src="/images/Speaker Photos/Symposium Speakers/Prof_Chonlaphat_Sukasem.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Prof Chonlaphat Sukasem</div>
-<div class="isomer-card-description">Ramathibodi Hospital, Mahidol University</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Meow-Keong Thong" src="/images/Speaker Photos/Symposium Speakers/Prof_Meow_Keong_Thong.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Prof Meow-Keong Thong</div>
-<div class="isomer-card-description">Universiti Tunku Abdul Rahman</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Janewit Wongboonsin" src="/images/Speaker Photos/Symposium Speakers/Dr_Janewit_Wongboonsin.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Dr Janewit Wongboonsin</div>
-<div class="isomer-card-description">Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol
-Univeristy, Thailand | Renal division, Brigham and Women's Hospital, Boston,
-USA</div>
-</div>
-</div>
-</div>
+<p></p>
 <p><em>*Speakers are arranged based on Last Name alphabetical order.</em>
 </p>
