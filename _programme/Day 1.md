@@ -56,7 +56,7 @@ description: ""
 <p>10.15am - 11.40am</p>
 </td>
 <td rowspan="1" colspan="3">
-<p><strong>Ethics and Policy</strong> 
+<p><strong>Ethics and Policy</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
