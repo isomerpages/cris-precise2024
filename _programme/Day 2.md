@@ -14,7 +14,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>08.30am - 9.00am</p>
+<p>8.30am - 9.00am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration</p>
@@ -28,15 +28,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09.00am - 09.30am</p>
+<p>9.00am - 9.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Plenary Talk</p>
+<p>Plenary Talk 3: Kathryn North</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09.30AM - 10.55am</p>
+<p>9.30AM - 10.55am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Symposium Talks</p>
