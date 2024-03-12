@@ -207,7 +207,7 @@ description: ""
 <p>4.00pm - 5.25pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Hall 1: Research in LMICs</strong> 
+<p><strong>Hall 1: Research in LMICs</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -257,5 +257,5 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><em>Programme is subject to change without prior notice.</em>
+<p><em>*Programme is accurate as of 13 March 2024.</em>
 </p>
