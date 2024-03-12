@@ -56,7 +56,7 @@ description: ""
 <p>10.15am - 11.40am</p>
 </td>
 <td rowspan="1" colspan="3">
-<p><strong><u>Ethics and Policy</u></strong> 
+<p><strong>Ethics and Policy</strong> 
 <br>Session Talk 1: Julian Savulescu
 <br>Session Talk 2: Angela Ballantyne
 <br>Session Talk 3: Michaela Mayrhofer</p>
@@ -123,7 +123,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="4">
 <p></p>
-<h4><strong>Session 2:</strong><br>(A) Complex Traits/Variant Resolution<br>(B) Data Driven Discovery</h4>
+<h4><strong>Session 2:</strong></h4>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ description: ""
 <p>2.00pm - 3.25pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>HALL 1: Complex Traits/Variant Resolution</strong>
+<p><strong>Hall 1: Complex Traits/Variant Resolution</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -154,7 +154,7 @@ description: ""
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>HALL 2 - Data Driven Discovery</strong>
+<p><strong>Hall 2 - Data Driven Discovery</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -176,26 +176,14 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>3.20pm - 4.00pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p>Teabreak Networking Session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="4">
 <p></p>
-<h4><strong>Session 3:</strong><br>(a) Cancer Genetics<br>(b) Genomic Screening</h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<h4><strong>Session 3:</strong></h4>
 </td>
 </tr>
 <tr>
@@ -203,9 +191,34 @@ description: ""
 <p>4.00pm - 5.20pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Breakout Symposium Talks</p>
+<p><strong>Hall 1: Cancer Genetics</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Session Talk 1: Joanne Ngeow</p>
+</li>
+<li>
+<p>Session Talk 2: Will Foulkes</p>
+</li>
+<li>
+<p>Session Talk 3: Soo-Hwang Teo</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>HALL 2 - Genomic Screening</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Session Talk 1: CHIEN Yin Hsiu</p>
+</li>
+<li>
+<p>Session Talk 2: Martin Delatycki</p>
+</li>
+<li>
+<p>Session Talk 3: MK Thong</p>
+</li>
+</ul>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -229,6 +242,6 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><em>Programme is subject to change without prior notice.</em>
+<p><em>*Programme is accurate as of 13 March 2024.</em>
 </p>
 <p></p>
