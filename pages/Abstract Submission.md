@@ -14,22 +14,25 @@ scheduled on <strong>August 21-23, 2024</strong> in <strong>Singapore</strong>.<
 <p>This conference aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Encourage Scientific Exchange</p>
+<p><strong>Encourage</strong> Scientific Exchange</p>
 </li>
 <li>
-<p>Translate Precision Science to Impact Patients</p>
+<p><strong>Translate</strong> Precision Science to Impact Patients</p>
 </li>
 <li>
-<p>Showcase Global Advancements in Genomic and Precision Medicine</p>
+<p><strong>Showcase</strong> Global Advancements in Genomic and Precision
+Medicine</p>
 </li>
 <li>
-<p>Bring Diverse Perspectives on Global Challenges</p>
+<p><strong>Bring</strong> Diverse Perspectives on Global Challenges</p>
 </li>
 <li>
-<p>Champion Early-Career Scientists in Genomic and Precision Medicine</p>
+<p><strong>Champion</strong> Early-Career Scientists in Genomic and Precision
+Medicine</p>
 </li>
 <li>
-<p>Enhance Cohort Studies and Biobank Integration for Translational Impact</p>
+<p><strong>Enhance</strong> Cohort Studies and Biobank Integration for Translational
+Impact</p>
 </li>
 </ul>
 <p>Submitted abstracts should contain recent scientific, educational, or
