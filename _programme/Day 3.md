@@ -14,7 +14,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>08.30am - 9.00am</p>
+<p>8.30am - 9.00am</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Registration</p>
@@ -28,7 +28,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09.00am - 09.30am</p>
+<p>9.00am - 9.30am</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Plenary Talk 4: Vajira Dissanayake</p>
@@ -36,7 +36,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09.30AM - 10.55am</p>
+<p>9.30am - 10.55am</p>
 </td>
 <td rowspan="1" colspan="3">
 <p><strong>Genomic Diversity</strong>
