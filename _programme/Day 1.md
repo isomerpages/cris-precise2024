@@ -34,7 +34,7 @@ description: ""
 <p>9.15am - 9.45am</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Plenary 1 : Dame Sue Hill</p>
+<p>Plenary 1: Dame Sue Hill</p>
 </td>
 </tr>
 <tr>
@@ -53,18 +53,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="3">
-<h4>Ethics and Policy</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>10.15am - 11.40am</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Session Talk 1: Julian Savulescu
+<p><strong><u>Ethics and Policy</u></strong>
+<br>Session Talk 1: Julian Savulescu
 <br>Session Talk 2: Angela Ballantyne
 <br>Session Talk 3: Michaela Mayrhofer</p>
 </td>
@@ -128,23 +121,25 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="4">
 <p></p>
 <h4><strong>Session 2:</strong><br>(A) Complex Traits/Variant Resolution<br>(B) Data Driven Discovery</h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1.30pm - 2.00pm</p>
 </td>
+<td rowspan="1" colspan="3">
+<p>Plenary Talk 2: Patrick Tan</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Plenary Talk</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -158,10 +153,22 @@ description: ""
 <p>2.00pm - 3.25pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Breakout Symposium Talks</p>
+<p>HALL 1: Complex Traits/Variant Resolution</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Session Talk 1: Max Lam</p>
+</li>
+<li>
+<p>Session Talk 2: Jimmy Lee</p>
+</li>
+<li>
+<p>Session Talk 3: Jonathan Berg</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HALL 2 - Data Driven Discovery</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
