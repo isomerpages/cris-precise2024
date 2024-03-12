@@ -34,7 +34,7 @@ description: ""
 <p>9.15am - 9.45am</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Plenary 1: Dame Sue Hill</p>
+<p>Plenary Talk 1: Dame Sue Hill</p>
 </td>
 </tr>
 <tr>
