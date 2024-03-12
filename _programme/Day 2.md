@@ -193,7 +193,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="4">
 <p></p>
-<h4><strong>SESSION 7:&nbsp; </strong></h4>
+<h4><strong>SESSION 7:&nbsp;</strong></h4>
 </td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ description: ""
 <p>4.00pm - 5.25pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>HALL 1: Training/Early Career Scientists</strong> 
+<p><strong>HALL 1: Training/Early Career Scientists</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -251,5 +251,5 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><em>Programme is subject to change without prior notice.</em>
+<p><em>*Programme is accurate as of 13 March 2024.</em>
 </p>
