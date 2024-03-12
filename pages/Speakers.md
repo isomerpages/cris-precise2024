@@ -395,6 +395,16 @@ description: ""
 <div class="isomer-card-title">Prof Aarno Palotie</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Sharon Plon" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Sharon Plon</div>
+</div>
+</div>
 </div>
 <p><em>*Speakers are arranged based on Last Name alphabetical order.</em>
 </p>
