@@ -20,7 +20,7 @@ sections:
           description: Plenaries | Panels | Lightning
           url: /speakers
         - title: abstract submission
-          description: Closing 31 May 2024
+          description: Closing 31 March 2024
           url: /about/abstractsubmission/
         - title: travel information
           description: Getting to Singapore
