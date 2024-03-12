@@ -39,7 +39,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<h4><strong>Session 1: Ethics and Policy</strong></h4>
+<h4><strong>Session 1: </strong>Ethics and Policy</h4>
 </td>
 </tr>
 <tr>
@@ -97,11 +97,17 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
+<h4><strong>Session 3:</strong><br>(a) Cancer Genetics<br>(b) Genomic Screening</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.00pm - 5.20pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Breakout Symposium Talks</p>
 </td>
 </tr>
 <tr>
