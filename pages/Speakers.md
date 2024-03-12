@@ -241,6 +241,160 @@ description: ""
 </div>
 </div>
 </div>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Saumya Jamuar" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Saumya Jamuar</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Joanne Ngeow" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Joanne Ngeow</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Eimear Kenny" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Eimear Kenny</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Max Lam" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Max Lam</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Jimmy Lee" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Jimmy Lee</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Lin Yen Feng" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Lin Yen Feng</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Liu Jianjun" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Liu Jianjun</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Elaine Lo Ah Gi" src="/images/Speaker Photos/Symposium Speakers/Dr_Elaine_Lo_Ah_Gi.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Elaine Lo Ah Gi</div>
+<div class="isomer-card-description">National University Hospital</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Mark McCarthy" src="/images/Speaker Photos/Symposium Speakers/Dr_Mark_McCarthy.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Mark McCarthy</div>
+<div class="isomer-card-description">Genentech</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Michaela Mayrhofer" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Michaela Mayrhofer</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Lyndon Mitnaul" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Lyndon Mitnaul</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Andrew Morris" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Andrew Morris</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Nicola Mulder" src="/images/Speaker Photos/Symposium Speakers/Prof_Nicola_Mulder.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Nicola Mulder</div>
+<div class="isomer-card-description">University of Cape Town</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Vicky Nembaware" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Vicky Nembaware</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Aarno Palotie" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Aarno Palotie</div>
+</div>
+</div>
+</div>
 <p><em>*Speakers are arranged based on Last Name alphabetical order.</em>
 </p>
