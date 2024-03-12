@@ -39,7 +39,7 @@ description: ""
 <p>9.30AM - 10.55am</p>
 </td>
 <td rowspan="1" colspan="3">
-<p><strong>Biobanks for Precision Medicine</strong> 
+<p><strong>Biobanks for Precision Medicine</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -73,7 +73,7 @@ description: ""
 <p>11.15am - 12.40pm</p>
 </td>
 <td rowspan="1" colspan="3">
-<p><strong>Pharmacogenomics</strong> 
+<p><strong>Pharmacogenomics</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
