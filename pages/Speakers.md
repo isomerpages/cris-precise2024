@@ -201,4 +201,5 @@ USA</div>
 </div>
 </div>
 </div>
-<p></p>
+<p><em>*Speakers are arranged based on Last Name alphabetical order.</em>
+</p>
