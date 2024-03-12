@@ -40,9 +40,18 @@ description: ""
 </td>
 <td rowspan="1" colspan="3">
 <p><strong>Biobanks for Precision Medicine</strong> 
-<br>Session Talk 1: Aarno Palotie
-<br>Session Talk 2: Geoff Ginsburg
-<br>Session Talk 3: Zhengmin Chen</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Session Talk 1: Aarno Palotie</p>
+</li>
+<li>
+<p>Session Talk 2: Geoff Ginsburg</p>
+</li>
+<li>
+<p>Session Talk 3: Zhengmin Chen</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -65,9 +74,18 @@ description: ""
 </td>
 <td rowspan="1" colspan="3">
 <p><strong>Pharmacogenomics</strong> 
-<br>Session Talk 1: Elaine Lo
-<br>Session Talk 2: Collet Dandara
-<br>Session Talk 3: Chonlaphat Sukasem</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Session Talk 1: Elaine Lo</p>
+</li>
+<li>
+<p>Session Talk 2: Collet Dandara</p>
+</li>
+<li>
+<p>Session Talk 3: Chonlaphat Sukasem</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -75,44 +93,55 @@ description: ""
 <p>12.40pm - 2.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Hall 1: Lunch Time Talk</strong>
+<p><strong>Hall 1: Lunch Time Industry Talk</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Industry Talk 1</p>
+<p>Talk 1</p>
 </li>
 <li>
-<p>Industry Talk 2</p>
+<p>Talk 2</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Hall 2: Lunch Time Talk</strong>
+<p><strong>Hall 2: Lunch Time Industry Talk</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Industry Talk 1</p>
+<p>Talk 1</p>
 </li>
 <li>
-<p>Industry Talk 2</p>
+<p>Talk 2</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Hall 3: Lunch Time: Lightning Talk (Early Career Sci)</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Talk 1</p>
+</li>
+<li>
+<p>Talk 2</p>
+</li>
+<li>
+<p>Talk 3</p>
+</li>
+<li>
+<p>Talk 4</p>
+</li>
+<li>
+<p>Talk 5</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="4">
 <p></p>
-<h4><strong>Session 6:</strong><br>(a) Rare Diseases<br>(b) Biobanks for Precision Medicine</h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<h4><strong>Session 6:</strong></h4>
 </td>
 </tr>
 <tr>
@@ -120,10 +149,34 @@ description: ""
 <p>2.00pm - 3.25pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Breakout Symposium Talks</p>
+<p><strong>HALL 1: Rare Diseases</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Session Talk 1: Saumya Jamuar</p>
+</li>
+<li>
+<p>Session Talk 2: Claudia Gonzaga-Juaregui</p>
+</li>
+<li>
+<p>Session Talk 3: Gabriela Repetto</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>HALL 2: Biobanks for Precision Medicine</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Session Talk 1: Lin Yen Feng</p>
+</li>
+<li>
+<p>Session Talk 2: John Chambers</p>
+</li>
+<li>
+<p>Session Talk 3: Masayuki Yamamoto</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
