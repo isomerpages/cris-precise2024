@@ -57,9 +57,18 @@ description: ""
 </td>
 <td rowspan="1" colspan="3">
 <p><strong>Ethics and Policy</strong> 
-<br>Session Talk 1: Julian Savulescu
-<br>Session Talk 2: Angela Ballantyne
-<br>Session Talk 3: Michaela Mayrhofer</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Session Talk 1: Julian Savulescu</p>
+</li>
+<li>
+<p>Session Talk 2: Angela Ballantyne</p>
+</li>
+<li>
+<p>Session Talk 3: Michaela Mayrhofer</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
