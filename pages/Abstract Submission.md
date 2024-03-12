@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Call For Abstract Submissions</strong></h3>
-<h4>You are invited to submit your abstracts for poster presentations. Abstracts may also stand a chance to be shortlisted for an oral presentation at the Conference! </h4>
+<h4>You are invited to submit your abstracts for poster presentations. Abstracts may also stand a chance to be shortlisted for an oral presentation at the Conference!</h4>
 <p></p>
 <hr>
 <p></p>
@@ -46,9 +46,3 @@ an oral presentation.</p>
 <p>Please submit your abstract <a href="https://form.gov.sg/65681f27991ea30012ec9845" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
 <p>We look forward to your participation at the PRECISE-IHCC Conference 2024!</p>
 <p>For queries, please contact us at <a href="https://form.gov.sg/65681f27991ea30012ec9845" rel="noopener noreferrer nofollow" target="_blank"><u>events@precise.cris.sg</u></a>.</p>
-<p></p>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
