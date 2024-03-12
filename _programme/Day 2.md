@@ -22,16 +22,23 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09.00am - 09.45am</p>
+<p>09.00am - 09.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Programme Opening
-<br>Plenary Talk</p>
+<p>Plenary Talk</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09.45am - 10.15am</p>
+<p>09.30AM - 10.55am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Symposium Talks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.55am - 11.15am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teabreak Networking Session</p>
@@ -40,12 +47,12 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<h4><strong>Session 1: </strong>Ethics and Policy</h4>
+<h4><strong>Session 4: </strong>Biobanks for Precision Medicine</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.15am - 11.40am</p>
+<p>11.15am - 12.40pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Symposium Talks</p>
@@ -53,15 +60,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.40am - 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Poster Session</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12.00pm - 1.30pm</p>
+<p>12.35pm - 2.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lunch and Breakout Industry Talks</p>
@@ -70,7 +69,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<h4><strong>Session 2:</strong><br>(A) Complex Traits/Variant Resolution<br>(B) Data Driven Discovery</h4>
+<h4><strong>Session 5: </strong>Pharmacogenomics</h4>
 </td>
 </tr>
 <tr>
@@ -100,7 +99,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<h4><strong>Session 3:</strong><br>(a) Cancer Genetics<br>(b) Genomic Screening</h4>
+<h4><strong>Session 6:</strong><br>(a) Rare Diseases<br>(b) Biobanks for Precision Medicine</h4>
 </td>
 </tr>
 <tr>
