@@ -8,7 +8,8 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4>DAY 1 - AUGUST 21, 2024</h4>
+<h4><strong>DAY 1 - AUGUST 21, 2024 (WEDNESDAY)</strong></h4>
+<p></p>
 </th>
 </tr>
 <tr>
