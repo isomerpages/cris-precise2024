@@ -66,7 +66,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.35pm - 2.00pm</p>
+<p>12.40pm - 2.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lunch and Breakout Industry Talks</p>
