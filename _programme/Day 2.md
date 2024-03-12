@@ -97,39 +97,15 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<p></p>
+<h4><strong>SESSION 7:&nbsp; </strong><br>(a) Training/Early Career Scientists<br>(b) Genomic/precision medicine for therapeutic R&amp;D</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4.00pm - 5.25pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Breakout Symposium Talks</p>
 </td>
 </tr>
 <tr>
