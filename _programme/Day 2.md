@@ -149,7 +149,7 @@ description: ""
 <p>2.00pm - 3.25pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>HALL 1: Rare Diseases</strong>
+<p><strong>Hall 1: Rare Diseases</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -164,7 +164,7 @@ description: ""
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>HALL 2: Biobanks for Precision Medicine</strong>
+<p><strong>Hall 2: Biobanks for Precision Medicine</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -201,7 +201,7 @@ description: ""
 <p>4.00pm - 5.25pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>HALL 1: Training/Early Career Scientists</strong>
+<p><strong>Hall 1: Training/Early Career Scientists</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -216,7 +216,7 @@ description: ""
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>HALL 2: Genomic/precision medicine for therapeutic R&amp;D</strong>
+<p><strong>Hall 2: Genomic/precision medicine for therapeutic R&amp;D</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
