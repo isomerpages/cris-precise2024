@@ -119,3 +119,5 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<p><em>Programme is subject to change without prior notice.</em>
+</p>
