@@ -8,111 +8,104 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
+<h4><strong>DAY 3 - AUGUST 23, 2024 (FRIDAY)</strong></h4>
 <p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>08.30am - 9.00am</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Registration</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p></p>
+<h4><strong>Session 8: </strong>Genomic Diversity</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>09.00am - 09.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Plenary Talk</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>09.30AM - 10.55am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Symposium Talks</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10.55am - 11.15am</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Teabreak Networking Session</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p></p>
+<h4><strong>Session 9: </strong>Population Health</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11.15am - 12.40pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Symposium Talks</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>12.40pm - 2.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Lunch and Breakout Industry Talks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p></p>
+<h4><strong>Session 6:</strong><br>(a) Rare Diseases<br>(b) Biobanks for Precision Medicine</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2.00pm - 3.25pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Breakout Symposium Talks</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3.25pm - 4.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Teabreak Networking Session</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p></p>
+<h4><strong>SESSION 7:&nbsp; </strong><br>(a) Training/Early Career Scientists<br>(b) Genomic/precision medicine for therapeutic R&amp;D</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4.00pm - 5.25pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Breakout Symposium Talks</p>
 </td>
 </tr>
 <tr>
