@@ -21,5 +21,12 @@ as strategic partnerships between research institutes, corporates, and
 public hospitals yield new medicines and therapies for regional and global
 markets.</p>
 <p></p>
+<h3><strong>Entering Singapore</strong></h3>
+<p>To ensure a smooth journey, travellers seeking to enter Singapore should
+comply with the prevailing Entry and Public Health requirements.</p>
+<p>Please refer to the Immigrations and Checkpoints Authority of Singapore(ICA)
+webpage more information: <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" rel="noopener noreferrer nofollow" target="_blank">https://www.ica.gov.sg/enter-transit-depart/entering-singapore</a>
+</p>
+<p></p>
 <h3><strong>Conference Venue</strong></h3>
 <p></p>
