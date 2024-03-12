@@ -5,9 +5,14 @@ permalink: /contact-us/
 agency_name: the PRECISE-IHCC Conference Secretariat
 contacts:
   - content:
-      - phone: +65 6123 4563
-      - email: event@email.com
+      - phone: +65 6338 7984
+      - email: precise-ihcc@events-sp.com
       - other: ""
-    title: Event Secretariat
+    title: Conference Secretariat
+  - content:
+      - phone: +65 6338 7984
+      - email: peter_ivan@events-sp.com
+      - other: ""
+    title: Sponsorship Secretariat
 feedback: ""
 ---
