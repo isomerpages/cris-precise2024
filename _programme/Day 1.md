@@ -56,7 +56,7 @@ description: ""
 <p>10.15am - 11.40am</p>
 </td>
 <td rowspan="1" colspan="3">
-<p><strong><u>Ethics and Policy</u></strong>
+<p><strong><u>Ethics and Policy</u></strong> 
 <br>Session Talk 1: Julian Savulescu
 <br>Session Talk 2: Angela Ballantyne
 <br>Session Talk 3: Michaela Mayrhofer</p>
@@ -136,25 +136,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2.00pm - 3.25pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HALL 1: Complex Traits/Variant Resolution</p>
-<p></p>
+<p><strong>HALL 1: Complex Traits/Variant Resolution</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Session Talk 1: Max Lam</p>
@@ -168,7 +154,19 @@ description: ""
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>HALL 2 - Data Driven Discovery</p>
+<p><strong>HALL 2 - Data Driven Discovery</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Session Talk 1: Steven Brenner</p>
+</li>
+<li>
+<p>Session Talk 2: Rob Yang</p>
+</li>
+<li>
+<p>Session Talk 3: Heidi Rehm</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
