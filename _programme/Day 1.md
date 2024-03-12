@@ -48,7 +48,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="4">
 <p></p>
-<h4><strong>Session 1: </strong></h4>
+<h4><strong>Session 1:</strong></h4>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ description: ""
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Hall 2: Lunch Time Talk</strong> 
+<p><strong>Hall 2: Lunch Time Talk</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
