@@ -39,7 +39,7 @@ description: ""
 <p>9.30AM - 10.55am</p>
 </td>
 <td rowspan="1" colspan="3">
-<p><strong>Biobanks for Precision Medicine</strong>
+<p><strong>Biobanks for Precision Medicine</strong> 
 <br>Session Talk 1: Aarno Palotie
 <br>Session Talk 2: Geoff Ginsburg
 <br>Session Talk 3: Zhengmin Chen</p>
@@ -56,7 +56,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="4">
 <p></p>
-<h4><strong>Session 5: </strong></h4>
+<h4><strong>Session 5:</strong></h4>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ description: ""
 <p>11.15am - 12.40pm</p>
 </td>
 <td rowspan="1" colspan="3">
-<p><strong>Pharmacogenomics</strong>
+<p><strong>Pharmacogenomics</strong> 
 <br>Session Talk 1: Elaine Lo
 <br>Session Talk 2: Collet Dandara
 <br>Session Talk 3: Chonlaphat Sukasem</p>
@@ -75,13 +75,32 @@ description: ""
 <p>12.40pm - 2.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lunch and Breakout Industry Talks</p>
+<p><strong>Hall 1: Lunch Time Talk</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Industry Talk 1</p>
+</li>
+<li>
+<p>Industry Talk 2</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Hall 2: Lunch Time Talk</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Industry Talk 1</p>
+</li>
+<li>
+<p>Industry Talk 2</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Hall 3: Lunch Time: Lightning Talk (Early Career Sci)</strong>
+</p>
 </td>
 </tr>
 <tr>
