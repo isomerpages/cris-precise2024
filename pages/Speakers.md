@@ -68,6 +68,46 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Jonathan Berg" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Jonathan Berg</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Nicolas Bertin" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Nicolas Bertin</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Steven Brenner" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Steven Brenner</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Yasmin Bylstra" src="/images/Speaker Photos/Speaker_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Yasmin Bylstra</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Prof Collet Dandara" src="/images/Speaker Photos/Symposium Speakers/Prof_Collet_Dandara.jpg">
 </div>
 </div>
