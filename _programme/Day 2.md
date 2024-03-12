@@ -36,7 +36,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.30AM - 10.55am</p>
+<p>9.30am - 10.55am</p>
 </td>
 <td rowspan="1" colspan="3">
 <p><strong>Biobanks for Precision Medicine</strong>
