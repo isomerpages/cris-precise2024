@@ -79,7 +79,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Guillermo Del Angel" src="/images/Speaker Photos/Symposium Speakers/Dr_Guillermo_Del_Angel.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Guillermo Del Angel" src="/images/Speaker Photos/Speaker_Photo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -156,7 +156,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Fatima Qafoud" src="/images/Speaker Photos/Symposium Speakers/Dr_Fatima_Qafoud.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Fatima Qafoud" src="/images/Speaker Photos/Speaker_Photo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
