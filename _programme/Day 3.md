@@ -75,7 +75,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<h4><strong>Session 6:</strong><br>(a) Rare Diseases<br>(b) Biobanks for Precision Medicine</h4>
+<h4><strong>Session 10:</strong><br>(a) Genetic Counseling &amp; Community<br>(b) From Cohorts to Data Validation</h4>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<h4><strong>SESSION 7:&nbsp; </strong><br>(a) Training/Early Career Scientists<br>(b) Genomic/precision medicine for therapeutic R&amp;D</h4>
+<h4><strong>SESSION 11:&nbsp; </strong><br>(a) Research in LMICs<br>(b) Genomic Science in Cohorts</h4>
 </td>
 </tr>
 <tr>
@@ -106,14 +106,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Breakout Symposium Talks</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
