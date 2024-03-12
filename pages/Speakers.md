@@ -113,11 +113,11 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Elaine Ah Gi Lo" src="/images/Speaker Photos/Symposium Speakers/Dr_Elaine_Lo_Ah_Gi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Elaine Lo Ah Gi" src="/images/Speaker Photos/Symposium Speakers/Dr_Elaine_Lo_Ah_Gi.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Elaine Ah Gi Lo</div>
+<div class="isomer-card-title">Dr Elaine Lo Ah Gi</div>
 <div class="isomer-card-description">National University Hospital</div>
 </div>
 </div>
