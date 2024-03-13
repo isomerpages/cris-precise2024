@@ -9,7 +9,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Assoc Prof Jonathan Berg" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Assoc Prof Jonathan Berg" src="/images/Speaker Photos/Jonathan_Berg.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -20,7 +20,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Jimmy Lee Chee Keong" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Jimmy Lee Chee Keong" src="/images/Speaker Photos/Jimmy_Lee_Chee_Keong.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -31,7 +31,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Wong Lim Soon" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Wong Lim Soon" src="/images/Speaker Photos/Wong_Lim_Soon.png">
 </div>
 </div>
 <div class="isomer-card-body">
