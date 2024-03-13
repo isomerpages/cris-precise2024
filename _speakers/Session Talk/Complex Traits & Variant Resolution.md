@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Session Talk
 ---
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
