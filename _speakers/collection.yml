@@ -2,7 +2,7 @@ collections:
   speakers:
     output: true
     order:
-      - Plenary Speakers.md
+      - Plenary.md
       - Biobanks for Precision Medicine.md
       - Cancer Genetics.md
       - Complex Traits & Variant Resolution.md
