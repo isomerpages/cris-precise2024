@@ -40,5 +40,7 @@ third_nav_title: Session Talk
 </div>
 </div>
 </div>
+<p><a href="/speakers/overview" rel="noopener noreferrer nofollow" target="_blank">Back to Overview</a>
+</p>
 <p><em>*Speakers are arranged in alphabetical order by last name. Speaker information is accurate as of 13 March 2024.</em>
 </p>
