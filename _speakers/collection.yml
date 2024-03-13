@@ -2,5 +2,6 @@ collections:
   speakers:
     output: true
     order:
+      - Complex Traits & Variant Resolution.md
       - Plenary Speakers.md
       - Ethics and Policy.md
