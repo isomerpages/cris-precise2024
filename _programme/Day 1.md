@@ -207,10 +207,10 @@ description: ""
 <p>Session Talk 1: Joanne Ngeow</p>
 </li>
 <li>
-<p>Session Talk 2: Will Foulkes</p>
+<p>Session Talk 2: William Foulkes</p>
 </li>
 <li>
-<p>Session Talk 3: Soo-Hwang Teo</p>
+<p>Session Talk 3: Teo Soo-Hwang</p>
 </li>
 </ul>
 </td>
@@ -219,13 +219,13 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Session Talk 1: CHIEN Yin Hsiu</p>
+<p>Session Talk 1: Chien Yin Hsiu</p>
 </li>
 <li>
 <p>Session Talk 2: Martin Delatycki</p>
 </li>
 <li>
-<p>Session Talk 3: MK Thong</p>
+<p>Session Talk 3: Thong Meow-Keong</p>
 </li>
 </ul>
 <p></p>
