@@ -9,7 +9,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Eva Maria Cutiongco-Dela Paz" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Eva Maria Cutiongco-Dela Paz" src="/images/Speaker Photos/Eva_Maria_Cutiongco_Dela_Paz.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -20,7 +20,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Nicola C Tiffin" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Nicola C Tiffin" src="/images/Speaker Photos/Nicola_C_Tiffin.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -31,7 +31,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Janewi Wongboonsin" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Janewi Wongboonsin" src="/images/Speaker Photos/Janewit_Wongboonsin.png">
 </div>
 </div>
 <div class="isomer-card-body">
