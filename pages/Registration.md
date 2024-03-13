@@ -4,7 +4,7 @@ permalink: /registration/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Registration Fees</strong></h3>
+<h2><strong>Registration Fees</strong></h2>
 <p></p>
 <table>
 <tbody>
