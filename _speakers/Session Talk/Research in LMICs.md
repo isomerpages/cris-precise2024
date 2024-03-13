@@ -31,7 +31,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Janewi Wongboonsin" src="/images/Speaker Photos/Janewit_Wongboonsin.png">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Janewit Wongboonsin" src="/images/Speaker Photos/Janewit_Wongboonsin.png">
 </div>
 </div>
 <div class="isomer-card-body">
