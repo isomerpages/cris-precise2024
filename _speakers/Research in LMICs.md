@@ -20,6 +20,17 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Nicola C Tiffin" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Nicola C Tiffin</div>
+<div class="isomer-card-description">South African National Bioinformatics Institute (SANBI)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Janewi Wongboonsin" src="https://placehold.co/600x400">
 </div>
 </div>
@@ -28,17 +39,6 @@ description: ""
 <div class="isomer-card-description">Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol
 Univeristy, Thailand | Renal division, Brigham and Women's Hospital, Boston,
 USA</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Nicola C Tiffin" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Prof Nicola C Tiffin</div>
-<div class="isomer-card-description">South African National Bioinformatics Institute (SANBI)</div>
 </div>
 </div>
 </div>
