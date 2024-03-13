@@ -9,7 +9,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Assoc Prof Angela Ballantyne" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Assoc Prof Angela Ballantyne" src="/images/Speaker Photos/Angela_Ballantyne.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -20,7 +20,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Michaela Mayrhofer" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Michaela Mayrhofer" src="/images/Speaker Photos/Michaela_Mayrhofer.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -31,7 +31,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Julian Savulescu" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Julian Savulescu" src="/images/Speaker Photos/Julian_Savulescu.png">
 </div>
 </div>
 <div class="isomer-card-body">
