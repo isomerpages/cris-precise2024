@@ -11,7 +11,7 @@ sections:
       subtitle: "From Cohorts to Clinics: The New Landscape of Global Healthcare"
       background: /images/IHCC_Banner_BG_1920_x_720_01.jpg
       button: REGISTER NOW
-      url: /register
+      url: /registration
       key_highlights:
         - title: Programme
           description: 21-23 Aug 2024
