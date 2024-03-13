@@ -2,5 +2,5 @@ collections:
   speakers:
     output: true
     order:
-      - Ethics and Policy.md
       - Plenary Speakers.md
+      - Ethics and Policy.md
