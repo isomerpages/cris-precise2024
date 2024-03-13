@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Session Talk/Population Health.md
       - Session Talk/Pharmacogenomics.md
       - Session Talk/Genomic Screening.md
       - Session Talk/Genomic Science in Cohorts.md
