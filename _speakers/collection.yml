@@ -2,20 +2,20 @@ collections:
   speakers:
     output: true
     order:
-      - Genomic Science in Cohorts.md
-      - Research in LMICs.md
+      - Plenary Speakers.md
+      - Biobanks for Precision Medicine.md
+      - Cancer Genetics.md
+      - Complex Traits & Variant Resolution.md
+      - Ethics and Policy.md
       - From Cohorts to Data Validation.md
       - Genetic Counseling & Community Engagement.md
-      - Population Health.md
       - Genomic Diversity.md
-      - Training & Early Career Scientists.md
-      - Therapeutics.md
-      - Rare Diseases.md
+      - Genomic Science in Cohorts.md
       - Pharmacogenomics.md
-      - Biobanks for Precision Medicine.md
+      - Population Health.md
+      - Rare Diseases.md
+      - Research in LMICs.md
+      - Therapeutics.md
+      - Training & Early Career Scientists.md
       - Genomic Screening.md
-      - Cancer Genetics.md
       - Data Driven Discovery.md
-      - Complex Traits & Variant Resolution.md
-      - Plenary Speakers.md
-      - Ethics and Policy.md
