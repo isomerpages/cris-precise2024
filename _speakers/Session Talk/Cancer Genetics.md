@@ -9,7 +9,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof William Foulkes" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof William Foulkes" src="/images/Speaker Photos/Will_Foulkes.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -20,7 +20,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Joanne Ngeow" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Joanne Ngeow" src="/images/Speaker Photos/Joanne_Ngeow.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -31,7 +31,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Datin Paduka Dr Teo Soo-Hwang" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Datin Paduka Dr Teo Soo-Hwang" src="/images/Speaker Photos/Soo_Hwang_Teo.png">
 </div>
 </div>
 <div class="isomer-card-body">
