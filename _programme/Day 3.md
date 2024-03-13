@@ -159,7 +159,7 @@ description: ""
 <p>Session Talk 2: Mary-Ann Young</p>
 </li>
 <li>
-<p>Session Talk 3: Sook-Yee Yoon</p>
+<p>Session Talk 3: Yoon Sook-Yee</p>
 </li>
 </ul>
 </td>
