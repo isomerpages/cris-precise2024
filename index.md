@@ -18,7 +18,7 @@ sections:
           url: /programme/day1
         - title: Speakers
           description: Plenaries | Panels | Lightning
-          url: /speakers/plenary
+          url: /speakers/speakers
         - title: abstract submission
           description: Closing 31 March 2024
           url: /abstractsubmission/
