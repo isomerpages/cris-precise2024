@@ -30,7 +30,7 @@ description: ""
 <div class="isomer-card-link">View</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/speakers/session-talk/rare-diseases" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Session 6: Rare Diseases</div><div class="isomer-card-link">View</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/speakers/therapeutics" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/speakers/session-talk/therapeutics" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Session 7: Genomic/precision medicine for therapeutic R&amp;D</div>
 <div class="isomer-card-link">View</div>
