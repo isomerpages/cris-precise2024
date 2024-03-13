@@ -12,7 +12,7 @@ description: ""
 <div class="isomer-card-link">View</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/speakers/session-talk/complex-traits-and-variant-resolution" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Session 2: Complex Traits &amp; Variant Resolution</div><div class="isomer-card-link">View</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/speakers/session-talk/data-driven-discovery" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/speakers/data-driven-discovery" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Session 2: Data Driven Discovery</div>
 <div class="isomer-card-link">View</div>
