@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Genetic Counseling & Community Engagement.md
       - Population Health.md
       - Genomic Diversity.md
       - Training & Early Career Scientists.md
