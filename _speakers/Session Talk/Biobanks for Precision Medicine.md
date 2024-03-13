@@ -9,7 +9,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Chen Zhengming" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Chen Zhengming" src="/images/Speaker Photos/Zhengming_Chen.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -20,7 +20,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Geoffrey Ginsburg" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Geoffrey Ginsburg" src="/images/Speaker Photos/Geoffrey_Ginsburg.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -31,7 +31,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Lin Yen Feng" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Lin Yen Feng" src="/images/Speaker Photos/Lin_Yen_Feng.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -42,7 +42,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Aarno Palotie" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Aarno Palotie" src="/images/Speaker Photos/Aarno_Palotie.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -53,7 +53,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Tai E Shyong" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Tai E Shyong" src="/images/Speaker Photos/Tai_E_Shyong.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -64,7 +64,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Masayuki Yamamoto" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Masayuki Yamamoto" src="/images/Speaker Photos/Masayuki_Yamamoto.png">
 </div>
 </div>
 <div class="isomer-card-body">
