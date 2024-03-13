@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/speakers/plenary/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Plenary Speakers</div><div class="isomer-card-link">View</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/speakers/plenary" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Plenary Speakers</div><div class="isomer-card-link">View</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://preciseihcc-conference.sg/speakers/biobanks-for-precision-medicine/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Biobanks for Precision Medicine</div>
