@@ -9,7 +9,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Andrew Morris" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Andrew Morris" src="/images/Speaker Photos/Andrew_Morris.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -20,7 +20,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Nicola Mulder" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Nicola Mulder" src="/images/Speaker Photos/Nicola_Mulder.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -31,7 +31,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Fatima Qafoud" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Fatima Qafoud" src="/images/Speaker Photos/Fatima_Qafoud.png">
 </div>
 </div>
 <div class="isomer-card-body">
