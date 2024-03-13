@@ -9,7 +9,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Yasmin Bylstra" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Yasmin Bylstra" src="/images/Speaker Photos/Yasmin_Bylstra_2.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -20,7 +20,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Yoon Sook-Yee" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Yoon Sook-Yee" src="/images/Speaker Photos/Sook_Yee_Yoon.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -31,7 +31,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mary-Anne Young" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mary-Anne Young" src="/images/Speaker Photos/Mary_Anne_Young.png">
 </div>
 </div>
 <div class="isomer-card-body">
