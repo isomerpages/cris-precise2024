@@ -193,7 +193,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<h4><strong>SESSION 11:&nbsp;</strong></h4>
+<h4><strong>Session 11:&nbsp;</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
