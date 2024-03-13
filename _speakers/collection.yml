@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Session Talk/Genomic Science in Cohorts.md
       - Session Talk/Genomic Diversity.md
       - Session Talk/Genetic Counseling & Community Engagement.md
       - Session Talk/From Cohorts to Data Validation.md
