@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Genomic Science in Cohorts.md
       - Research in LMICs.md
       - From Cohorts to Data Validation.md
       - Genetic Counseling & Community Engagement.md
