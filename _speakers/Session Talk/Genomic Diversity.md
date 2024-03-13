@@ -9,7 +9,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Andres Moreno-Estrada" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Andres Moreno-Estrada" src="/images/Speaker Photos/Andres_Moreno_Estrada.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -20,7 +20,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Paul Thompson" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Paul Thompson" src="/images/Speaker Photos/Paul_Thompson.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -31,7 +31,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Asst Prof Biju Viswanath" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Asst Prof Biju Viswanath" src="/images/Speaker Photos/Biju_Viswanath.png">
 </div>
 </div>
 <div class="isomer-card-body">
