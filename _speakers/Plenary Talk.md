@@ -50,7 +50,8 @@ description: ""
 </div>
 </div>
 </div>
-<p></p>
+<p><a href="/speakers/overview" rel="noopener noreferrer nofollow" target="_blank">Back to Overview</a>
+</p>
 <h3></h3>
 <p><em>*Speakers are arranged in alphabetical order by last name. Speaker information is accurate as of 13 March 2024.</em>
 </p>
