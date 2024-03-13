@@ -49,7 +49,7 @@ description: ""
 <p>Session Talk 2: Geoff Ginsburg</p>
 </li>
 <li>
-<p>Session Talk 3: Zhengmin Chen</p>
+<p>Session Talk 3: Chen Zhengmin</p>
 </li>
 </ul>
 </td>
@@ -211,7 +211,7 @@ description: ""
 <p>Session Talk 2: Richard Haspel</p>
 </li>
 <li>
-<p>Session Talk 3: Vicky Nembarawe</p>
+<p>Session Talk 3: Vicky Nembaware</p>
 </li>
 </ul>
 </td>
