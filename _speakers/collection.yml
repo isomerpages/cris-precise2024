@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Cancer Genetics.md
       - Data Driven Discovery.md
       - Complex Traits & Variant Resolution.md
       - Plenary Speakers.md
