@@ -5,13 +5,13 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/speakers/plenary" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Plenary Talk</div><div class="isomer-card-link">View</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/speakers/plenary-talk" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Plenary Talk</div><div class="isomer-card-link">View</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/speakers/session-talk/ethics-and-policy" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Session 1: Ethics and Policy</div>
 <div class="isomer-card-link">View</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/speakers/complex-traits-and-variant-resolution" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Session 2: Complex Traits &amp; Variant Resolution</div><div class="isomer-card-link">View</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/speakers/session-talk/complex-traits-and-variant-resolution" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Session 2: Complex Traits &amp; Variant Resolution</div><div class="isomer-card-link">View</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/speakers/session-talk/data-driven-discovery" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Session 2: Data Driven Discovery</div>
