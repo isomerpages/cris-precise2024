@@ -42,4 +42,5 @@ USA</div>
 </div>
 </div>
 </div>
-<p></p>
+<p><em>*Speakers are arranged in alphabetical order by last name. Speaker information is accurate as of 13 March 2024.</em>
+</p>
