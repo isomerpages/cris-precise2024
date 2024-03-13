@@ -4,6 +4,8 @@ permalink: /registration/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Registration Fees</strong></h3>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -11,10 +13,10 @@ description: ""
 <h4><strong>Categories</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><strong>Standard Registration</strong><br>(By 14 Aug)</h4>
+<h4><strong><u>Standard Registration</u></strong><br>(By 14 Aug)</h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><strong>Onsite Registration</strong><br>(From 21 to 23 Aug)</h4>
+<h4><strong><u>Onsite Registration</u></strong><br>(From 21 to 23 Aug)</h4>
 </th>
 </tr>
 <tr>
