@@ -31,11 +31,11 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Vicky Nembarawe" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Vicky Nembaware" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Vicky Nembarawe</div>
+<div class="isomer-card-title">Dr Vicky Nembaware</div>
 <div class="isomer-card-description">Sickle Africa Data Coordinating Center (SADaCC)</div>
 </div>
 </div>
