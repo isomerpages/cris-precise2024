@@ -214,7 +214,7 @@ description: ""
 <p>Session Talk 1: Eva Maria Cutiongco-Dela Paz</p>
 </li>
 <li>
-<p>Session Talk 2: Janewi Wongboonsin</p>
+<p>Session Talk 2: Janewit Wongboonsin</p>
 </li>
 <li>
 <p>Session Talk 3: Nicola C Tiffin</p>
