@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Session Talk/Research in LMICs.md
       - Session Talk/Rare Diseases.md
       - Session Talk/Population Health.md
       - Session Talk/Pharmacogenomics.md
