@@ -9,7 +9,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Nicolas Bertin" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Nicolas Bertin" src="/images/Speaker Photos/Nicolas_Bertin.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -20,7 +20,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Adj Asst Prof Max Lam" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Adj Asst Prof Max Lam" src="/images/Speaker Photos/Max_Lam.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -31,7 +31,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Liu Jian Jun" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Liu Jian Jun" src="/images/Speaker Photos/Liu_Jian_Jun.png">
 </div>
 </div>
 <div class="isomer-card-body">
