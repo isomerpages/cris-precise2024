@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Therapeutics.md
       - Rare Diseases.md
       - Pharmacogenomics.md
       - Biobanks for Precision Medicine.md
