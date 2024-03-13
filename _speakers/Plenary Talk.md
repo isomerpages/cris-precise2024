@@ -4,8 +4,6 @@ permalink: /speakers/plenary-talk/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Plenary Speakers</strong></h3>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
