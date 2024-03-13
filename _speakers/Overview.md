@@ -12,19 +12,17 @@ description: ""
 <div class="isomer-card-link">View</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://preciseihcc-conference.sg/speakers/cancer-genetics/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Cancer Genetics</div><div class="isomer-card-link">View</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://preciseihcc-conference.sg/speakers/complex-traits-and-variant-resolution/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Complex Traits &amp; Variant Resolution</div>
+<div class="isomer-card-link">View</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://preciseihcc-conference.sg/speakers/data-driven-discovery/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Data Driven Discovery</div><div class="isomer-card-link">View</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://preciseihcc-conference.sg/speakers/ethics-and-policy/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Ethics and Policy</div>
+<div class="isomer-card-link">View</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://preciseihcc-conference.sg/speakers/from-cohorts-to-data-validation/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">From Cohorts to Data Validation</div><div class="isomer-card-link">View</div></div></a>
 </div>
 <p></p>
