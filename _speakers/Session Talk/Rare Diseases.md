@@ -9,7 +9,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Claudia Gonzaga-Jauregui" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Claudia Gonzaga-Jauregui" src="/images/Speaker Photos/Claudia_Gonzaga_Juaregui.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -20,7 +20,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Saumya Jamuar" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Saumya Jamuar" src="/images/Speaker Photos/Saumya_Jamuar.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -31,7 +31,7 @@ third_nav_title: Session Talk
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Gabriela Repetto" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Gabriela Repetto" src="/images/Speaker Photos/Gabriela_Repetto.png">
 </div>
 </div>
 <div class="isomer-card-body">
