@@ -31,22 +31,22 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Lin Yen Feng" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Lin Yen Feng" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Lin Yen Feng</div>
+<div class="isomer-card-title">Prof Lin Yen Feng</div>
 <div class="isomer-card-description">National Health Research Institute, Taiwan</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Aarno Palotie" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Aarno Palotie" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Aarno Palotie</div>
+<div class="isomer-card-title">Prof Aarno Palotie</div>
 <div class="isomer-card-description">Massachusetts General Hospital</div>
 </div>
 </div>
