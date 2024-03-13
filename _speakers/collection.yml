@@ -2,6 +2,8 @@ collections:
   speakers:
     output: true
     order:
+      - Overview.md
+      - Plenary.md
       - Session Talk/.keep
       - Session Talk/Biobanks for Precision Medicine.md
       - Session Talk/Cancer Genetics.md
@@ -19,5 +21,3 @@ collections:
       - Session Talk/Research in LMICs.md
       - Session Talk/Therapeutics.md
       - Session Talk/Training & Early Career Scientists.md
-      - Overview.md
-      - Plenary.md
