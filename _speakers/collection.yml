@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Session Talk/Biobanks for Precision Medicine.md
       - Session Talk/.keep
       - Overview.md
       - Plenary.md
