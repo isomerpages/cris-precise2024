@@ -9,6 +9,6 @@ links:
   - title: Programme
     collection: programme
   - title: Speakers
-    url: speakers
+    collection: speakers
   - title: Contact
     url: /contact-us/
