@@ -59,11 +59,6 @@ sections:
       url: /programme
       image: /images/1698735745264.jpeg
       alt: Image alt text
-  - infobar:
-      title: Get your passes now!
-      id: infobar
-      button: register
-      url: /registration
   - announcements:
       title: Important Dates to Note
       id: announcements
@@ -83,4 +78,9 @@ sections:
           announcement: Wednesday, August 21, 2024 to Friday, August 23, 2024
           link_text: Click here for more information on the Programme
           link_url: programme/day1
+  - infobar:
+      title: Get your passes now!
+      id: infobar
+      button: register
+      url: /registration
 ---
