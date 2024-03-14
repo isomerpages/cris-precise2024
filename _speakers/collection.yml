@@ -4,6 +4,7 @@ collections:
     order:
       - Overview.md
       - Plenary Talk.md
+      - Session Talk/Data Driven Discovery.md
       - Session Talk/.keep
       - Session Talk/Biobanks for Precision Medicine.md
       - Session Talk/Cancer Genetics.md
