@@ -35,7 +35,7 @@ third_nav_title: Session Talk
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Janewi Wongboonsin</div>
+<div class="isomer-card-title">Dr Janewit Wongboonsin</div>
 <div class="isomer-card-description">Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol
 Univeristy, Thailand | Renal division, Brigham and Women's Hospital, Boston,
 USA</div>
