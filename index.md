@@ -46,7 +46,7 @@ sections:
         the world at the forefront of the precision medicine space.
       button: find out more
       url: /speakers
-      image: /images/1698746104107.jpeg
+      image: /images/Plenary_Speakers.png
       alt: Image alt text
   - infopic:
       title: Showcase of global precision medicine advancements
