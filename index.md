@@ -61,10 +61,9 @@ sections:
       alt: Image alt text
   - infobar:
       title: Get your passes now!
-      subtitle: early bird until 31 mar 2024
       id: infobar
       button: register
-      url: /register
+      url: /registration
   - announcements:
       title: Important Dates to Note
       id: announcements
@@ -84,4 +83,8 @@ sections:
           announcement: Wednesday, August 21, 2024 to Friday, August 23, 2024
           link_text: Click here for more information on the Programme
           link_url: programme/day1
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
