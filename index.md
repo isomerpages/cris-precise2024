@@ -57,7 +57,7 @@ sections:
         and beneficial worldwide.
       button: programme
       url: /programme
-      image: /images/1698735745264.jpeg
+      image: /images/Showcase.png
       alt: Image alt text
   - announcements:
       title: Important Dates to Note
