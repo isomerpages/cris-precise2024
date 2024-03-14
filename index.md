@@ -35,9 +35,8 @@ sections:
         advances in precision medicine to reshape the landscape of modern
         healthcare.
       button: Register now
-      url: /about
+      url: /registration
       image: /images/photo_1562503542_2a1e6f03b16b.jpeg
-      alt: Image alt text
   - infopic:
       title: Plenaries, Panels and Lightning Sessions
       subtitle: meet our speakers
@@ -45,9 +44,8 @@ sections:
       description: Learn from thought leaders, policy makers, and researchers around
         the world at the forefront of the precision medicine space.
       button: find out more
-      url: /speakers
+      url: /speakers/overview
       image: /images/Plenary_Speakers.png
-      alt: Image alt text
   - infopic:
       title: Showcase of global precision medicine advancements
       subtitle: Be part of a global community
@@ -56,9 +54,8 @@ sections:
         effective solutions that make precision medicine accessible, equitable
         and beneficial worldwide.
       button: programme
-      url: /programme
+      url: /programme/day1
       image: /images/showcase.png
-      alt: Image alt text
   - announcements:
       title: Important Dates to Note
       id: announcements
