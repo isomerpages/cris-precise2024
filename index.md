@@ -37,6 +37,7 @@ sections:
       button: Register now
       url: /registration
       image: /images/photo_1562503542_2a1e6f03b16b.jpeg
+      alt: New Landscape to Healthcare
   - infopic:
       title: Plenaries, Panels and Lightning Sessions
       subtitle: meet our speakers
@@ -46,6 +47,7 @@ sections:
       button: find out more
       url: /speakers/overview
       image: /images/Plenary_Speakers.png
+      alt: Conference Plenary Speakers
   - infopic:
       title: Showcase of global precision medicine advancements
       subtitle: Be part of a global community
@@ -56,6 +58,7 @@ sections:
       button: programme
       url: /programme/day1
       image: /images/showcase.png
+      alt: Precision medicine advancement
   - announcements:
       title: Important Dates to Note
       id: announcements
