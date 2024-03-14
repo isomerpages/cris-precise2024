@@ -4,8 +4,11 @@ permalink: /about/conference/
 variant: tiptap
 description: ""
 ---
-<h3><strong>About the Conference</strong></h3>
-<p>Jointly organised by <strong>Precision Health Research, Singapore (PRECISE)</strong> and
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header Footer/Header__3_.png">
+</div>
+<p>
+<br>Jointly organised by <strong>Precision Health Research, Singapore (PRECISE)</strong> and
 the <strong>International Health Cohorts Consortium (IHCC)</strong>, the
 conference will bring together some 600 thought leaders, clinicians, scientists,
 biotechs, and patient advocacy associations from across the world who are
@@ -79,4 +82,8 @@ across borders, the IHCC has formed two working groups:</p>
 </ol>
 <p>For more information, please visit <a href="https://ihccglobal.org" rel="noopener noreferrer nofollow" target="_blank">https://ihccglobal.org</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header Footer/Footer__1_.png">
+</div>
 <p></p>
