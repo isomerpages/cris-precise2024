@@ -72,7 +72,7 @@ description: ""
 <p><strong>Please note that registration fees for registrants from Low- and Middle-Income Countries is based on country of working address.</strong>
 </p>
 <p></p>
-<p>Kindly refer to World Bank websit for the List of Low- and Middle-Income
+<p>Kindly refer to World Bank website for the List of Low- and Middle-Income
 Countries.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Click on Link below to Register!</div><div class="isomer-card-link">Register now</div></div></a>
