@@ -1,0 +1,23 @@
+collections:
+  speakers:
+    output: true
+    order:
+      - Overview.md
+      - Plenary Talk.md
+      - Session Talk/.keep
+      - Session Talk/Biobanks for Precision Medicine.md
+      - Session Talk/Cancer Genetics.md
+      - Session Talk/Complex Traits & Variant Resolution.md
+      - Session Talk/Ethics and Policy.md
+      - Session Talk/From Cohorts to Data Validation.md
+      - Session Talk/Genetic Counseling & Community Engagement.md
+      - Session Talk/Genomic & Precision Medicine for Therapeutic R&D.md
+      - Session Talk/Genomic Diversity.md
+      - Session Talk/Genomic Science in Cohorts.md
+      - Session Talk/Genomic Screening.md
+      - Session Talk/Pharmacogenomics.md
+      - Session Talk/Population Health.md
+      - Session Talk/Rare Diseases.md
+      - Session Talk/Research in LMICs.md
+      - Session Talk/Training & Early Career Scientists.md
+      - Lightning Talk.md

@@ -1,0 +1,14 @@
+logo: /images/logo.png
+links:
+  - title: About
+    collection: about
+  - title: REGISTRATION
+    url: /registration/
+  - title: ABSTRACT SUBMISSION
+    url: /abstractsubmission/
+  - title: Programme
+    collection: programme
+  - title: Speakers
+    collection: speakers
+  - title: Contact
+    url: /contact-us/
