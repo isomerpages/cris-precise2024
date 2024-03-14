@@ -65,4 +65,23 @@ sections:
       id: infobar
       button: register
       url: /register
+  - announcements:
+      title: Important Dates to Note
+      id: announcements
+      announcement_items:
+        - title: Deadline for Abstract Submission
+          date: 31 March 2024
+          announcement: Sunday, March 31, 2024 at 11:59PM EST/ 12:59PM SGT
+          link_text: Click on this link for more information on Abstract Submission
+          link_url: /abstractsubmission
+        - title: Registration Closes
+          date: 14 August 2024
+          announcement: Wednesday, August 14, 2024 at 11:59PM EST/ 12:59PM SGT
+          link_text: Click here to Register Now
+          link_url: /registration
+        - title: Conference Dates
+          date: 21 August 2024
+          announcement: Wednesday, August 21, 2024 to Friday, August 23, 2024
+          link_text: Click here for more information on the Programme
+          link_url: programme/day1
 ---
