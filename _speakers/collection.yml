@@ -4,21 +4,21 @@ collections:
     order:
       - Overview.md
       - Plenaries.md
-      - Session Talk/.keep
-      - Session Talk/Biobanks for Precision Medicine.md
-      - Session Talk/Cancer Genetics.md
-      - Session Talk/Complex Traits & Variant Resolution.md
-      - Session Talk/Data Driven Discovery.md
-      - Session Talk/Ethics and Policy.md
-      - Session Talk/From Cohorts to Data Validation.md
-      - Session Talk/Genetic Counseling & Community Engagement.md
-      - Session Talk/Genomic & Precision Medicine for Therapeutic R&D.md
-      - Session Talk/Genomic Diversity.md
-      - Session Talk/Genomic Science in Cohorts.md
-      - Session Talk/Genomic Screening.md
-      - Session Talk/Pharmacogenomics.md
-      - Session Talk/Population Health.md
-      - Session Talk/Rare Diseases.md
-      - Session Talk/Research in LMICs.md
-      - Session Talk/Training & Early Career Scientists.md
+      - Session Talks/.keep
+      - Session Talks/Biobanks for Precision Medicine.md
+      - Session Talks/Cancer Genetics.md
+      - Session Talks/Complex Traits & Variant Resolution.md
+      - Session Talks/Data Driven Discovery.md
+      - Session Talks/Ethics and Policy.md
+      - Session Talks/From Cohorts to Data Validation.md
+      - Session Talks/Genetic Counseling & Community Engagement.md
+      - Session Talks/Genomic & Precision Medicine for Therapeutic R&D.md
+      - Session Talks/Genomic Diversity.md
+      - Session Talks/Genomic Science in Cohorts.md
+      - Session Talks/Genomic Screening.md
+      - Session Talks/Pharmacogenomics.md
+      - Session Talks/Population Health.md
+      - Session Talks/Rare Diseases.md
+      - Session Talks/Research in LMICs.md
+      - Session Talks/Training & Early Career Scientists.md
       - Lightning Talk.md
