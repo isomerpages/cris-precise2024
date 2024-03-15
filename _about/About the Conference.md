@@ -7,6 +7,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header Footer/Header__3_.png">
 </div>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h3><strong>About the Conference</strong></h3>
 <p>Jointly organised by <strong>Precision Health Research, Singapore (PRECISE)</strong> and
 the <strong>International Health Cohorts Consortium (IHCC)</strong>, the
 conference will bring together some 600 thought leaders, clinicians, scientists,
@@ -19,6 +24,10 @@ and reshape the landscape of modern healthcare. It also aims to catalyse
 and promote cross-population cohort research and design cross-cohort pilot
 projects to address various global challenges.</p>
 <p>The three-day conference will be held <strong>on-site</strong> from <strong>21 to 23 August 2024</strong> in <strong>Singapore</strong>.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Conference Aims</strong></h3>
 <p><strong>Through this conference we aim to:</strong>
 </p>
