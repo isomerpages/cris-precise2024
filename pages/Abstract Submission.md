@@ -10,7 +10,7 @@ description: ""
 <hr>
 <p></p>
 <p>We are currently accepting abstract submissions for the <strong>PRECISE-IHCC Conference 2024</strong>,
-scheduled on <strong>August 21-23, 2024</strong> in <strong>Singapore</strong>.</p>
+scheduled on <strong>21 - 23 August 2024</strong> in <strong>Singapore</strong>.</p>
 <p>This conference aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
