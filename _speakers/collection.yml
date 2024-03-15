@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
-      - Plenary Talk.md
+      - Plenaries.md
       - Session Talk/.keep
       - Session Talk/Biobanks for Precision Medicine.md
       - Session Talk/Cancer Genetics.md
