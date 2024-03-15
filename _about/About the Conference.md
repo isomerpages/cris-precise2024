@@ -91,7 +91,6 @@ across borders, the IHCC has formed two working groups:</p>
 <p>For more information, please visit <a href="https://ihccglobal.org" rel="noopener noreferrer nofollow" target="_blank">https://ihccglobal.org</a>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header Footer/Footer__3_.png">
 </div>
