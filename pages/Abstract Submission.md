@@ -45,7 +45,7 @@ presentations.</p>
 an oral presentation.</p>
 <p></p>
 <hr>
-<h4>Deadline: Sunday, March 31, 2024 at 11:59PM EST/ 12:59PM SGT</h4>
+<h4>Deadline: Sunday, 31 March 2024 at 11:59pm EST/ 12:59pm SGT</h4>
 <p>Please submit your abstract <a href="https://form.gov.sg/65681f27991ea30012ec9845" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
 <p>We look forward to your participation at the PRECISE-IHCC Conference 2024!</p>
 <p>For queries, please contact us at <a href="https://form.gov.sg/65681f27991ea30012ec9845" rel="noopener noreferrer nofollow" target="_blank"><u>events@precise.cris.sg</u></a>.</p>
