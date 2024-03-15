@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header Footer/Header__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header Footer/Header__4_.png">
 </div>
 <table>
 <tbody>
@@ -91,7 +91,5 @@ across borders, the IHCC has formed two working groups:</p>
 <p>For more information, please visit <a href="https://ihccglobal.org" rel="noopener noreferrer nofollow" target="_blank">https://ihccglobal.org</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header Footer/Footer__1_.png">
-</div>
+<p></p>
 <p></p>
