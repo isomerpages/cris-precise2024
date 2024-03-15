@@ -36,7 +36,7 @@ sections:
         healthcare.
       button: Register now
       url: /registration
-      image: /images/photo_1562503542_2a1e6f03b16b.jpeg
+      image: /images/Singapore_Skyline__Large_.png
       alt: New Landscape to Healthcare
   - infopic:
       title: Plenaries, Panels and Lightning Sessions
