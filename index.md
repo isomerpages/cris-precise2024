@@ -20,7 +20,7 @@ sections:
           description: Plenaries | Panels | Lightning
           url: /speakers/overview
         - title: abstract submission
-          description: Closing 31 March 2024
+          description: Closing 31 Mar 2024
           url: /abstractsubmission/
         - title: travel information
           description: Getting to Singapore
@@ -65,17 +65,17 @@ sections:
       announcement_items:
         - title: Deadline for Abstract Submission
           date: 31 March 2024
-          announcement: Sunday, March 31, 2024 at 11:59pm EST / 12:59pm SGT
+          announcement: Sunday, 31 March 2024 at 11:59pm EST / 12:59pm SGT
           link_text: Click on this link for more information on Abstract Submission
           link_url: /abstractsubmission
         - title: Registration Closes
           date: 14 August 2024
-          announcement: Wednesday, August 14, 2024 at 11:59pm EST / 12:59pm SGT
+          announcement: Wednesday, 14 August 2024 at 11:59pm EST / 12:59pm SGT
           link_text: Click here to Register Now
           link_url: /registration
         - title: Conference Dates
           date: 21 August 2024
-          announcement: Wednesday, August 21, 2024 to Friday, August 23, 2024
+          announcement: Wednesday, 21 August 2024 to Friday, August 23, 2024
           link_text: Click here for more information on the Programme
           link_url: programme/day1
   - infobar:
