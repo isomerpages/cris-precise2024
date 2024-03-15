@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/speakers/plenary-talk" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Plenary Talk</div><div class="isomer-card-link">View</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/speakers/plenaries" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Plenaries</div><div class="isomer-card-link">View</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/speakers/session-talk/ethics-and-policy" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Session 1: Ethics and Policy</div>
