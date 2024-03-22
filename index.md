@@ -28,7 +28,7 @@ sections:
       variant: center
       backgroundColor: gray
   - infopic:
-      title: The New Landscape to Global Healthcare
+      title: The New Landscape of Global Healthcare
       subtitle: From cohorts to clinics
       id: infopic
       description: Join us to discuss opportunities and challenges in translating
