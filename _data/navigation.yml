@@ -2,9 +2,9 @@ logo: /images/Logos/precise-ihcc conference logo.png
 links:
   - title: About
     collection: about
-  - title: REGISTRATION
+  - title: Registration
     url: /registration/
-  - title: ABSTRACT SUBMISSION
+  - title: Abstract Submission
     url: /abstractsubmission/
   - title: Programme
     collection: programme
