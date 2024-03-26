@@ -1,5 +1,5 @@
 collections:
-  speakers2:
+  speakers-2:
     output: true
     order:
       - Overview.md
