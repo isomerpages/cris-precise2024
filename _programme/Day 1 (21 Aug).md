@@ -15,7 +15,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table cellpadding="10" border="1" style="margin:1; width: 100%; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<table cellpadding="10" border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: #000000;">
 <tbody>
 <tr>
 <td style="width: 100%;">
@@ -24,7 +24,7 @@ description: ""
 </td>
 </tr>
 </tbody>
-</table><br>
+</table>
 <table cellpadding="10" border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: #000000;">
 <tbody>
 <tr>
@@ -44,7 +44,7 @@ description: ""
 </td>
 </tr>
 </tbody>
-</table><br>
+</table>
 <table cellpadding="10" border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: #000000; height: 86px;">
 <tbody>
 <tr style="height: 86px;">
@@ -64,7 +64,7 @@ description: ""
 </td>
 </tr>
 </tbody>
-</table><br>
+</table>
 <table cellpadding="10" border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: #000000;">
 <tbody>
 <tr>
