@@ -6,7 +6,7 @@ description: ""
 ---
 <h4 style="margin:1"><strong>Day 1, 21 August 2024, Wednesday</strong></h4>
 <p> </p>
-<table cellpadding="10" border="1" style="width: 100%; border-collapse: collapse; box-shadow: 10px 10px 10px 5px Grey;">
+<table cellpadding="10" style="width: 100%; border-collapse: collapse; box-shadow: 10px 10px 10px 5px Grey;">
 <tbody>
 <tr>
 <td style="width: 100%;">
