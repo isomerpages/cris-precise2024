@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <h4><strong>Day 1, 21 August 2024, Wednesday</strong></h4><br>
-<table cellpadding="10" border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<table cellpadding="10" border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: #000000; box-shadow:5px 5px 5px #888888;">
 <tbody>
 <tr>
 <td style="width: 100%;">
