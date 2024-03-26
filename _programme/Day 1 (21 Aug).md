@@ -15,7 +15,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table cellpadding="10" border="1" style="margin:0; width: 100%; border-collapse: collapse; border-style: solid; border-color: #000000;">
+<table cellpadding="10" border="1" style="margin:1; width: 100%; border-collapse: collapse; border-style: solid; border-color: #000000;">
 <tbody>
 <tr>
 <td style="width: 100%;">
