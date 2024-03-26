@@ -1,5 +1,5 @@
 collections:
-  programme:
+  programme-1:
     output: true
     order:
       - Day 1 (21 Aug).md
