@@ -6,7 +6,7 @@ description: ""
 ---
 <h4 style="margin:1"><strong>Day 1, 21 August 2024, Wednesday</strong></h4>
 <p> </p>
-<table cellpadding="10" border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: #000000; box-shadow:5px 5px 5px #888888;">
+<table cellpadding="10" border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: #000000; box-shadow: 5px 5px 5px 5px rgb(215 215 215),-5px 0 6px -4px rgb(215 215 215);">
 <tbody>
 <tr>
 <td style="width: 100%;">
@@ -54,7 +54,7 @@ description: ""
 <tr style="height: 86px;">
 <td style="width: 100%; height: 86px;">
 <p style="margin:0"><strong>9.15am-09.45am (SGT) | 30 mins</strong></p>
-<h4 style="margin:0"><span style="color: #324975;">Plenary #1: Topic </span></h4><hr style="margin:0">
+<h4 style="margin:0"><span style="color: #324975;">Plenary #1: Topic </span></h4><hr style="margin:10px">
 <table border="0" style="width: 100%; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr>
