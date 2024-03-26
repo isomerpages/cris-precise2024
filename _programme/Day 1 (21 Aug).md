@@ -4,9 +4,10 @@ permalink: /programme/day1/
 variant: markdown
 description: ""
 ---
-<p style="margin: 1; padding-top: 0;"><strong>Wednesday, 21 August 2024</strong></p>
+<p><strong>Wednesday, 21 August 2024</strong></p>
 <h3 style="margin: 0; padding-top: 0;"><strong>Day 1 Programme</strong></h3>
-<table cellpadding="10" border="1" style="height: 10px; width: 100%; border-collapse: collapse; border-style: solid; box-shadow: #d7d7d7 5px 5px 5px 5px, #d7d7d7 -5px 0px 6px -4px; float: left;">
+<br>
+<table cellpadding="10" border="1" style="height: 10px; width: 100%; border-collapse: collapse; border-style: solid; box-shadow: #d7d7d7 5px 5px 5px 5px;">
 <tbody>
 <tr style="height: 63px;">
 <td style="width: 100%; height: 10px;">
