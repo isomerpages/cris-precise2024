@@ -34,7 +34,7 @@ description: ""
 <table border="0" style="width: 100%; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr>
-<td style="width: 15%;">&nbsp;</td>
+<td style="width: 15%;"><img alt="Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png"></td>
 <td style="width: 85%;">
 <p><span style="color: #324975;"><strong>Dr Janil Puthucheary</strong></span><br>Senior Minister of State for Communications and Information of Singapore</p>
 </td>
