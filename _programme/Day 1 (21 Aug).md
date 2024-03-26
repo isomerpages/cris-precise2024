@@ -50,7 +50,7 @@ description: ""
 <tr style="height: 86px;">
 <td style="width: 100%; height: 86px;">
 <p style="margin:0"><strong>9.15am-09.45am (SGT) | 30 mins</strong></p>
-<h4 style="margin:0"><span style="color: #324975;">Plenary #1: Dame Sue Hill</span></h4>
+<h4 style="margin:0"><span style="color: #324975;">Plenary #1: Topic </span></h4><hr style="margin:0">
 <table border="0" style="width: 100%; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr>
