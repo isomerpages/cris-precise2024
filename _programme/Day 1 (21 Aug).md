@@ -11,7 +11,7 @@ description: ""
 <tr style="height: 63px;">
 <td style="width: 100%; height: 10px;">
 <p><strong>8.30am - 9.00am (SGT)</strong></p>
-<h3><span style="color: #074877;">Registration</span></h3>
+<h3> Registration </h3>
 </td>
 </tr>
 </tbody>
