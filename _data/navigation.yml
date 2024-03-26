@@ -6,11 +6,9 @@ links:
     url: /registration/
   - title: Abstract Submission
     url: /abstractsubmission/
-  - title: Programme Old
-    collection: programme-old
+  - title: Programme
+    collection: programme
   - title: Speakers
     collection: speakers
   - title: Contact
     url: /contact-us/
-  - title: Programme2
-    url: /programme2
