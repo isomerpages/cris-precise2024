@@ -6,7 +6,7 @@ description: ""
 ---
 <p><strong>Wednesday, 21 August 2024</strong></p>
 <h3 style="margin: 0; padding-top: 0;"><strong>Day 1 Programme</strong></h3>
-<h3 style="margin: 0; padding-top: 0;">&nbsp;</h3><table cellpadding="10" border="1" style="height: 10px; width: 100%; border-collapse: collapse; border-style: solid; box-shadow: #d7d7d7 5px 5px 5px 5px;">
+<h3 style="margin: 0; padding-top: 0;">&nbsp;</h3><table cellpadding="10" border="1" style="height: 10px; width: 100%; border-collapse: collapse; border-style: solid; box-shadow: 5px 5px 5px 5px;">
 <tbody>
 <tr style="height: 63px;">
 <td style="width: 100%; height: 10px;">
