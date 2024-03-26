@@ -30,7 +30,7 @@ description: ""
 <tr>
 <td style="width: 100%;">
 <p style="margin:0"><strong>9.05am-09.15am (SGT) | 10 mins</strong></p>
-<h4 style="margin:0"><span style="color: #324975;">Open Address by Guest of Honor</span></h4>
+<h4 style="margin:0"><span style="color: #324975;">Open Address by Guest of Honor</span></h4><hr>
 <table border="0" style="width: 100%; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr>
