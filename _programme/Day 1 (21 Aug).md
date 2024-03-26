@@ -54,7 +54,7 @@ description: ""
 <table border="0" style="width: 100%; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr>
-<td style="width: 15%;">&nbsp;</td>
+<td style="width: 15%;"><img alt="Dame Sue Hill" src="/images/Speaker%20Photos%20(Round)/Dame_Sue_Hill.png"></td>
 <td style="width: 85%;">
 <p><strong>Prof Dame Sue Hill</strong><br>NHS England</p>
 </td>
