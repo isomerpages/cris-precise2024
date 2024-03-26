@@ -10,7 +10,7 @@ description: ""
 <tr>
 <td style="width: 100%;">
 <p style="margin:0"><strong>8.30am-09.00am (SGT) | 30 mins</strong></p>
-<h3 style="margin:0"><span style="color: #324975;">Registration</span></h3>
+<h4 style="margin:0"><span style="color: #324975;">Registration</span></h4>
 </td>
 </tr>
 </tbody>
@@ -20,7 +20,7 @@ description: ""
 <tr>
 <td style="width: 100%;">
 <p style="margin:0"><strong>9.00am-09.05am (SGT) | 05 mins</strong></p>
-<h3 style="margin:0"><span style="color: #324975;">Welcome Address</span></h3>
+<h4 style="margin:0"><span style="color: #324975;">Welcome Address</span></h4>
 </td>
 </tr>
 </tbody>
@@ -30,7 +30,7 @@ description: ""
 <tr>
 <td style="width: 100%;">
 <p style="margin:0"><strong>9.05am-09.15am (SGT) | 10 mins</strong></p>
-<h3 style="margin:0"><span style="color: #324975;">Open Address by Guest of Honor</span></h3>
+<h4 style="margin:0"><span style="color: #324975;">Open Address by Guest of Honor</span></h4>
 <table border="0" style="width: 100%; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr>
@@ -50,7 +50,7 @@ description: ""
 <tr style="height: 86px;">
 <td style="width: 100%; height: 86px;">
 <p style="margin:0"><strong>9.15am-09.45am (SGT) | 30 mins</strong></p>
-<h3 style="margin:0"><span style="color: #324975;">Plenary #1: Dame Sue Hill</span></h3>
+<h4 style="margin:0"><span style="color: #324975;">Plenary #1: Dame Sue Hill</span></h4>
 <table border="0" style="width: 100%; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr>
@@ -70,7 +70,7 @@ description: ""
 <tr>
 <td style="width: 100%;">
 <p style="margin:0"><strong>9.45am-10.15am (SGT) | 30 mins</strong></p>
-<h3 style="margin:0"><span style="color: #324975;">Teabreak Networking Session</span></h3>
+<h4 style="margin:0"><span style="color: #324975;">Teabreak Networking Session</span></h4>
 </td>
 </tr>
 </tbody>
