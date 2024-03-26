@@ -74,12 +74,9 @@ description: ""
 <p></p>
 <p>Kindly refer to <strong><a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups" rel="noopener noreferrer nofollow" target="_blank">World Bank website</a></strong> for
 the List of Low- and Middle-Income Countries.</p>
+<p></p><a class="isomer-image-wrapper" href="https://www.gevme.com/precise-ihcc-conference-2024-20682281"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos/Register_Now.png"></a>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gevme.com/precise-ihcc-conference-2024-20682281" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Click on Link below to Register!</div><div class="isomer-card-link">Register now</div></div></a>
-</div>
-<p>
-<br>
-</p>
+<p></p>
 <hr>
 <p></p>
 <p><strong>PLEASE TAKE NOTE OF THE FOLLOWING:</strong>
