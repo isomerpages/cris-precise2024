@@ -2,4 +2,5 @@ collections:
   programme-2024:
     output: true
     order:
+      - Example Title.md
       - DAY 1 21 AUGUST 2024 (WEDNESDAY).md
