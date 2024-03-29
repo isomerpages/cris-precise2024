@@ -1,4 +1,5 @@
 collections:
   programme-2024:
     output: true
-    order: []
+    order:
+      - DAY 1 21 AUGUST 2024 (WEDNESDAY).md
