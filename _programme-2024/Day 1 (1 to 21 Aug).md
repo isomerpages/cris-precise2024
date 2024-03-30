@@ -368,8 +368,8 @@ description: ""
 													<div class="speaker-name text-ellipsis">
 														<p style="font-size: 16px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Singapore National Precision Medicine Programme - Value Creation for Health and the Economy</p>
 														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
-															<b style="color: #000; font-size: 16px;">Prof Patrick Tan
-</b></a></div>
+															<b style="color: #000; font-size: 16px;">Prof Patrick Tan</b></a>
+													</div>
 													<div class="text-ellipsis speaker-position">
 														Precision Health Research Singapore
 													</div>
@@ -410,14 +410,14 @@ description: ""
 											<div class="row">
 												<div class="col is-2">
 													<a href="" class="speaker-name text-ellipsis" rel="noopener">
-														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Julian_Savulescu.png" alt="Prof Julian Savulescu"></a>
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Adj Asst Prof Max Lam"></a>
 												</div>
 												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
 													<div class="speaker-name text-ellipsis">
 														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
-															<b style="color: #000; font-size: 16px;">Prof Julian Savulescu</b></a></div>
+															<b style="color: #000; font-size: 16px;">Adj Asst Prof Max Lam</b></a></div>
 													<div class="text-ellipsis speaker-position">
-														National University of Singapore
+														Precision Health Research Singapore
 													</div>
 												</div>
 											</div>
@@ -430,14 +430,14 @@ description: ""
 											<div class="row">
 												<div class="col is-2">
 													<a href="" class="speaker-name text-ellipsis" rel="noopener">
-														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Dr Michaela Mayrhofer"></a>
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Dr Jimmy Lee"></a>
 												</div>
 												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
 													<div class="speaker-name text-ellipsis">
 														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
-															<b style="color: #000; font-size: 16px;">Dr Michaela Mayrhofer</b></a></div>
+															<b style="color: #000; font-size: 16px;">Dr Jimmy Lee</b></a></div>
 													<div class="text-ellipsis speaker-position">
-														BBMRI-ERIC
+														Institute of Mental Health
 													</div>
 												</div>
 											</div>
@@ -450,14 +450,14 @@ description: ""
 											<div class="row">
 												<div class="col is-2">
 													<a href="" class="speaker-name text-ellipsis" rel="noopener">
-														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Angela_Ballantyne.png" alt="Dr Angela Ballantyne"></a>
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Assoc Prof Jonathan Berg"></a>
 												</div>
 												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
 													<div class="speaker-name text-ellipsis">
 														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
-															<b style="color: #000; font-size: 16px;">Dr Angela Ballantyne</b></a></div>
+															<b style="color: #000; font-size: 16px;">Assoc Prof Jonathan Berg</b></a></div>
 													<div class="text-ellipsis speaker-position">
-														University of Otago
+														University of North Carolina at Chapel Hill
 													</div>
 												</div>
 											</div>
@@ -466,9 +466,9 @@ description: ""
 								</div>
 									<div>
 								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
-									Ethics and Policy
+									Parallel Track 2: Data Driven Discovery
 								</h4>
-								<i style="font-weight: bold; color: #7f7f7f">Grand Ballroom</i>
+								<i style="font-weight: bold; color: #7f7f7f">Hall 2</i>
 								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
 								<div style="padding-top: 16px" class="programme-time"></div>
 								<div class="speakers px-2">
@@ -477,14 +477,15 @@ description: ""
 											<div class="row">
 												<div class="col is-2">
 													<a href="" class="speaker-name text-ellipsis" rel="noopener">
-														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Julian_Savulescu.png" alt="Prof Julian Savulescu"></a>
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Prof Steven Brenner"></a>
 												</div>
 												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
 													<div class="speaker-name text-ellipsis">
 														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
-															<b style="color: #000; font-size: 16px;">Prof Julian Savulescu</b></a></div>
+															<b style="color: #000; font-size: 16px;">Prof Steven Brenner</b></a>
+													</div>
 													<div class="text-ellipsis speaker-position">
-														National University of Singapore
+														University of California, Berkeley
 													</div>
 												</div>
 											</div>
@@ -497,14 +498,16 @@ description: ""
 											<div class="row">
 												<div class="col is-2">
 													<a href="" class="speaker-name text-ellipsis" rel="noopener">
-														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Dr Michaela Mayrhofer"></a>
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Rob_Yang.png" alt="Rob Yang"></a>
 												</div>
 												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
 													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 16px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Decoding Cellular Intelligence To Accelerate Drug Discovery</p>
 														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
-															<b style="color: #000; font-size: 16px;">Dr Michaela Mayrhofer</b></a></div>
+															<b style="color: #000; font-size: 16px;">Rob Yang</b></a>
+													</div>
 													<div class="text-ellipsis speaker-position">
-														BBMRI-ERIC
+														CartaBio Inc
 													</div>
 												</div>
 											</div>
@@ -517,14 +520,16 @@ description: ""
 											<div class="row">
 												<div class="col is-2">
 													<a href="" class="speaker-name text-ellipsis" rel="noopener">
-														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Angela_Ballantyne.png" alt="Dr Angela Ballantyne"></a>
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Heidi_Rehm.png" alt="Dr Heidi Rehm"></a>
 												</div>
 												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
 													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 16px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Advancing Genomic Medicine through Global Data Sharing and Collaboration</p>
 														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
-															<b style="color: #000; font-size: 16px;">Dr Angela Ballantyne</b></a></div>
+															<b style="color: #000; font-size: 16px;">Dr Heidi Rehm</b></a>
+													</div>
 													<div class="text-ellipsis speaker-position">
-														University of Otago
+														Massachusetts General Hospital and Broad Institute
 													</div>
 												</div>
 											</div>
