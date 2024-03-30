@@ -272,7 +272,7 @@ description: ""
 								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
 									Parallel Track 1: Lunch Time Industry Talk
 								</h4>
-								<i style="font-weight: bold; color: #7f7f7f">Hall 1</i>
+								<i style="font-weight: bold; color: #7f7f7f">Hall 2</i>
 								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
 								<div style="padding-top: 16px" class="programme-time"></div>
 								<div class="speakers px-2">
@@ -310,7 +310,7 @@ description: ""
 								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
 									Parallel Track 3: Lightning Talk (Early Career Sci)
 								</h4>
-								<i style="font-weight: bold; color: #7f7f7f">Hall 1</i>
+								<i style="font-weight: bold; color: #7f7f7f">Hall 3</i>
 								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
 								<div style="padding-top: 16px" class="programme-time"></div>
 								<div class="speakers px-2">
@@ -395,13 +395,13 @@ description: ""
 						<div style="background-color: #fff; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); padding: 8px; padding-left: 12px;" class="border h-100 position-relative">
 							<div class="p-4">
 								<div style="padding-bottom: 6px" class="programme-time">
-									<b style="color: #000; font-weight: 700">10.15am - 11.40am (SGT)</b>
+									<b style="color: #000; font-weight: 700">2.00pm - 3.25pm (SGT)</b>
 								</div>
 								<div>
 								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
-									Ethics and Policy
+									Parallel Track 1: Complex Traits/Variant Resolution
 								</h4>
-								<i style="font-weight: bold; color: #7f7f7f">Grand Ballroom</i>
+								<i style="font-weight: bold; color: #7f7f7f">Hall 1</i>
 								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
 								<div style="padding-top: 16px" class="programme-time"></div>
 								<div class="speakers px-2">
