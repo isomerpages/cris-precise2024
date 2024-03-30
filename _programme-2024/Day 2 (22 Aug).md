@@ -104,14 +104,15 @@ description: ""
 											<div class="row">
 												<div class="col is-2">
 													<a href="" class="speaker-name text-ellipsis" rel="noopener">
-														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Julian_Savulescu.png" alt="Prof Julian Savulescu"></a>
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Aarno_Palotie.png" alt="Prof Aarno Palotie"></a>
 												</div>
-												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
+												<div style="display: flex; justify-content: center; flex-direction: column; flex: 1" class="col is-12">
 													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 16px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">FinnGen, an example of a Northern European large scale biobank study</p>
 														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
-															<b style="color: #000; font-size: 16px;">Prof Julian Savulescu</b></a></div>
+															<b style="color: #000; font-size: 16px;">Prof Aarno Palotie</b></a></div>
 													<div style="line-height: 16px" class="text-ellipsis speaker-position">
-														National University of Singapore
+														Institute for Molecular Medicine Finland (FIMM), HiLIFE, University of Helsinki
 													</div>
 												</div>
 											</div>
@@ -124,14 +125,14 @@ description: ""
 											<div class="row">
 												<div class="col is-2">
 													<a href="" class="speaker-name text-ellipsis" rel="noopener">
-														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Dr Michaela Mayrhofer"></a>
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Geoffrey_Ginsburg.png" alt="Dr Geoffrey Ginsburg"></a>
 												</div>
-												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
+												<div style="display: flex; justify-content: center; flex-direction: column; flex:1;" class="col is-12">
 													<div class="speaker-name text-ellipsis">
 														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
-															<b style="color: #000; font-size: 16px;">Dr Michaela Mayrhofer</b></a></div>
+															<b style="color: #000; font-size: 16px;">Dr Geoffrey Ginsburg </b></a></div>
 													<div style="line-height: 16px" class="text-ellipsis speaker-position">
-														BBMRI-ERIC
+														All of Us Research Program, National Institutes of Health
 													</div>
 												</div>
 											</div>
@@ -144,9 +145,9 @@ description: ""
 											<div class="row">
 												<div class="col is-2">
 													<a href="" class="speaker-name text-ellipsis" rel="noopener">
-														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Angela_Ballantyne.png" alt="Dr Angela Ballantyne"></a>
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Prof Chen Zhengming"></a>
 												</div>
-												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
+												<div style="display: flex; justify-content: center; flex-direction: column; flex:1;" class="col is-12">
 													<div class="speaker-name text-ellipsis">
 														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
 															<b style="color: #000; font-size: 16px;">Prof Chen Zhengming</b></a></div>
