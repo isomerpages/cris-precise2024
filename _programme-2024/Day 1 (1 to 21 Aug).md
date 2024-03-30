@@ -581,11 +581,11 @@ description: ""
 						<div style="background-color: #fff; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); padding: 8px; padding-left: 12px;" class="border h-100 position-relative">
 							<div class="p-4">
 								<div style="padding-bottom: 6px" class="programme-time">
-									<b style="color: #000; font-weight: 700">2.00pm - 3.25pm (SGT)</b>
+									<b style="color: #000; font-weight: 700">4.00pm - 5.20pm (SGT)</b>
 								</div>
 								<div>
 								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
-									Parallel Track 1: Complex Traits/Variant Resolution
+									Parallel Track 1: Cancer Genetics
 								</h4>
 								<i style="font-weight: bold; color: #7f7f7f">Hall 1</i>
 								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
@@ -596,14 +596,14 @@ description: ""
 											<div class="row">
 												<div class="col is-2">
 													<a href="" class="speaker-name text-ellipsis" rel="noopener">
-														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Adj Asst Prof Max Lam"></a>
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Prof Joanne Ngeow"></a>
 												</div>
 												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
 													<div class="speaker-name text-ellipsis">
 														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
-															<b style="color: #000; font-size: 16px;">Adj Asst Prof Max Lam</b></a></div>
+															<b style="color: #000; font-size: 16px;">Prof Joanne Ngeow</b></a></div>
 													<div style="line-height: 16px" class="text-ellipsis speaker-position">
-														Precision Health Research Singapore
+														National Cancer Centre Singapore
 													</div>
 												</div>
 											</div>
@@ -616,14 +616,14 @@ description: ""
 											<div class="row">
 												<div class="col is-2">
 													<a href="" class="speaker-name text-ellipsis" rel="noopener">
-														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Dr Jimmy Lee"></a>
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Will_Foulkes.png" alt="Dr William Foulkes"></a>
 												</div>
 												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
 													<div class="speaker-name text-ellipsis">
 														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
-															<b style="color: #000; font-size: 16px;">Dr Jimmy Lee</b></a></div>
+															<b style="color: #000; font-size: 16px;">Dr William Foulkes</b></a></div>
 													<div style="line-height: 16px" class="text-ellipsis speaker-position">
-														Institute of Mental Health
+														McGill University
 													</div>
 												</div>
 											</div>
@@ -636,7 +636,7 @@ description: ""
 											<div class="row">
 												<div class="col is-2">
 													<a href="" class="speaker-name text-ellipsis" rel="noopener">
-														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Prof Datin Paduka Dr Teo Soo-Hwang"></a>
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Soo_Hwang_Teo.png" alt="Prof Datin Paduka Dr Teo Soo-Hwang"></a>
 												</div>
 												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
 													<div class="speaker-name text-ellipsis">
