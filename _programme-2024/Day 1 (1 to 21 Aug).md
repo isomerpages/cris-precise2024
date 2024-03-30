@@ -43,13 +43,13 @@ description: ""
 								<div style="padding-bottom: 6px" class="programme-time">
 									<b style="color: #000; font-weight: 700">9.00am - 9.15am (SGT) </b>
 								</div>
-								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
 									Welcome Address
 								</h4>
-								<i style="font-weight: bold; color: #7f7f7f; font-size: 15px">Grand Ballroom</i>
+								<i style="font-weight: bold; color: #7f7f7f; font-size: 15px;">Grand Ballroom</i>
 								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
 								<div style="padding-top: 16px" class="programme-time"></div>
-									<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+									<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
 										Open Address by Guest of Honor
 								</h4>
 								<i style="font-weight: bold; color: #7f7f7f; font-size: 15px">Grand Ballroom</i>
@@ -93,7 +93,7 @@ description: ""
 								<div style="padding-bottom: 6px" class="programme-time">
 									<b style="color: #000; font-weight: 700">9.15am - 9.45am (SGT) </b>
 								</div>
-								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
 									Plenary Talk 1
 								</h4>
 								<i style="font-weight: bold; color: #7f7f7f">Grand Ballroom</i>
@@ -165,7 +165,7 @@ description: ""
 								<div style="padding-bottom: 6px" class="programme-time">
 									<b style="color: #000; font-weight: 700">10.15am - 11.40am (SGT)</b>
 								</div>
-								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
 									Ethics and Policy
 								</h4>
 								<i style="font-weight: bold; color: #7f7f7f">Grand Ballroom</i>
@@ -272,7 +272,7 @@ description: ""
 									<b style="color: #000; font-weight: 700">12.00pm - 1.30pm (SGT)</b>
 								</div>
 							<div style="padding-bottom: 50px">
-								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
 									Parallel Track 1: Lunch Time Industry Talk
 								</h4>
 								<i style="font-weight: bold; color: #7f7f7f">Hall 2</i>
@@ -291,7 +291,7 @@ description: ""
 								</div>
 							</div>
 							<div style="padding-bottom: 50px">
-								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
 									Parallel Track 2: Lunch Time Industry Talk
 								</h4>
 								<i style="font-weight: bold; color: #7f7f7f">Hall 1</i>
@@ -310,7 +310,7 @@ description: ""
 								</div>
 							</div>
 							<div style="padding-bottom: 50px">
-								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
 									Parallel Track 3: Lightning Talk (Early Career Sci)
 								</h4>
 								<i style="font-weight: bold; color: #7f7f7f">Hall 3</i>
@@ -353,7 +353,7 @@ description: ""
 								<div style="padding-bottom: 6px" class="programme-time">
 										<b style="color: #000; font-weight: 700">1.30pm - 2.00pm (SGT)</b>
 								</div>
-								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
 									Plenary Talk 2
 								</h4>
 								<i style="font-weight: bold; color: #7f7f7f">Grand Ballroom</i>
@@ -401,7 +401,7 @@ description: ""
 									<b style="color: #000; font-weight: 700">2.00pm - 3.25pm (SGT)</b>
 								</div>
 								<div>
-								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
 									Parallel Track 1: Complex Traits/Variant Resolution
 								</h4>
 								<i style="font-weight: bold; color: #7f7f7f">Hall 1</i>
@@ -468,7 +468,7 @@ description: ""
 									</div>
 								</div>
 									<div>
-								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
 									Parallel Track 2: Data Driven Discovery
 								</h4>
 								<i style="font-weight: bold; color: #7f7f7f">Hall 2</i>
@@ -587,7 +587,7 @@ description: ""
 									<b style="color: #000; font-weight: 700">4.00pm - 5.20pm (SGT)</b>
 								</div>
 								<div>
-								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
 									Parallel Track 1: Cancer Genetics
 								</h4>
 								<i style="font-weight: bold; color: #7f7f7f">Hall 1</i>
@@ -656,7 +656,7 @@ description: ""
 									</div>
 								</div>
 									<div>
-								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
 									Parallel Track 2: Genomic Screening
 								</h4>
 								<i style="font-weight: bold; color: #7f7f7f">Hall 2</i>
