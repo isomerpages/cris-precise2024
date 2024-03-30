@@ -216,15 +216,16 @@ description: ""
 											<div class="row">
 												<div class="col is-2">
 													<a href="" class="speaker-name text-ellipsis" rel="noopener">
-														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Aarno_Palotie.png" alt="Prof Aarno Palotie"></a>
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Elaine_Lo.png" alt="Dr Elaine Lo Ah G"></a>
 												</div>
 												<div style="display: flex; justify-content: center; flex-direction: column; flex: 1" class="col is-12">
 													<div class="speaker-name text-ellipsis">
-														<p style="font-size: 16px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">FinnGen, an example of a Northern European large scale biobank study</p>
+														<p style="font-size: 16px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Rethinking Pharmacogenomics - Implementing Pre-emptive Pharmacogenomics in a Singapore Healthcare System
+</p>
 														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
-															<b style="color: #000; font-size: 16px;">Prof Aarno Palotie</b></a></div>
+															<b style="color: #000; font-size: 16px;">Dr Elaine Lo Ah Gi</b></a></div>
 													<div style="line-height: 16px" class="text-ellipsis speaker-position">
-														Institute for Molecular Medicine Finland (FIMM), HiLIFE, University of Helsinki
+														National University Hospital
 													</div>
 												</div>
 											</div>
@@ -237,15 +238,15 @@ description: ""
 											<div class="row">
 												<div class="col is-2">
 													<a href="" class="speaker-name text-ellipsis" rel="noopener">
-														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Geoffrey_Ginsburg.png" alt="Dr Geoffrey Ginsburg"></a>
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Collet_Dandara.png" alt="Prof Collet Dandara"></a>
 												</div>
 												<div style="display: flex; justify-content: center; flex-direction: column; flex:1;" class="col is-12">
 													<div class="speaker-name text-ellipsis">
-															<p style="font-size: 16px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">FinnGen, an example of a Northern European large scale biobank study</p>
+															<p style="font-size: 16px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Pharmacogenomics implementation: towards precision medicine</p>
 														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
-															<b style="color: #000; font-size: 16px;">Dr Geoffrey Ginsburg </b></a></div>
+															<b style="color: #000; font-size: 16px;">Prof Collet Dandara </b></a></div>
 													<div style="line-height: 16px" class="text-ellipsis speaker-position">
-														All of Us Research Program, National Institutes of Health
+														University of Cape Town
 													</div>
 												</div>
 											</div>
@@ -258,15 +259,15 @@ description: ""
 											<div class="row">
 												<div class="col is-2">
 													<a href="" class="speaker-name text-ellipsis" rel="noopener">
-														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Prof Chen Zhengming"></a>
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Chonlaphat_Sukasem.png" alt="Prof Chonlaphat Sukasem"></a>
 												</div>
 												<div style="display: flex; justify-content: center; flex-direction: column; flex:1;" class="col is-12">
 													<div class="speaker-name text-ellipsis">
-															<p style="font-size: 16px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">FinnGen, an example of a Northern European large scale biobank study</p>
+															<p style="font-size: 16px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Clinical pharmacogenomics implementation in Thailand: a dream come true</p>
 														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
-															<b style="color: #000; font-size: 16px;">Prof Chen Zhengming</b></a></div>
+															<b style="color: #000; font-size: 16px;">Prof Chonlaphat Sukasem</b></a></div>
 													<div style="line-height: 16px" class="text-ellipsis speaker-position">
-														University of Oxford
+														Ramathibodi Hospital, Mahidol University
 													</div>
 												</div>
 											</div>
