@@ -2,5 +2,6 @@ collections:
   programme-2024:
     output: true
     order:
+      - Day 2 (22 Aug).md
       - Day 1 (21 Aug).md
       - Day 1 (1 to 21 Aug).md
