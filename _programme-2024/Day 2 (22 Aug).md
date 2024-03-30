@@ -281,4 +281,251 @@ description: ""
 			</div>
 		</div>
 	</div>
+</section>
+<section>
+	<div style="margin-left: 0; margin-bottom: 8px" class="bp-container is-fluid">
+		<div class="row">
+			<div class="col is-full">
+				<div class="row">
+					<div class="col is-12">
+						<div style="background-color: #fff; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); padding: 8px; padding-left: 12px;" class="border h-100 position-relative">
+							<div class="p-4">
+								<div style="padding-bottom: 6px" class="programme-time">
+									<b style="color: #000; font-weight: 700">12.40pm - 2.00pm (SGT)</b>
+								</div>
+							<div style="padding-bottom: 50px">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+									Parallel Track 1: Lunch Time Industry Talk
+								</h4>
+								<i style="font-weight: bold; color: #7f7f7f">Hall 1</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+													<div class="text-ellipsis speaker-position">
+														This section will be updated regularly.
+													</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div style="padding-bottom: 50px">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+									Parallel Track 2: Lunch Time Industry Talk
+								</h4>
+								<i style="font-weight: bold; color: #7f7f7f">Hall 2</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+													<div class="text-ellipsis speaker-position">
+														This section will be updated regularly.
+													</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div style="padding-bottom: 50px">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+									Parallel Track 3: Lightning Talk (Early Career Sci)
+								</h4>
+								<i style="font-weight: bold; color: #7f7f7f">Hall 3</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+													<div class="text-ellipsis speaker-position">
+														This section will be updated regularly.
+													</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section>
+	<div style="background: #354a77; margin-top: 16px; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); margin-left: 0px" class="bp-container is-fluid">
+		<h4 style="padding: 2px 12px; color: #fff!important; font-weight: 700; font-size: 22px">Session 6</h4>
+	</div>
+</section>
+<section>
+	<div style="margin-left: 0; margin-bottom: 8px" class="bp-container is-fluid">
+		<div class="row">
+			<div class="col is-full">
+				<div class="row">
+					<div class="col is-12">
+						<div style="background-color: #fff; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); padding: 8px; padding-left: 12px;" class="border h-100 position-relative">
+							<div class="p-4">
+								<div style="padding-bottom: 6px" class="programme-time">
+									<b style="color: #000; font-weight: 700">4.00pm - 5.20pm (SGT)</b>
+								</div>
+								<div>
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+									Parallel Track 1: Cancer Genetics
+								</h4>
+								<i style="font-weight: bold; color: #7f7f7f">Hall 1</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+													<a href="" class="speaker-name text-ellipsis" rel="noopener">
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Saumya_Jamuar.png" alt="Dr Saumya Jamuar"></a>
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+															<p style="font-size: 16px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Enabling Precision Medicine in resource constrained settings</p>
+														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
+															<b style="color: #000; font-size: 16px;">Dr Saumya Jamuar</b></a></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														KK Women's and Children's Hospital
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+													<a href="" class="speaker-name text-ellipsis" rel="noopener">
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Claudia_Gonzaga_Juaregui.png" alt="Dr Claudia Gonzaga-Jauregui"></a>
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
+															<b style="color: #000; font-size: 16px;">Dr Claudia Gonzaga-Jauregui</b></a></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														International Laboratory for Human Genome Research, UNAM
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+													<a href="" class="speaker-name text-ellipsis" rel="noopener">
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Dr Gabriela Repetto"></a>
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 16px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Enabling Precision Medicine in resource constrained settings</p>
+														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
+															<b style="color: #000; font-size: 16px;">Dr Gabriela Repetto
+</b></a>
+													</div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Facultad de Medicina, Clinica Alemana Universidad del Desarrollo, Santiago, Chile
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+									<div>
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title">
+									Parallel Track 2: Biobanks for Precision Medicine
+								</h4>
+								<i style="font-weight: bold; color: #7f7f7f">Hall 2</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+													<a href="" class="speaker-name text-ellipsis" rel="noopener">
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Lin_Yen_Feng.png" alt="Dr Lin Yen-Feng"></a>
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+															<p style="font-size: 16px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Genetic analysis of quantitative traits in the Taiwan Biobank</p>
+														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
+															<b style="color: #000; font-size: 16px;">Dr Lin Yen-Feng
+</b></a>
+													</div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														National Health Research Institutes, Taiwan
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+													<a href="" class="speaker-name text-ellipsis" rel="noopener">
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Prof Tai E Shyong"></a>
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column; flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 16px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">How health system biobanks fit into Singapore's National Precision Medicine Program
+</p>
+														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
+															<b style="color: #000; font-size: 16px;">Prof Tai E Shyong</b></a>
+													</div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Precision Health Research Singapore
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+													<a href="" class="speaker-name text-ellipsis" rel="noopener">
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Placeholder.png" alt="Prof Masayuki Yamamoto"></a>
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<a style="text-decoration: none" href="" class="speaker-name text-ellipsis" rel="noopener">
+															<b style="color: #000; font-size: 16px;">Prof Masayuki Yamamoto</b></a>
+													</div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Tohoku University Graduate School of Medicine
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
 </section></div></div>
