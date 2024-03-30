@@ -733,4 +733,9 @@ description: ""
 	</div>
 </div>
 </div>
-</section>	</div></div>
+</section>
+<section>
+	<div style="margin-top: 20px; margin-left:0" class="bp-container is-fluid">
+		<i>*Programme is accurate as of 13 March 2024.</i>
+	</div>
+</section></div></div>
