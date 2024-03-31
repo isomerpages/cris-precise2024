@@ -4,7 +4,7 @@ title: PRECISE-IHCC Conference 2024
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Abstract submission now open until 31 March 2024!
+notification: ""
 sections:
   - hero:
       title: PRECISE-IHCC Conference 2024
@@ -20,7 +20,7 @@ sections:
           description: Plenaries | Panels | Lightning
           url: /speakers/
         - title: abstract submission
-          description: Closing 31 Mar 2024
+          description: Closed
           url: /abstractsubmission/
         - title: travel information
           description: Getting to Singapore
