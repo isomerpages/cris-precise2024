@@ -69,7 +69,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong>Please note that registration fees for registrants from Low- and Middle-Income Countries is based on country of working address.</strong>
+<p><strong>Please note that registration fees for registrants from Low- and Middle-Income Countries is based on country of work.</strong>
 </p>
 <p></p>
 <p>Kindly refer to <strong><a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups" rel="noopener noreferrer nofollow" target="_blank">World Bank website</a></strong> for
