@@ -4,7 +4,18 @@ permalink: /about/travel/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header Footer/Header__5_.png">
+</div>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <h3><strong>About Singapore</strong></h3>
+</th>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About_Singapore.bmp">
 </div>
@@ -58,4 +69,10 @@ Exit C.</p>
 <br>T. +65 6363 0101 | F. +65 6705 7856
 <br>Email: <a href="mailto:enquiry@onefarrer.com" rel="noopener noreferrer nofollow" target="_blank">enquiry@onefarrer.com</a>
 </p>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header Footer/Footer__4_.png">
+</div>
 <p></p>
