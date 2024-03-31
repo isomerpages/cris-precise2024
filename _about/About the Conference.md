@@ -59,10 +59,10 @@ with ethical integrity and global inclusivity.</p>
 <h3><strong>About PRECISE</strong></h3>
 <p><strong>Precision Health Research, Singapore (PRECISE)</strong> is the
 central entity set up to coordinate a whole of government effort to implement
-Phase 2 of Singapore’s three-phase <strong>National Precision Medicine (NPM) programme</strong>.</p>
+Phase II of Singapore’s three-phase <strong>National Precision Medicine (NPM) programme</strong>.</p>
 <p>It aims to transform healthcare in Singapore and improve patient outcomes
 through new insights into the Asian genome and data-driven healthcare solutions.
-NPM Phase 2 will also enhance the breadth and depth of the Precision Medicine-related
+NPM Phase II will also enhance the breadth and depth of the Precision Medicine-related
 industry by attracting and anchoring overseas companies in Singapore, while
 yielding new opportunities for home-grown companies.</p>
 <p>PRECISE is a programme under the Consortium for Clinical Research and
