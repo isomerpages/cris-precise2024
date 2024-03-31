@@ -1,5 +1,5 @@
 collections:
-  programme-2024:
+  programme:
     output: true
     order:
       - Day 1 (21 Aug 2024).md
