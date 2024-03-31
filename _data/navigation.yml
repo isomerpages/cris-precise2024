@@ -6,7 +6,7 @@ links:
     url: /registration/
   - title: Abstract Submission
     url: /abstractsubmission/
-  - title: Programme Backup
-    collection: programme-backup
+  - title: Programme
+    collection: programme
   - title: Contact
     url: /contact-us/
