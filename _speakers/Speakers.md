@@ -4,7 +4,7 @@ permalink: /speakers/
 variant: markdown
 description: ""
 ---
-<h2><strong>Guest of Honour</strong></h2>
+<h2><strong>Guest of Honur</strong></h2>
 <table border="0">
 <tbody>
 <tr>
