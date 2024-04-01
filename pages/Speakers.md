@@ -244,7 +244,7 @@ National Health Research Institutes, Taiwan
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Joanne Ngeow" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Joanne Ngeow</h4>
@@ -259,7 +259,7 @@ National Cancer Centre Singapore
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="rof Datin Paduka Dr Teo Soo-Hwang" src="/images/Speaker%20Photos%202024/Soo_Hwang_Teo.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Datin Paduka Dr Teo Soo-Hwang</h4>
@@ -287,10 +287,10 @@ Cancer Research Malaysia
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Assoc Prof Jonathan Berg" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Complex Traits/Variant Resolution</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Assoc Prof Jonathan Berg</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 											 University of North Carolina at Chapel Hill
 										 </div>				 
@@ -302,7 +302,7 @@ Cancer Research Malaysia
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Adj Asst Prof Max Lam" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Adj Asst Prof Max Lam</h4>
@@ -317,7 +317,7 @@ Precision Health Research Singapore
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Jimmy Lee" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Jimmy Lee
@@ -347,7 +347,7 @@ Institute of Mental Health
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Steven Brenner" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Steven Brenner</h4>
@@ -362,7 +362,7 @@ Institute of Mental Health
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Rob Yang" src="/images/Speaker%20Photos%202024/Rob_Yang.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Rob Yang</h4>
@@ -377,7 +377,7 @@ CartaBio Inc
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Heidi Rehm" src="/images/Speaker%20Photos%202024/Heidi_Rehm.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Heidi Rehm
@@ -467,7 +467,7 @@ Massachusetts General Hospital and Broad Institute
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Angela Ballantyne" src="/images/Speaker%20Photos%202024/Angela_Ballantyne.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Angela Ballantyne</h4>
@@ -482,7 +482,7 @@ Massachusetts General Hospital and Broad Institute
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Michaela Mayrhofer" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Michaela Mayrhofer</h4>
@@ -497,7 +497,7 @@ BBMRI-ERIC
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Julian Savulescu" src="/images/Speaker%20Photos%20(Round)/Julian_Savulescu.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Julian Savulescu
@@ -512,7 +512,7 @@ National University of Singapore
 					 </div>
 				 </div>
 		</section>
-		<section class="row">
+<section class="row">
 				 <div class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">From Cohorts to Data Validation
