@@ -19,7 +19,7 @@ description: ""
 						 <div class="bp-container is-fluid has-text-centered">
 											 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -120,7 +120,7 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -135,7 +135,7 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -150,7 +150,7 @@ All of Us Research Program, National Institutes of Health
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -166,7 +166,7 @@ National Health Research Institutes, Taiwan
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -181,7 +181,7 @@ National Health Research Institutes, Taiwan
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -196,7 +196,7 @@ Precision Health Research, Singapore
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -225,7 +225,7 @@ Tohoku Medical Megabank Organization
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -240,7 +240,7 @@ Tohoku Medical Megabank Organization
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -255,7 +255,7 @@ National Cancer Centre Singapore
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -283,7 +283,7 @@ Cancer Research Malaysia
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -298,7 +298,7 @@ Cancer Research Malaysia
 								 </div>
 								 <div></div>
 								 	<div></div>
-					 <div class="col is-4">
+					 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -314,7 +314,7 @@ National University of Singapore
 								 </div>		
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -344,7 +344,7 @@ Institute of Mental Health
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -359,7 +359,7 @@ Institute of Mental Health
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -374,7 +374,7 @@ CartaBio Inc
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -405,7 +405,7 @@ Massachusetts General Hospital and Broad Institute
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -420,7 +420,7 @@ Massachusetts General Hospital and Broad Institute
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -435,7 +435,7 @@ BBMRI-ERIC
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -465,7 +465,7 @@ National University of Singapore
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -480,7 +480,7 @@ National University of Singapore
 								 </div>
 								 <div></div>
 								 	<div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -495,7 +495,7 @@ University of Cape Town
 								 </div>
 								 <div></div>
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -525,7 +525,7 @@ Qatar Biobank
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -540,7 +540,7 @@ Qatar Biobank
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -556,7 +556,7 @@ GENETIX Cancer Research Malaysia
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -585,7 +585,7 @@ Garvan Institute of Medical Research
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -600,7 +600,7 @@ Garvan Institute of Medical Research
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -615,7 +615,7 @@ Genentech
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -646,7 +646,7 @@ Regeneron Pharmaceuticals
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -661,7 +661,7 @@ Regeneron Pharmaceuticals
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -676,7 +676,7 @@ University of Southern California
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -705,7 +705,7 @@ National Institute of Mental Health and Neuro Sciences (NIMHANS)
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -720,7 +720,7 @@ National Institute of Mental Health and Neuro Sciences (NIMHANS)
 								 </div>
 								 <div></div>
 								 	<div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -736,7 +736,7 @@ Genome Institute of Singapore
 								 </div>
 								 <div></div>
 								 	<div></div>						 
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -766,7 +766,7 @@ Precision Health Research, Singapore
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -782,7 +782,7 @@ Precision Health Research, Singapore
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -797,7 +797,7 @@ Murdoch Children's Research Institute
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -827,7 +827,7 @@ Universiti Tunku Abdul Rahman
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -842,7 +842,7 @@ Universiti Tunku Abdul Rahman
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -857,7 +857,7 @@ National University Hospital
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -887,7 +887,7 @@ Ramathibodi Hospital, Mahidol University
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -902,7 +902,7 @@ Precision Health Research, Singapore
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -917,7 +917,7 @@ National Cancer Institute, NIH
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -947,7 +947,7 @@ Icahn School of Medicine at Mount Sinai
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -962,7 +962,7 @@ Icahn School of Medicine at Mount Sinai
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -977,7 +977,7 @@ KK Women's and Children's Hospital
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -1006,7 +1006,7 @@ Facultad de Medicina, Clinica Alemana Universidad del Desarrollo
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -1021,7 +1021,7 @@ Facultad de Medicina, Clinica Alemana Universidad del Desarrollo
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -1037,7 +1037,7 @@ South African National Bioinformatics Institute, University of the Western Cape
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -1065,7 +1065,7 @@ Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univerist
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -1080,7 +1080,7 @@ Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univerist
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -1095,7 +1095,7 @@ University of Cape Town
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
