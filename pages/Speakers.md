@@ -1118,5 +1118,5 @@ Baylor College of Medicine
 	</div>
 </section>
 <div>
-	<img style="padding-top: 40px; widht: auto;" src="/images/Header%20Footer/Footer__4_.png" alt="footer">
+	<img style="width: auto;" src="/images/Header%20Footer/Footer__4_.png" alt="footer">
 </div>
