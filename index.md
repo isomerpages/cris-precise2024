@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Programme
           description: 21-23 Aug 2024
-          url: /programme/day1
+          url: /day-1-21-aug-2024/
         - title: Speakers
           description: ""
           url: /speakers/
