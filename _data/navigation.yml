@@ -8,5 +8,7 @@ links:
     url: /abstractsubmission/
   - title: Programme
     collection: programme
+  - title: Speakers
+    url: /speakers
   - title: Contact
     url: /contact-us/
