@@ -74,9 +74,14 @@ description: ""
 <p></p>
 <p>Kindly refer to <strong><a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups" rel="noopener noreferrer nofollow" target="_blank">World Bank website</a></strong> for
 the List of Low- and Middle-Income Countries.</p>
-<p></p><a class="isomer-image-wrapper" href="https://www.gevme.com/precise-ihcc-conference-2024-20682281"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos/Register_Now.png"></a>
 <p></p>
-<p></p>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos/Register_Opening_Soon.png">
+</div>
+<p>
+<br>
+</p>
 <hr>
 <p></p>
 <p><strong>PLEASE TAKE NOTE OF THE FOLLOWING:</strong>
@@ -129,9 +134,9 @@ transfer from foreign banks, registrant must bear the transaction charges
 imposed by the local/foreign bank.</p>
 </li>
 <li>
-<p>Please ensure that the conference name, “PI24”&nbsp;and the “name of the
-participant” are stated in the remarks during the process of payment via
-Bank Transfer.</p>
+<p>Please ensure that the conference name, “PIC24”&nbsp;and the “name of
+the participant” are stated in the remarks during the process of payment
+via Bank Transfer.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>All bank charges are the responsibility of the participant and should
