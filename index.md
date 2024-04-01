@@ -9,7 +9,7 @@ sections:
   - hero:
       title: PRECISE-IHCC Conference 2024
       subtitle: "From Cohorts to Clinics: The New Landscape of Global Healthcare"
-      background: /images/IHCC_Banner_BG_1920_x_720_01.jpg
+      background: /images/PRECISE_IHCC_Banner_BG_1920_x_720_02.jpg
       button: REGISTER NOW
       url: /registration
       key_highlights:
