@@ -29,7 +29,7 @@ description: ""
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Janil Puthucheary</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 Senior Minister of State for Communications and Information of Singapore
+Senior Minister of State, Ministry of Communications and Information &amp; Ministry of Health
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -102,7 +102,7 @@ description: ""
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Patrick Tan</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 Precision Health Research Singapore
+								Precision Health Research, Singapore
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -186,12 +186,12 @@ National Health Research Institutes, Taiwan
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Prof Tai E Shyong" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Prof Tai E Shyong" src="/images/Speaker%20Photos%202024/Tai_E_Shyong.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Tai E Shyong</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 Precision Health Research Singapore
+Precision Health Research, Singapore
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -207,7 +207,7 @@ National Health Research Institutes, Taiwan
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Masayuki Yamamoto
 </h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 Tohoku University Graduate School of
+Medical Megabank Organization
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -561,7 +561,7 @@ GENETIX Cancer Research Malaysia
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Mary-Anne Young" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Mary-Anne Young" src="/images/Speaker%20Photos%202024/Mary_Anne_Young.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Mary-Anne Young
@@ -746,7 +746,7 @@ Genome Institute of Singapore
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Adj Asst Prof Max Lam</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Precision Health Research Singapore
+Precision Health Research, Singapore
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -897,7 +897,7 @@ Ramathibodi Hospital, Mahidol University
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof John Chambers</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 Precision Health Research Singapore
+Precision Health Research, Singapore
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -982,13 +982,13 @@ KK Women's and Children's Hospital
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Gabriela Repetto" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Dr Gabriela Repetto" src="/images/Speaker%20Photos%202024/Gabriela_Repetto.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Gabriela Repetto
 </h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Facultad de Medicina, Clinica Alemana Universidad del Desarrollo, Santiago, Chile
+Facultad de Medicina, Clinica Alemana Universidad del Desarrollo
 										 </div>				 
 								 </div>
 								 <div></div>
