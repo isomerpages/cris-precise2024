@@ -297,7 +297,7 @@ Cancer Research Malaysia
 										 </div>				 
 								 </div>
 								 <div></div>
-								 							 <div></div>
+								 	<div></div>
 					 <div class="col is-4">
 									 <a href="/john-lim" class="speaker">
 										 </a>
@@ -479,7 +479,7 @@ National University of Singapore
 										 </div>				 
 								 </div>
 								 <div></div>
-								 							 <div></div>
+								 	<div></div>
 								 <div class="col is-4">
 									 <a href="/john-lim" class="speaker">
 										 </a>
@@ -494,7 +494,7 @@ University of Cape Town
 										 </div>				 
 								 </div>
 								 <div></div>
-								 							 <div></div>
+								 <div></div>
 								 <div class="col is-4">
 									 <a href="/john-lim" class="speaker">
 										 </a>
