@@ -25,8 +25,7 @@ description: ""
 											 Senior Minister of State for <br>
 											 Communications and Information of<br>
 											 Singapore
-										 </div>
-									 
+										 </div>				 
 								 </div>
 							 </div>
 						 </div>
