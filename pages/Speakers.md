@@ -50,7 +50,7 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Vajira Dissanayake" src="/images/Speaker%20Photos%202024/vajira_dissanayake.png">
 									 </a>
@@ -65,7 +65,7 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Dame Sue Hill" src="/images/Speaker%20Photos%202024/Dame_Sue_Hill.png">
 									 </a>
@@ -80,7 +80,7 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Kathryn North" src="/images/Speaker%20Photos%202024/Kathryn_North.png">
 									 </a>
@@ -95,7 +95,7 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Patrick Tan" src="/images/Speaker%20Photos%202024/Patrick_Tan.png">
 									 </a>
