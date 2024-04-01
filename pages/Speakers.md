@@ -392,5 +392,605 @@ Massachusetts General Hospital and Broad Institute
 					 </div>
 				 </div>
 		</section>
+		<section class="row">
+				 <div class="col is-8 is-offset-2 print-content">
+					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
+</h3>
+					 </div>
+					 <div style="padding-top: 30px" class="bp-section font">
+						 <div class="bp-container is-fluid has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Steven Brenner</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+											 University of California, Berkeley
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Rob Yang</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+CartaBio Inc
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Heidi Rehm
+</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Massachusetts General Hospital and Broad Institute
+										 </div>				 
+								 </div>
+								 <div></div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+		</section>
+		<section class="row">
+				 <div class="col is-8 is-offset-2 print-content">
+					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
+</h3>
+					 </div>
+					 <div style="padding-top: 30px" class="bp-section font">
+						 <div class="bp-container is-fluid has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Steven Brenner</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+											 University of California, Berkeley
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Rob Yang</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+CartaBio Inc
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Heidi Rehm
+</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Massachusetts General Hospital and Broad Institute
+										 </div>				 
+								 </div>
+								 <div></div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+		</section>
+		<section class="row">
+				 <div class="col is-8 is-offset-2 print-content">
+					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
+</h3>
+					 </div>
+					 <div style="padding-top: 30px" class="bp-section font">
+						 <div class="bp-container is-fluid has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Steven Brenner</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+											 University of California, Berkeley
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Rob Yang</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+CartaBio Inc
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Heidi Rehm
+</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Massachusetts General Hospital and Broad Institute
+										 </div>				 
+								 </div>
+								 <div></div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+		</section>
+		<section class="row">
+				 <div class="col is-8 is-offset-2 print-content">
+					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
+</h3>
+					 </div>
+					 <div style="padding-top: 30px" class="bp-section font">
+						 <div class="bp-container is-fluid has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Steven Brenner</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+											 University of California, Berkeley
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Rob Yang</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+CartaBio Inc
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Heidi Rehm
+</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Massachusetts General Hospital and Broad Institute
+										 </div>				 
+								 </div>
+								 <div></div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+		</section>
+		<section class="row">
+				 <div class="col is-8 is-offset-2 print-content">
+					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
+</h3>
+					 </div>
+					 <div style="padding-top: 30px" class="bp-section font">
+						 <div class="bp-container is-fluid has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Steven Brenner</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+											 University of California, Berkeley
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Rob Yang</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+CartaBio Inc
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Heidi Rehm
+</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Massachusetts General Hospital and Broad Institute
+										 </div>				 
+								 </div>
+								 <div></div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+		</section>
+		<section class="row">
+				 <div class="col is-8 is-offset-2 print-content">
+					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
+</h3>
+					 </div>
+					 <div style="padding-top: 30px" class="bp-section font">
+						 <div class="bp-container is-fluid has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Steven Brenner</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+											 University of California, Berkeley
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Rob Yang</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+CartaBio Inc
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Heidi Rehm
+</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Massachusetts General Hospital and Broad Institute
+										 </div>				 
+								 </div>
+								 <div></div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+		</section>
+		<section class="row">
+				 <div class="col is-8 is-offset-2 print-content">
+					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
+</h3>
+					 </div>
+					 <div style="padding-top: 30px" class="bp-section font">
+						 <div class="bp-container is-fluid has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Steven Brenner</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+											 University of California, Berkeley
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Rob Yang</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+CartaBio Inc
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Heidi Rehm
+</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Massachusetts General Hospital and Broad Institute
+										 </div>				 
+								 </div>
+								 <div></div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+		</section>
+		<section class="row">
+				 <div class="col is-8 is-offset-2 print-content">
+					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
+</h3>
+					 </div>
+					 <div style="padding-top: 30px" class="bp-section font">
+						 <div class="bp-container is-fluid has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Steven Brenner</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+											 University of California, Berkeley
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Rob Yang</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+CartaBio Inc
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Heidi Rehm
+</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Massachusetts General Hospital and Broad Institute
+										 </div>				 
+								 </div>
+								 <div></div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+		</section>
+		<section class="row">
+				 <div class="col is-8 is-offset-2 print-content">
+					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
+</h3>
+					 </div>
+					 <div style="padding-top: 30px" class="bp-section font">
+						 <div class="bp-container is-fluid has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Eva Maria Cutiongco-Dela Paz</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+											 University of the Philippines Manila
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Prof Nicki Tiffin" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Nicki Tiffin
+</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+South African National Bioinformatics Institute, University of the Western Cape
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Janewit Wongboonsin" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Janewit Wongboonsin</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univeristy, Thailand| Renal division, Brigham and Women's Hospital, Boston, USA
+										 </div>				 
+								 </div>
+								 <div></div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+		</section>
+<section class="row">
+				 <div class="col is-8 is-offset-2 print-content">
+					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0;">Training/Early Career Scientists
+</h3>
+					 </div>
+					 <div style="padding-top: 30px" class="bp-section font">
+						 <div class="bp-container is-fluid has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Prof Richard Haspel" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Richard Haspel</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+											 Beth Israel Deaconess Medical Center and Harvard Medical School
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Victoria (Vicky) Nembaware" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Victoria (Vicky) Nembaware</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+University of Cape Town
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Sharon Plon" src="/images/Speaker%20Photos%20(Round)/Sharon_Plon.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Sharon Plon
+</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Baylor College of Medicine
+										 </div>				 
+								 </div>
+								 <div></div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+		</section>
 	</div>
 </section>
