@@ -389,68 +389,9 @@ Massachusetts General Hospital and Broad Institute
 						 </div>
 					 </div>
 				 </div>
-		</section>
-		<section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
-					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
-</h3>
-					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
-							 <div style="flex-wrap: wrap" class="row">
-								 <div></div>
-								 <div class="col is-4">
-									 <a href="/john-lim" class="speaker">
-										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
-										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
-									 </a>
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Steven Brenner</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 University of California, Berkeley
-										 </div>				 
-								 </div>
-								 <div></div>
-								 							 <div></div>
-								 <div class="col is-4">
-									 <a href="/john-lim" class="speaker">
-										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
-										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
-									 </a>
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Rob Yang</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-CartaBio Inc
-										 </div>				 
-								 </div>
-								 <div></div>
-								 							 <div></div>
-								 <div class="col is-4">
-									 <a href="/john-lim" class="speaker">
-										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
-										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
-									 </a>
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Heidi Rehm
-</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Massachusetts General Hospital and Broad Institute
-										 </div>				 
-								 </div>
-								 <div></div>
-							 </div>
-						 </div>
-					 </div>
-				 </div>
-		</section>
-		<section class="row">
+</section>
+
+<section class="row">
 				 <div class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Ethics and Policy
@@ -796,13 +737,13 @@ Genome Institute of Singapore
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Prof Eimear Kenny" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Prof Wong Limsoon" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Asst Prof Biju Viswanath
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Wong Limsoon
 </h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-National Institute of Mental Health and Neuro Sciences (NIMHANS)
+National University of Singapore
 										 </div>				 
 								 </div>
 								 <div></div>
