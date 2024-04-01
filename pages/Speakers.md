@@ -17,8 +17,8 @@ description: ""
 								 <div></div>
 								 <div class="col is-4">
 									 <a href="/john-lim" class="speaker">
-										 <div style="padding: 0 65px;" class="speaker-image-wrapper">
-											 <img alt="" src="/img/speak/Aarno Palotie.png" class="speaker-image img-fluid mb-3">
+										 </a><div style="padding: 0 65px;" class="speaker-image-wrapper"><a href="/john-lim" class="speaker">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Dr_Janil.png" alt="dr janil"></a>
 										 </div>
 										 <h4 style="font-size: 16px;" class="speaker-name text-ellipsis">Dr Janil Puthucheary</h4>
 										 <div style="font-size: 14px;" class="speaker-position text-ellipsis">
@@ -26,7 +26,7 @@ description: ""
 											 Communications and Information of<br>
 											 Singapore
 										 </div>
-									 </a>
+									 
 								 </div>
 							 </div>
 						 </div>
