@@ -38,7 +38,7 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 					 </div>
 				 </div>
 		</section>
-					 <section class="row">
+					 <section>
 				 <div style="margin-left: 0;" class="">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Plenaries</h3>
