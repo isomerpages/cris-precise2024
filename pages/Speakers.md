@@ -207,7 +207,7 @@ Precision Health Research, Singapore
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Masayuki Yamamoto
 </h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Medical Megabank Organization
+Tohoku Medical Megabank Organization
 										 </div>				 
 								 </div>
 								 <div></div>
