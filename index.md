@@ -17,7 +17,7 @@ sections:
           description: 21-23 Aug 2024
           url: /programme/day1
         - title: Speakers
-          description: Plenaries | Panels | Lightning
+          description: ""
           url: /speakers/
         - title: abstract submission
           description: Closed
