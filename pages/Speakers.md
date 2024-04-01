@@ -332,7 +332,7 @@ Institute of Mental Health
 					 </div>
 				 </div>
 		</section>
-							 <section class="row">
+<section class="row">
 				 <div class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
