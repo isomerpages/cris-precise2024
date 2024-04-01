@@ -17,16 +17,54 @@ description: ""
 								 <div></div>
 								 <div class="col is-4">
 									 <a href="/john-lim" class="speaker">
-										 </a><div style="padding: 0 65px;" class="speaker-image-wrapper"><a href="/john-lim" class="speaker">
-														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Dr_Janil.png" alt="dr janil"></a>
+										 </a>
+									 <div class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img height="50" width="50" alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
 										 </div>
-										 <h4 style="font-size: 16px;" class="speaker-name text-ellipsis">Dr Janil Puthucheary</h4>
+										 <h4 style="font-size: 16px; margin: 0; line-height: 18px" class="speaker-name text-ellipsis">Dr Janil Puthucheary</h4>
 										 <div style="font-size: 14px;" class="speaker-position text-ellipsis">
 											 Senior Minister of State for <br>
 											 Communications and Information of<br>
 											 Singapore
 										 </div>				 
 								 </div>
+								 <div></div>
+								 				 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img height="50" width="50" alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 16px; margin: 0; line-height: 18px" class="speaker-name text-ellipsis">Dr Janil Puthucheary</h4>
+										 <div style="font-size: 14px;" class="speaker-position text-ellipsis">
+											 Senior Minister of State for <br>
+											 Communications and Information of<br>
+											 Singapore
+										 </div>				 
+								 </div>
+								 <div></div>
+								 				 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img height="50" width="50" alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 16px; margin: 0; line-height: 18px" class="speaker-name text-ellipsis">Dr Janil Puthucheary</h4>
+										 <div style="font-size: 14px;" class="speaker-position text-ellipsis">
+											 Senior Minister of State for <br>
+											 Communications and Information of<br>
+											 Singapore
+										 </div>				 
+								 </div>
+								 <div></div>
 							 </div>
 						 </div>
 					 </div>
