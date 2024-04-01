@@ -36,7 +36,7 @@ sections:
         healthcare.
       button: Register now
       url: /registration
-      image: /images/Singapore_Skyline__Large_.png
+      image: /images/Healthcare__Large_.png
       alt: New Landscape to Healthcare
   - infopic:
       title: Plenaries, Panels and Lightning Sessions
@@ -46,7 +46,7 @@ sections:
         the world at the forefront of the precision medicine space.
       button: find out more
       url: /speakers/overview
-      image: /images/Plenary_Speakers.png
+      image: /images/Speaker__Large_.png
       alt: Conference Plenary Speakers
   - infopic:
       title: Showcase of global precision medicine advancements
@@ -57,7 +57,7 @@ sections:
         and beneficial worldwide.
       button: programme
       url: /programme/day1
-      image: /images/showcase.png
+      image: /images/Advance_Medicine__Large_.jpg
       alt: Precision medicine advancement
   - announcements:
       title: Important Dates to Note
