@@ -39,7 +39,7 @@ sections:
       image: /images/Healthcare__Large_.png
       alt: New Landscape to Healthcare
   - infopic:
-      title: Plenaries, Panels and Lightning Sessions
+      title: Renowned International Speakers
       subtitle: meet our speakers
       id: infopic
       description: Learn from thought leaders, policy makers, and researchers around
