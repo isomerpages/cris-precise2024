@@ -22,7 +22,7 @@ description: ""
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%202024/Dr_Janil.png">
 									 </a>
