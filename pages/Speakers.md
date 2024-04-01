@@ -15,8 +15,8 @@ description: ""
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Guest of Honor
 </h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 											 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
@@ -111,19 +111,19 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 					 </div>
 				 </div>
 		</section>
-<section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+<section>
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Biobanks for Precision Medicine</h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Chen Zhengming" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -138,7 +138,7 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Geoffrey Ginsburg" src="/images/Speaker%20Photos%202024/Geoffrey_Ginsburg.png">
 									 </a>
@@ -153,7 +153,7 @@ All of Us Research Program, National Institutes of Health
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Lin Yen-Feng" src="/images/Speaker%20Photos%202024/Lin_Yen_Feng.png">
 									 </a>
@@ -169,7 +169,7 @@ National Health Research Institutes, Taiwan
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Aarno Palotie" src="/images/Speaker%20Photos%202024/Aarno_Palotie.png">
 									 </a>
@@ -184,7 +184,7 @@ National Health Research Institutes, Taiwan
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Tai E Shyong" src="/images/Speaker%20Photos%202024/Tai_E_Shyong.png">
 									 </a>
@@ -199,7 +199,7 @@ Precision Health Research, Singapore
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Masayuki Yamamoto" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -217,18 +217,18 @@ Tohoku Medical Megabank Organization
 				 </div>
 		</section>
 <section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Cancer Genetics</h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%202024/Will_Foulkes.png">
 									 </a>
@@ -243,7 +243,7 @@ Tohoku Medical Megabank Organization
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Joanne Ngeow" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -258,7 +258,7 @@ National Cancer Centre Singapore
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="rof Datin Paduka Dr Teo Soo-Hwang" src="/images/Speaker%20Photos%202024/Soo_Hwang_Teo.png">
 									 </a>
@@ -275,18 +275,18 @@ Cancer Research Malaysia
 				 </div>
 		</section>
 <section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Complex Traits/Variant Resolution</h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Assoc Prof Jonathan Berg" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -301,7 +301,7 @@ Cancer Research Malaysia
 					 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Wong Limsoon" src="/images/Speaker%20Photos%202024/Wong_Lim_Soon.png">
 									 </a>
@@ -317,7 +317,7 @@ National University of Singapore
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Jimmy Lee" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -335,19 +335,19 @@ Institute of Mental Health
 				 </div>
 		</section>
 <section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Data Driven Discovery
 </h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Steven Brenner" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -362,7 +362,7 @@ Institute of Mental Health
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Rob Yang" src="/images/Speaker%20Photos%202024/Rob_Yang.png">
 									 </a>
@@ -377,7 +377,7 @@ CartaBio Inc
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Heidi Rehm" src="/images/Speaker%20Photos%202024/Heidi_Rehm.png">
 									 </a>
@@ -396,19 +396,19 @@ Massachusetts General Hospital and Broad Institute
 </section>
 
 <section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Ethics and Policy
 </h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Angela Ballantyne" src="/images/Speaker%20Photos%202024/Angela_Ballantyne.png">
 									 </a>
@@ -423,7 +423,7 @@ Massachusetts General Hospital and Broad Institute
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Michaela Mayrhofer" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -438,7 +438,7 @@ BBMRI-ERIC
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Julian Savulescu" src="/images/Speaker%20Photos%202024/Julian_Savulescu.png">
 									 </a>
@@ -456,19 +456,19 @@ National University of Singapore
 				 </div>
 		</section>
 <section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">From Cohorts to Data Validation
 </h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Andrew Morris" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -483,7 +483,7 @@ National University of Singapore
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Nicola Mulder" src="/images/Speaker%20Photos%202024/Nicola_Mulder.png">
 									 </a>
@@ -498,7 +498,7 @@ University of Cape Town
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Fatima Qafoud" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -516,19 +516,19 @@ Qatar Biobank
 				 </div>
 		</section>
 		<section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genetic Counseling &amp; Community Engagement
 </h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Yasmin Bylstra" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -543,7 +543,7 @@ Qatar Biobank
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Yoon Sook Yee" src="/images/Speaker%20Photos%202024/Sook_Yee_Yoon.png">
 									 </a>
@@ -559,7 +559,7 @@ GENETIX Cancer Research Malaysia
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Mary-Anne Young" src="/images/Speaker%20Photos%202024/Mary_Anne_Young.png">
 									 </a>
@@ -577,18 +577,18 @@ Garvan Institute of Medical Research
 				 </div>
 		</section>
 		<section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic/precision medicine for therapeutic R&amp;D</h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Guillermo Del Angel" src="/images/Speaker%20Photos%202024/Guillermo_del_Angel.png">
 									 </a>
@@ -603,7 +603,7 @@ Garvan Institute of Medical Research
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Mark Mccarthy" src="/images/Speaker%20Photos%202024/Mark_McCarthy.png">
 									 </a>
@@ -618,7 +618,7 @@ Genentech
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Lyndon Mitnaul" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -637,19 +637,19 @@ Regeneron Pharmaceuticals
 </section>
 		
 <section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic Diversity
 </h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Andres Moreno-Estrada" src="/images/Speaker%20Photos%202024/Andres_Moreno_Estrada.png">
 									 </a>
@@ -664,7 +664,7 @@ Regeneron Pharmaceuticals
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Paul Thompson" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -679,7 +679,7 @@ University of Southern California
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Asst Prof Biju Viswanath" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -697,18 +697,18 @@ National Institute of Mental Health and Neuro Sciences (NIMHANS)
 				 </div>
 </section>
 		<section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic Science in Cohorts</h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Collet Dandara" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -723,7 +723,7 @@ National Institute of Mental Health and Neuro Sciences (NIMHANS)
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Liu Jian Jun" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -739,7 +739,7 @@ Genome Institute of Singapore
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Adj Asst Prof Max Lam" src="/images/Speaker%20Photos%202024/Max_Lam.png">
 									 </a>
@@ -757,19 +757,19 @@ Precision Health Research, Singapore
 </section>
 		
 <section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic Screening
 </h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Chien Yin Hsiu" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -785,7 +785,7 @@ Precision Health Research, Singapore
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Martin Delatycki" src="/images/Speaker%20Photos%202024/Martin_Delatycki.png">
 									 </a>
@@ -800,7 +800,7 @@ Murdoch Children's Research Institute
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Thong Meow-Keong" src="/images/Speaker%20Photos%202024/Meow_Keong_Thong.png">
 									 </a>
@@ -819,18 +819,18 @@ Universiti Tunku Abdul Rahman
 </section>
 		
 <section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Pharmacogenomics</h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Collet Dandara" src="/images/Speaker%20Photos%202024/Collet_Dandara.png">
 									 </a>
@@ -845,7 +845,7 @@ Universiti Tunku Abdul Rahman
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Elaine Lo Ah Gi" src="/images/Speaker%20Photos%202024/Elaine_Lo.png">
 									 </a>
@@ -860,7 +860,7 @@ National University Hospital
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Eimear Kenny" src="/images/Speaker%20Photos%202024/Chonlaphat_Sukasem.png">
 									 </a>
@@ -879,18 +879,18 @@ Ramathibodi Hospital, Mahidol University
 </section>
 		
 <section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Population Health</h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof John Chambers" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -905,7 +905,7 @@ Precision Health Research, Singapore
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Arash Etemadi" src="/images/Speaker%20Photos%202024/Arash_Etemadi.png">
 									 </a>
@@ -920,7 +920,7 @@ National Cancer Institute, NIH
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Eimear Kenny" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -938,19 +938,19 @@ Icahn School of Medicine at Mount Sinai
 				 </div>
 		</section>
 		<section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Rare Diseases
 </h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Claudia Gonzaga-Jauregui" src="/images/Speaker%20Photos%202024/Claudia_Gonzaga_Juaregui.png">
 									 </a>
@@ -965,7 +965,7 @@ Icahn School of Medicine at Mount Sinai
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Saumya Jamuar" src="/images/Speaker%20Photos%202024/Saumya_Jamuar.png">
 									 </a>
@@ -980,7 +980,7 @@ KK Women's and Children's Hospital
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Gabriela Repetto" src="/images/Speaker%20Photos%202024/Gabriela_Repetto.png">
 									 </a>
@@ -998,18 +998,18 @@ Facultad de Medicina, Clinica Alemana Universidad del Desarrollo
 				 </div>
 		</section>
 		<section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Research in LMICs</h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Eva Maria Cutiongco-Dela Paz" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
@@ -1024,7 +1024,7 @@ Facultad de Medicina, Clinica Alemana Universidad del Desarrollo
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Nicki Tiffin" src="/images/Speaker%20Photos%202024/Nicola_C_Tiffin.png">
 									 </a>
@@ -1040,7 +1040,7 @@ South African National Bioinformatics Institute, University of the Western Cape
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Janewit Wongboonsin" src="/images/Speaker%20Photos%202024/Janewit_Wongboonsin.png">
 									 </a>
@@ -1057,18 +1057,18 @@ Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univerist
 				 </div>
 		</section>
 <section class="row">
-				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Training/Early Career Scientists</h3>
 					 </div>
-					 <div style="padding-top: 30px" class="bp-section font">
-						 <div class="bp-container is-fluid has-text-centered">
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Prof Richard Haspel" src="/images/Speaker%20Photos%202024/Richard_Haspel.png">
 									 </a>
@@ -1083,7 +1083,7 @@ Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univerist
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Victoria (Vicky) Nembaware" src="/images/Speaker%20Photos%202024/Vicky_Nembarawe.png">
 									 </a>
@@ -1098,7 +1098,7 @@ University of Cape Town
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img alt="Dr Sharon Plon" src="/images/Speaker%20Photos%202024/Sharon_Plon.png">
 									 </a>
