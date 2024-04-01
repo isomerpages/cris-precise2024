@@ -10,7 +10,7 @@ description: ""
 <section class="bp-section">
 	<div class="bp-container content padding--top--lg padding--bottom--xl">
 			 <section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Guest of Honor
 </h3>
@@ -39,7 +39,7 @@ description: ""
 				 </div>
 		</section>
 					 <section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Plenaries</h3>
 					 </div>
@@ -112,7 +112,7 @@ description: ""
 				 </div>
 		</section>
 <section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Biobanks for Precision Medicine</h3>
 					 </div>
@@ -217,7 +217,7 @@ National Health Research Institutes, Taiwan
 				 </div>
 		</section>
 <section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Cancer Genetics</h3>
 					 </div>
@@ -275,7 +275,7 @@ Cancer Research Malaysia
 				 </div>
 		</section>
 <section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Complex Traits/Variant Resolution</h3>
 					 </div>
@@ -335,7 +335,7 @@ Institute of Mental Health
 				 </div>
 		</section>
 <section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
 </h3>
@@ -396,7 +396,7 @@ Massachusetts General Hospital and Broad Institute
 </section>
 
 <section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Ethics and Policy
 </h3>
@@ -456,7 +456,7 @@ National University of Singapore
 				 </div>
 		</section>
 <section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">From Cohorts to Data Validation
 </h3>
@@ -516,7 +516,7 @@ Qatar Biobank
 				 </div>
 		</section>
 		<section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Genetic Counseling &amp; Community Engagement
 </h3>
@@ -577,7 +577,7 @@ Garvan Institute of Medical Research
 				 </div>
 		</section>
 		<section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Genomic/precision medicine for therapeutic R&amp;D</h3>
 					 </div>
@@ -637,7 +637,7 @@ Regeneron Pharmaceuticals
 </section>
 		
 <section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Genomic Diversity
 </h3>
@@ -697,7 +697,7 @@ National Institute of Mental Health and Neuro Sciences (NIMHANS)
 				 </div>
 </section>
 		<section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Genomic Science in Cohorts</h3>
 					 </div>
@@ -757,7 +757,7 @@ National University of Singapore
 </section>
 		
 <section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Genomic Screening
 </h3>
@@ -819,7 +819,7 @@ Universiti Tunku Abdul Rahman
 </section>
 		
 <section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Pharmacogenomics</h3>
 					 </div>
@@ -879,7 +879,7 @@ Ramathibodi Hospital, Mahidol University
 </section>
 		
 <section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Population Health</h3>
 					 </div>
@@ -938,7 +938,7 @@ Icahn School of Medicine at Mount Sinai
 				 </div>
 		</section>
 		<section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Rare Diseases
 </h3>
@@ -998,7 +998,7 @@ Facultad de Medicina, Clinica Alemana Universidad del Desarrollo, Santiago, Chil
 				 </div>
 		</section>
 		<section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Research in LMICs
 </h3>
@@ -1058,7 +1058,7 @@ Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univerist
 				 </div>
 		</section>
 <section class="row">
-				 <div class="col is-8 is-offset-2 print-content">
+				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Training/Early Career Scientists
 </h3>
