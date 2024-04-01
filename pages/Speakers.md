@@ -47,7 +47,7 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 						 <div class="bp-container is-fluid has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -62,7 +62,7 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 								 </div>
 								 <div></div>
 								 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -77,7 +77,7 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 								 </div>
 								 <div></div>
 								 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
@@ -92,7 +92,7 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 								 </div>
 								 <div></div>
 								 								 <div></div>
-								 <div class="col is-4">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
