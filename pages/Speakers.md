@@ -455,7 +455,7 @@ Massachusetts General Hospital and Broad Institute
 		<section class="row">
 				 <div class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
+						 <h3 style="font-weight: bold; color: #6dc7e0;">Ethics and Policy
 </h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
@@ -470,9 +470,9 @@ Massachusetts General Hospital and Broad Institute
 											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
 									 </a>
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Steven Brenner</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Angela Ballantyne</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 University of California, Berkeley
+											 University of Otago
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -485,9 +485,9 @@ Massachusetts General Hospital and Broad Institute
 											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
 									 </a>
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Rob Yang</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Michaela Mayrhofer</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-CartaBio Inc
+BBMRI-ERIC
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -500,10 +500,10 @@ CartaBio Inc
 											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
 									 </a>
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Heidi Rehm
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Julian Savulescu
 </h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Massachusetts General Hospital and Broad Institute
+National University of Singapore
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -515,7 +515,7 @@ Massachusetts General Hospital and Broad Institute
 		<section class="row">
 				 <div class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
+						 <h3 style="font-weight: bold; color: #6dc7e0;">From Cohorts to Data Validation
 </h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
@@ -530,9 +530,9 @@ Massachusetts General Hospital and Broad Institute
 											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
 									 </a>
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Steven Brenner</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Andrew Morris</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 University of California, Berkeley
+											 Health Data Research UK
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -545,9 +545,9 @@ Massachusetts General Hospital and Broad Institute
 											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
 									 </a>
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Rob Yang</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Nicola Mulder</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-CartaBio Inc
+University of Cape Town
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -560,10 +560,10 @@ CartaBio Inc
 											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
 									 </a>
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Heidi Rehm
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Fatima Qafoud
 </h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Massachusetts General Hospital and Broad Institute
+Qatar Biobank
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -796,7 +796,7 @@ National Cancer Institute, NIH
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Eimear Kenny" src="/images/Speaker%20Photos%202024/Arash_Etemadi.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Eimear Kenny
@@ -826,7 +826,7 @@ Icahn School of Medicine at Mount Sinai
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Claudia Gonzaga-Jauregui" src="/images/Speaker%20Photos%202024/Claudia_Gonzaga_Juaregui.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Claudia Gonzaga-Jauregui</h4>
@@ -841,7 +841,7 @@ Icahn School of Medicine at Mount Sinai
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Saumya Jamuar" src="/images/Speaker%20Photos%202024/Saumya_Jamuar.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Saumya Jamuar</h4>
@@ -856,7 +856,7 @@ KK Women's and Children's Hospital
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Gabriela Repetto" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Gabriela Repetto
@@ -886,7 +886,7 @@ Facultad de Medicina, Clinica Alemana Universidad del Desarrollo, Santiago, Chil
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Eva Maria Cutiongco-Dela Paz" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Eva Maria Cutiongco-Dela Paz</h4>
@@ -901,7 +901,7 @@ Facultad de Medicina, Clinica Alemana Universidad del Desarrollo, Santiago, Chil
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Prof Nicki Tiffin" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Nicki Tiffin" src="/images/Speaker%20Photos%202024/Nicola_C_Tiffin.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Nicki Tiffin
@@ -917,7 +917,7 @@ South African National Bioinformatics Institute, University of the Western Cape
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janewit Wongboonsin" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Janewit Wongboonsin" src="/images/Speaker%20Photos%202024/Janewit_Wongboonsin.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Janewit Wongboonsin</h4>
@@ -946,7 +946,7 @@ Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univerist
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Prof Richard Haspel" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Richard Haspel" src="/images/Speaker%20Photos%202024/Richard_Haspel.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Richard Haspel</h4>
@@ -961,7 +961,7 @@ Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univerist
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Victoria (Vicky) Nembaware" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Victoria (Vicky) Nembaware" src="/images/Speaker%20Photos%202024/Vicky_Nembarawe.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Victoria (Vicky) Nembaware</h4>
@@ -976,7 +976,7 @@ University of Cape Town
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Sharon Plon" src="/images/Speaker%20Photos%20(Round)/Sharon_Plon.png">
+											 <img alt="Dr Sharon Plon" src="/images/Speaker%20Photos%202024/Sharon_Plon.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Sharon Plon
