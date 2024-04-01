@@ -43,9 +43,5 @@ please do not hesitate to contact the CRIS Data Protection Office at&nbsp;
 <p>For more information on how we collect, use and/or disclose your personal
 data, please read our&nbsp;CRIS&nbsp;<a href="https://www.cris.sg/files/Critical%20Documents/Data-Protection-Notice.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Data Protection Notice</u></a>.</p>
 </li>
-<li>
-<p>For additional details on the collection, use and disclosure of your personal
-data for job applications, please read our&nbsp;<a href="https://www.cris.sg/files/Critical%20Documents/dp%20notice%20for%20job%20applicants.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CRIS Data Protection Notice for Job Applicants</u></a>.</p>
-</li>
 </ol>
 <p></p>
