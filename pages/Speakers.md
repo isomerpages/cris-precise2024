@@ -7,8 +7,8 @@ description: ""
 <div>
 	<img style="padding-bottom: 30px; widht: auto;" src="/images/Header%20Footer/Header__5_.png" alt="header">
 </div>
-<section style="padding-top:0" class="bp-section">
-	<div class="bp-container content padding--top--lg padding--bottom--xl">
+<section>
+	<div class="bp-container is-fluid">
 			 <section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
