@@ -7,12 +7,12 @@ description: ""
 <div>
 	<img style="padding-bottom: 30px; widht: auto;" src="/images/Header%20Footer/Header__5_.png" alt="header">
 </div>
-<section class="bp-section">
+<section style="padding-top:0" class="bp-section">
 	<div class="bp-container content padding--top--lg padding--bottom--xl">
 			 <section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Guest of Honor
+						 <h3 style="font-weight: bold; color: #6dc7e0;">Guest of Honor/
 </h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
