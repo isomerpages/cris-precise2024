@@ -691,8 +691,9 @@ Regeneron Pharmaceuticals
 						 </div>
 					 </div>
 				 </div>
-		</section>
-		<section class="row">
+</section>
+		
+<section class="row">
 				 <div class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Genomic Diversity
@@ -722,7 +723,7 @@ Regeneron Pharmaceuticals
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Paul Thompson" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Paul Thompson</h4>
@@ -737,7 +738,7 @@ University of Southern California
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Asst Prof Biju Viswanath" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Asst Prof Biju Viswanath
@@ -751,8 +752,69 @@ National Institute of Mental Health and Neuro Sciences (NIMHANS)
 						 </div>
 					 </div>
 				 </div>
-		</section>
-		<section class="row">
+</section>
+		
+<section class="row">
+				 <div class="col is-8 is-offset-2 print-content">
+					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0;">Pharmacogenomics</h3>
+					 </div>
+					 <div style="padding-top: 30px" class="bp-section font">
+						 <div class="bp-container is-fluid has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Prof Collet Dandara" src="/images/Speaker%20Photos%202024/Collet_Dandara.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Collet Dandara</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+											 University of Cape Town
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Dr Elaine Lo Ah Gi" src="/images/Speaker%20Photos%202024/Elaine_Lo.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Elaine Lo Ah Gi</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+National University Hospital
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Prof Eimear Kenny" src="/images/Speaker%20Photos%202024/Chonlaphat_Sukasem.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Chonlaphat Sukasem
+</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Ramathibodi Hospital, Mahidol University
+										 </div>				 
+								 </div>
+								 <div></div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+</section>
+		
+<section class="row">
 				 <div class="col is-8 is-offset-2 print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0;">Population Health</h3>
