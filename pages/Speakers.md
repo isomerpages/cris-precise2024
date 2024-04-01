@@ -12,7 +12,7 @@ description: ""
 			 <section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Guest of Honor/
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Guest of Honor
 </h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
@@ -41,7 +41,7 @@ description: ""
 					 <section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Plenaries</h3>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Plenaries</h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
 						 <div class="bp-container is-fluid has-text-centered">
@@ -114,7 +114,7 @@ description: ""
 <section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Biobanks for Precision Medicine</h3>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Biobanks for Precision Medicine</h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
 						 <div class="bp-container is-fluid has-text-centered">
@@ -219,7 +219,7 @@ National Health Research Institutes, Taiwan
 <section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Cancer Genetics</h3>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Cancer Genetics</h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
 						 <div class="bp-container is-fluid has-text-centered">
@@ -277,7 +277,7 @@ Cancer Research Malaysia
 <section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Complex Traits/Variant Resolution</h3>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Complex Traits/Variant Resolution</h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
 						 <div class="bp-container is-fluid has-text-centered">
@@ -337,7 +337,7 @@ Institute of Mental Health
 <section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Data Driven Discovery
 </h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
@@ -398,7 +398,7 @@ Massachusetts General Hospital and Broad Institute
 <section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Ethics and Policy
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Ethics and Policy
 </h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
@@ -458,7 +458,7 @@ National University of Singapore
 <section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">From Cohorts to Data Validation
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">From Cohorts to Data Validation
 </h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
@@ -518,7 +518,7 @@ Qatar Biobank
 		<section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Genetic Counseling &amp; Community Engagement
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genetic Counseling &amp; Community Engagement
 </h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
@@ -579,7 +579,7 @@ Garvan Institute of Medical Research
 		<section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Genomic/precision medicine for therapeutic R&amp;D</h3>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic/precision medicine for therapeutic R&amp;D</h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
 						 <div class="bp-container is-fluid has-text-centered">
@@ -639,7 +639,7 @@ Regeneron Pharmaceuticals
 <section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Genomic Diversity
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic Diversity
 </h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
@@ -699,7 +699,7 @@ National Institute of Mental Health and Neuro Sciences (NIMHANS)
 		<section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Genomic Science in Cohorts</h3>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic Science in Cohorts</h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
 						 <div class="bp-container is-fluid has-text-centered">
@@ -759,7 +759,7 @@ National University of Singapore
 <section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Genomic Screening
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic Screening
 </h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
@@ -821,7 +821,7 @@ Universiti Tunku Abdul Rahman
 <section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Pharmacogenomics</h3>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Pharmacogenomics</h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
 						 <div class="bp-container is-fluid has-text-centered">
@@ -881,7 +881,7 @@ Ramathibodi Hospital, Mahidol University
 <section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Population Health</h3>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Population Health</h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
 						 <div class="bp-container is-fluid has-text-centered">
@@ -940,7 +940,7 @@ Icahn School of Medicine at Mount Sinai
 		<section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Rare Diseases
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Rare Diseases
 </h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
@@ -1000,8 +1000,7 @@ Facultad de Medicina, Clinica Alemana Universidad del Desarrollo, Santiago, Chil
 		<section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Research in LMICs
-</h3>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Research in LMICs</h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
 						 <div class="bp-container is-fluid has-text-centered">
@@ -1060,8 +1059,7 @@ Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univerist
 <section class="row">
 				 <div style="margin-left: 0;" class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Training/Early Career Scientists
-</h3>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Training/Early Career Scientists</h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
 						 <div class="bp-container is-fluid has-text-centered">
