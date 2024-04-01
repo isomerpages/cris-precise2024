@@ -303,13 +303,13 @@ Cancer Research Malaysia
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Prof Liu Jian Jun" src="/images/Speaker%20Photos%202024/Wong_Lim_Soon.png">
+											 <img alt="Prof Wong Limsoon" src="/images/Speaker%20Photos%202024/Wong_Lim_Soon.png">
 									 </a>
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Liu Jian Jun
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Wong Limsoon
 </h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Genome Institute of Singapore
+National University of Singapore
 										 </div>				 
 								 </div>		
 								 <div></div>
@@ -719,6 +719,22 @@ National Institute of Mental Health and Neuro Sciences (NIMHANS)
 										 </div>				 
 								 </div>
 								 <div></div>
+								 	<div></div>
+								 <div class="col is-4">
+									 <a href="/john-lim" class="speaker">
+										 </a>
+									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
+										 <a href="/john-lim" class="speaker">
+											 <img alt="Prof Liu Jian Jun" src="/images/Speaker%20Photos%202024/Placeholder.png">
+									 </a>
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Liu Jian Jun
+</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Genome Institute of Singapore
+										 </div>				 
+								 </div>
+								 <div></div>
 								 	<div></div>						 
 								 <div class="col is-4">
 									 <a href="/john-lim" class="speaker">
@@ -731,22 +747,6 @@ National Institute of Mental Health and Neuro Sciences (NIMHANS)
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Adj Asst Prof Max Lam</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 Precision Health Research Singapore
-										 </div>				 
-								 </div>
-								 <div></div>
-								 							 <div></div>
-								 <div class="col is-4">
-									 <a href="/john-lim" class="speaker">
-										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
-										 <a href="/john-lim" class="speaker">
-											 <img alt="Prof Wong Limsoon" src="/images/Speaker%20Photos%202024/Placeholder.png">
-									 </a>
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Wong Limsoon
-</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-National University of Singapore
 										 </div>				 
 								 </div>
 								 <div></div>
