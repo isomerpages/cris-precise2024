@@ -4,8 +4,19 @@ permalink: /registration/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Registration Fees</strong></h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header Footer/Header__5_.png">
+</div>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h2><strong>Registration Fees</strong></h2>
+</th>
+</tr>
+</tbody>
+</table>
 <table>
 <tbody>
 <tr>
@@ -157,5 +168,10 @@ No refunds will be made for non-attendance at the Conference.</p>
 </li>
 </ol>
 <p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header Footer/Footer__4_.png">
+</div>
 <p></p>
 <p></p>
