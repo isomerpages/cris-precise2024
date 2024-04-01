@@ -4,6 +4,9 @@ permalink: /speakers/
 variant: markdown
 description: ""
 ---
+<div>
+	<img style="padding-bottom: 30px; widht: auto;" src="/images/Header%20Footer/Header__5_.png" alt="header">
+</div>
 <section class="bp-section">
 	<div class="bp-container content padding--top--lg padding--bottom--xl">
 			 <section class="row">
@@ -295,19 +298,20 @@ Cancer Research Malaysia
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-4">
+					 <div class="col is-4">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Adj Asst Prof Max Lam" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Prof Liu Jian Jun" src="/images/Speaker%20Photos%202024/Wong_Lim_Soon.png">
 									 </a>
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Adj Asst Prof Max Lam</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Liu Jian Jun
+</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Precision Health Research Singapore
+Genome Institute of Singapore
 										 </div>				 
-								 </div>
+								 </div>		
 								 <div></div>
 								 							 <div></div>
 								 <div class="col is-4">
@@ -436,7 +440,7 @@ BBMRI-ERIC
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Prof Julian Savulescu" src="/images/Speaker%20Photos%20(Round)/Julian_Savulescu.png">
+											 <img alt="Prof Julian Savulescu" src="/images/Speaker%20Photos%202024/Julian_Savulescu.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Julian Savulescu
@@ -715,19 +719,18 @@ National Institute of Mental Health and Neuro Sciences (NIMHANS)
 										 </div>				 
 								 </div>
 								 <div></div>
-								 							 <div></div>
+								 	<div></div>						 
 								 <div class="col is-4">
 									 <a href="/john-lim" class="speaker">
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Prof Liu Jian Jun" src="/images/Speaker%20Photos%202024/Wong_Lim_Soon.png">
+											 <img alt="Adj Asst Prof Max Lam" src="/images/Speaker%20Photos%202024/Max_Lam.png">
 									 </a>
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Liu Jian Jun
-</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Adj Asst Prof Max Lam</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Genome Institute of Singapore
+Precision Health Research Singapore
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -904,7 +907,7 @@ Ramathibodi Hospital, Mahidol University
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Arash Etemadi" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Dr Arash Etemadi" src="/images/Speaker%20Photos%202024/Arash_Etemadi.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Arash Etemadi</h4>
@@ -919,7 +922,7 @@ National Cancer Institute, NIH
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Prof Eimear Kenny" src="/images/Speaker%20Photos%202024/Arash_Etemadi.png">
+											 <img alt="Prof Eimear Kenny" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Eimear Kenny
@@ -1116,3 +1119,6 @@ Baylor College of Medicine
 		</section>
 	</div>
 </section>
+<div>
+	<img style="padding-top: 40px; widht: auto;" src="/images/Header%20Footer/Footer__4_.png" alt="footer">
+</div>
