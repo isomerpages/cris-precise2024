@@ -21,7 +21,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>General Attendee</strong>
+<p><strong>General</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
