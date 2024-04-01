@@ -335,7 +335,8 @@ Institute of Mental Health
 							 <section class="row">
 				 <div class="col is-8 is-offset-2 print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0;">Biobanks for Precision Medicine</h3>
+						 <h3 style="font-weight: bold; color: #6dc7e0;">Data Driven Discovery
+</h3>
 					 </div>
 					 <div style="padding-top: 30px" class="bp-section font">
 						 <div class="bp-container is-fluid has-text-centered">
@@ -349,9 +350,9 @@ Institute of Mental Health
 											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
 									 </a>
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Chen Zhengming</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Steven Brenner</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 University of Oxford
+											 University of California, Berkeley
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -364,9 +365,9 @@ Institute of Mental Health
 											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
 									 </a>
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Geoffrey Ginsburg</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Rob Yang</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-All of Us Research Program, National Institutes of Health
+CartaBio Inc
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -379,56 +380,10 @@ All of Us Research Program, National Institutes of Health
 											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
 									 </a>
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Lin Yen-Feng
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Heidi Rehm
 </h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-National Health Research Institutes, Taiwan
-										 </div>				 
-								 </div>
-								 <div></div>
-								 							 <div></div>
-								 <div class="col is-4">
-									 <a href="/john-lim" class="speaker">
-										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
-										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
-									 </a>
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Tai E Shyong</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 Institute for Molecular Medicine Finland (FIMM), HiLIFE, University of Helsinki
-										 </div>				 
-								 </div>
-								 <div></div>
-								 							 <div></div>
-								 <div class="col is-4">
-									 <a href="/john-lim" class="speaker">
-										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
-										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
-									 </a>
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Tai E Shyong</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 Precision Health Research Singapore
-										 </div>				 
-								 </div>
-								 <div></div>
-								 							 <div></div>
-								 <div class="col is-4">
-									 <a href="/john-lim" class="speaker">
-										 </a>
-									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
-										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
-									 </a>
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Masayuki Yamamoto
-</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 Tohoku University Graduate School of
+Massachusetts General Hospital and Broad Institute
 										 </div>				 
 								 </div>
 								 <div></div>
