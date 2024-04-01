@@ -18,7 +18,7 @@ description: ""
 								 <div class="col is-4">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div class="speaker-image-wrapper">
+									 <div style="width: 100px; margin: auto" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img height="50" width="50" alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
 									 </a>
@@ -35,7 +35,7 @@ description: ""
 								 <div class="col is-4">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div class="speaker-image-wrapper">
+									 <div style="width: 100px; margin: auto" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img height="50" width="50" alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
 									 </a>
@@ -52,7 +52,7 @@ description: ""
 								 <div class="col is-4">
 									 <a href="/john-lim" class="speaker">
 										 </a>
-									 <div class="speaker-image-wrapper">
+									 <div style="width: 100px; margin: auto" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
 											 <img height="50" width="50" alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
 									 </a>
