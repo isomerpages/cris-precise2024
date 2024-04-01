@@ -10,7 +10,7 @@ description: ""
 <section>
 	<div class="bp-container is-fluid">
 			 <section class="row">
-				 <div style="margin-left: 0;" class="print-content">
+				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Guest of Honor
 </h3>
