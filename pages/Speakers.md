@@ -51,7 +51,7 @@ description: ""
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Prof Vajira Dissanayake" src="/images/Speaker%20Photos%202024/VajiraDissanayake.png">
+											 <img alt="Prof Vajira Dissanayake" src="/images/Speaker%20Photos%202024/vajira_dissanayake.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Vajira Dissanayake</h4>
@@ -66,7 +66,7 @@ description: ""
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Dame Sue Hill" src="/images/Speaker%20Photos%202024/Dame_Sue_Hill.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Dame Sue Hill</h4>
@@ -81,7 +81,7 @@ description: ""
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Kathryn North" src="/images/Speaker%20Photos%202024/Kathryn_North.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Kathryn North</h4>
@@ -96,7 +96,7 @@ description: ""
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Patrick Tan" src="/images/Speaker%20Photos%202024/Patrick_Tan.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Patrick Tan</h4>
@@ -124,7 +124,7 @@ description: ""
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Chen Zhengming" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Chen Zhengming</h4>
@@ -139,7 +139,7 @@ description: ""
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Geoffrey Ginsburg" src="/images/Speaker%20Photos%202024/Geoffrey_Ginsburg.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Geoffrey Ginsburg</h4>
@@ -154,7 +154,7 @@ All of Us Research Program, National Institutes of Health
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Lin Yen-Feng" src="/images/Speaker%20Photos%202024/Lin_Yen_Feng.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Lin Yen-Feng
@@ -170,10 +170,10 @@ National Health Research Institutes, Taiwan
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Aarno Palotie" src="/images/Speaker%20Photos%202024/Aarno_Palotie.png">
 									 </a>
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Tai E Shyong</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Aarno Palotie</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 											 Institute for Molecular Medicine Finland (FIMM), HiLIFE, University of Helsinki
 										 </div>				 
@@ -185,7 +185,7 @@ National Health Research Institutes, Taiwan
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Tai E Shyong" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Tai E Shyong</h4>
@@ -200,7 +200,7 @@ National Health Research Institutes, Taiwan
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Masayuki Yamamoto" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Masayuki Yamamoto
@@ -229,7 +229,7 @@ National Health Research Institutes, Taiwan
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%202024/Will_Foulkes.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr William Foulkes</h4>
