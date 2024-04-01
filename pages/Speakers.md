@@ -527,7 +527,7 @@ National University of Singapore
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Andrew Morris" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Andrew Morris</h4>
@@ -542,7 +542,7 @@ National University of Singapore
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Prof Nicola Mulder" src="/images/Speaker%20Photos%202024/Nicola_Mulder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Nicola Mulder</h4>
@@ -557,7 +557,7 @@ University of Cape Town
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Fatima Qafoud" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Fatima Qafoud
@@ -587,7 +587,7 @@ Qatar Biobank
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Yasmin Bylstra" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Yasmin Bylstra</h4>
@@ -602,7 +602,7 @@ Qatar Biobank
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Yoon Sook Yee" src="/images/Speaker%20Photos%202024/Sook_Yee_Yoon.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Yoon Sook Yee
@@ -618,7 +618,7 @@ GENETIX Cancer Research Malaysia
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Mary-Anne Young" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Mary-Anne Young
@@ -647,7 +647,7 @@ Garvan Institute of Medical Research
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Guillermo Del Angel" src="/images/Speaker%20Photos%202024/Guillermo_del_Angel.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Guillermo Del Angel</h4>
@@ -662,7 +662,7 @@ Garvan Institute of Medical Research
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Mark Mccarthy" src="/images/Speaker%20Photos%202024/Mark_McCarthy.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Mark Mccarthy</h4>
@@ -677,7 +677,7 @@ Genentech
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Lyndon Mitnaul" src="/images/Speaker%20Photos%202024/Placeholder.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Lyndon Mitnaul
@@ -707,7 +707,7 @@ Regeneron Pharmaceuticals
 										 </a>
 									 <div style="width: 120px; margin: auto; margin-bottom: 12px" class="speaker-image-wrapper">
 										 <a href="/john-lim" class="speaker">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%20(Round)/Dr_Janil.png">
+											 <img alt="Dr Andres Moreno-Estrada" src="/images/Speaker%20Photos%202024/Andres_Moreno_Estrada.png">
 									 </a>
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Andres Moreno-Estrada</h4>
