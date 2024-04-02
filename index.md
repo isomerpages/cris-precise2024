@@ -79,8 +79,8 @@ sections:
           link_text: Click here for more information on the Programme
           link_url: programme/day1
   - infobar:
-      title: Get your passes now!
+      title: Register your interest now!
       id: infobar
-      button: register
       url: /registration
+      description: Registration opens soon
 ---
