@@ -89,7 +89,7 @@ the List of Low- and Middle-Income Countries.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos/Register_Opening_Soon.png">
 </div>
-<h4>Please register your interest here and we will get back to you once registration&nbsp;is&nbsp;open!<br></h4>
+<h4>Please register your interest <a href="https://form.gov.sg/65b0c6cb4c2f3e0012f95f66" rel="noopener noreferrer nofollow" target="_blank">here</a> and we will get back to you once registration&nbsp;is&nbsp;open!<br></h4>
 <hr>
 <p></p>
 <p><strong>PLEASE TAKE NOTE OF THE FOLLOWING:</strong>
