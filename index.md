@@ -45,7 +45,7 @@ sections:
       description: Learn from thought leaders, policy makers, and researchers around
         the world at the forefront of the precision medicine space.
       button: find out more
-      url: /speakers/overview
+      url: /speakers/
       image: /images/Speaker__Large_.png
       alt: Conference Plenary Speakers
   - infopic:
@@ -56,7 +56,7 @@ sections:
         effective solutions that make precision medicine accessible, equitable
         and beneficial worldwide.
       button: programme
-      url: /programme/day1
+      url: /day-1-21-aug-2024/
       image: /images/Advance_Medicine__Large_.jpg
       alt: Precision medicine advancement
   - announcements:
