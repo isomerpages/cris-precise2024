@@ -44,12 +44,13 @@ webpage more information: <a href="https://www.ica.gov.sg/enter-transit-depart/e
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/One_Farrer_Hotel.jpg">
 </div>
-<p>Situated in one of Singapore’s heritage districts, One Farrer Hotel is
-a leading luxury retreat designed for the discerning traveller. Defined
-by an intuitive and trend setting approach towards lifestyle and hospitality,
-this 5-star urban resort offers a distinctive range of accommodations,
-exclusive wellness and spa facilities, innovative dining concepts and a
-state-of-the-art conference centre.</p>
+<p><strong>One Farrer Hotel</strong> is situated in one of Singapore’s heritage
+districts, <strong>Little India</strong>, with <strong>Farrer Park MRT station</strong> right
+at its doorstep. The hotel takes pride in its award-winning permanent collection
+of over 400 pieces of original contemporary abstract art from across Greater
+Asia, the largest of its kind in Singapore.</p>
+<p>The conference centre at One Farrer Hotel features cutting-edge capabilities
+and offer an ideal venue for conferences and functions.</p>
 <p>Located above Farrer Park MRT station with direct access to island-wide
 MRT system, the hotel is within easy reach to business districts and attractions.</p>
 <ul data-tight="true" class="tight">
