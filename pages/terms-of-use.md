@@ -5,8 +5,8 @@ variant: tiptap
 ---
 <h1>Terms &amp; Conditions</h1>
 <p>1. Thank you for visiting the Precision Health Research, Singapore (PRECISE)
-and the International Health Cohorts Consortium (IHCC)website. Access to
-any page in&nbsp;<a href="https://preciseihcc-conference.sg" rel="noopener noreferrer nofollow" target="_blank">www.preciseihcc-conference.sg</a>&nbsp;(henceforth
+and the International Health Cohorts Consortium (IHCC) website. Access
+to any page in&nbsp;<a href="https://preciseihcc-conference.sg" rel="noopener noreferrer nofollow" target="_blank">www.preciseihcc-conference.sg</a>&nbsp;(henceforth
 known as “Web Site”) is governed by the terms and conditions stipulated
 below (“Terms”). Your access and use of this Web Site constitutes your
 acceptance and agreement to be bound by these terms and conditions of use
