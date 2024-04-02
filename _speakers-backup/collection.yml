@@ -1,0 +1,5 @@
+collections:
+  speakers-backup:
+    output: true
+    order:
+      - Speakers.md

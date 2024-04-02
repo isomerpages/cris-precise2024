@@ -1,0 +1,7 @@
+collections:
+  about:
+    output: true
+    order:
+      - About the Conference.md
+      - Travel Information.md
+      - Partners.md

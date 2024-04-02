@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Logos/precise-ihcc conference logo.png
 links:
-  - title: Contact Us
+  - title: About
+    collection: about
+  - title: Registration
+    url: /registration/
+  - title: Abstract Submission
+    url: /abstractsubmission/
+  - title: Programme
+    collection: programme
+  - title: Speakers
+    url: /speakers/
+  - title: Contact
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
