@@ -13,7 +13,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <h2><strong>Submission is Now Closed</strong></h2>
 <p></p>
-<p>For queries, please contact us at <a href="https://form.gov.sg/65681f27991ea30012ec9845" rel="noopener noreferrer nofollow" target="_blank"><u>events@precise.cris.sg</u></a>.</p>
+<p>For queries, please contact us at <a href="events@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">events@precise.cris.sg</a>.</p>
 </th>
 </tr>
 </tbody>
