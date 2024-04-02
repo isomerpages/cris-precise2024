@@ -36,7 +36,7 @@ sections:
         healthcare.
       button: Register now
       url: /registration
-      image: /images/Healthcare__Large_.png
+      image: /images/Singapore_Skyline__Large_v2_.png
       alt: New Landscape to Healthcare
   - infopic:
       title: Renowned International Speakers
@@ -46,7 +46,7 @@ sections:
         the world at the forefront of the precision medicine space.
       button: find out more
       url: /speakers/
-      image: /images/Speaker__Large_.png
+      image: /images/Plenary_Speakers_V2.png
       alt: Conference Plenary Speakers
   - infopic:
       title: Showcase of global precision medicine advancements
