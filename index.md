@@ -82,5 +82,5 @@ sections:
       title: Register your interest now!
       id: infobar
       url: /registration
-      description: Registration opens soon
+      button: "Register your interest "
 ---
