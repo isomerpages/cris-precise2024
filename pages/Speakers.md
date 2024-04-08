@@ -463,7 +463,7 @@ Garvan Institute of Medical Research
 		<section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic/precision medicine for therapeutic R&amp;D</h3>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic/Precision Medicine for Therapeutic R&amp;D</h3>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
