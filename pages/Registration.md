@@ -85,11 +85,10 @@ description: ""
 <p>Kindly refer to <strong><a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups" rel="noopener noreferrer nofollow" target="_blank">World Bank website</a></strong> for
 the List of Low- and Middle-Income Countries.</p>
 <p></p>
-<h3></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos/Register_Opening_Soon.png">
-</div>
-<h4>Please register your interest <a href="https://form.gov.sg/65b0c6cb4c2f3e0012f95f66" rel="noopener noreferrer nofollow" target="_blank">here</a> and we will get back to you once registration&nbsp;is&nbsp;open!<br></h4>
+<p>
+<br>
+</p><a class="isomer-image-wrapper" href="https://www.gevme.com/precise-ihcc-conference-2024-20682281"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Logos/Registration_Now_Open.gif"></a>
+<h4></h4>
 <hr>
 <p></p>
 <p><strong>PLEASE TAKE NOTE OF THE FOLLOWING:</strong>
