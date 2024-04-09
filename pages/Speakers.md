@@ -414,7 +414,7 @@ Qatar Biobank
 		<section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genetic Counseling &amp; Community Engagement
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genetic Counselling &amp; Community Engagement
 </h3>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
