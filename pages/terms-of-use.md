@@ -189,7 +189,7 @@ Site.</p>
 <h5>Permission for Use</h5>
 <p>25. Where permission is required by these Terms of Use for the use of
 this Website or the Contents, you may apply for permission by writing to
-<a href="events@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">events@precise.cris.sg</a>
+<a href="mailto:events@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">events@precise.cris.sg</a>
 </p>
 <p>26. PRECISE and IHCC may, at its sole and absolute discretion, grant or
 refuse permission to use this Web Site or the Contents, and impose such
