@@ -67,7 +67,7 @@ industry by attracting and anchoring overseas companies in Singapore, while
 yielding new opportunities for home-grown companies.</p>
 <p>PRECISE is a programme under the Consortium for Clinical Research and
 Innovation, Singapore (CRIS).</p>
-<p>For more information, visit <a href="www.npm.sg" rel="noopener noreferrer nofollow" target="_blank">www.npm.sg</a>
+<p>For more information, visit <a href="https://www.npm.sg" rel="noopener noreferrer nofollow" target="_blank">www.npm.sg</a>
 </p>
 <h3><strong>About IHCC</strong></h3>
 <p>The <strong>International Health Cohorts Consortium (IHCC)</strong> aims
