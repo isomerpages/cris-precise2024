@@ -36,7 +36,7 @@ sections:
         healthcare.
       button: Register now
       url: /registration
-      image: /images/Singapore_Skyline__Large_v2_.png
+      image: /images/Singapore_Skyline__Large_v3_.png
       alt: New Landscape to Healthcare
   - infopic:
       title: Renowned International Speakers
@@ -77,9 +77,9 @@ sections:
           date: 21 August 2024
           announcement: Wednesday, 21 August 2024 to Friday, August 23, 2024
           link_text: Click here for more information on the Programme
-          link_url: programme/day1
+          link_url: /day-1-21-aug-2024/
   - infobar:
-      title: Register your interest now!
+      title: Registration Now Open!
       id: infobar
       url: /registration
       button: Register
