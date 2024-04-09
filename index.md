@@ -36,7 +36,7 @@ sections:
         healthcare.
       button: Register now
       url: /registration
-      image: /images/Singapore_Skyline__Large_v2_.png
+      image: /images/Singapore_Skyline__Large_v3_.png
       alt: New Landscape to Healthcare
   - infopic:
       title: Renowned International Speakers
