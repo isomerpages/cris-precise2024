@@ -85,7 +85,7 @@ description: ""
 <p>Kindly refer to <strong><a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups" rel="noopener noreferrer nofollow" target="_blank">World Bank website</a></strong> for
 the List of Low- and Middle-Income Countries.</p>
 <p></p>
-<p><em>Please note that you will be redirected to the Gevme platform to complete your registration.</em>
+<p><em>Please note that you will be redirected to the Gevme platform to complete your registration.</em> 
 <br>
 <br>
 </p><a class="isomer-image-wrapper" href="https://www.gevme.com/precise-ihcc-conference-2024-20682281"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Logos/Registration_Now_Open.gif"></a>
