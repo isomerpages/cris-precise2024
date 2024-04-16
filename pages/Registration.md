@@ -16,69 +16,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4><strong>Categories</strong></h4>
-</th>
-<th rowspan="1" colspan="1">
-<h4><strong><u>Standard Registration</u></strong><br>(By 14 Aug)</h4>
-</th>
-<th rowspan="1" colspan="1">
-<h4><strong><u>Onsite Registration</u></strong><br>(From 21 to 23 Aug)</h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>General</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SGD 500</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SGD 750</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Low- and Middle-Income Countries</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SGD 150</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SGD 225</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Student</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SGD 150</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SGD 225</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Registration_Type.png">
 </div>
@@ -94,7 +31,8 @@ the List of Low- and Middle-Income Countries.</p>
 </p>
 <p></p><a class="isomer-image-wrapper" href="https://www.gevme.com/precise-ihcc-conference-2024-20682281"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Logos/Registration_Now_Open_V3.gif"></a>
 <p></p>
-<p><strong>For inquiries about bulk purchases of conference tickets for your organisation, please contact <a href="mailto:precise-ihcc@events-sp.com" rel="noopener noreferrer nofollow" target="_blank">precise-ihcc@events-sp.com</a></strong> 
+<p>
+<br><strong>For inquiries about bulk purchases of conference tickets for your organisation, please contact <a href="mailto:precise-ihcc@events-sp.com" rel="noopener noreferrer nofollow" target="_blank">precise-ihcc@events-sp.com</a></strong> 
 <br>
 </p>
 <hr>
