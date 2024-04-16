@@ -79,6 +79,9 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Registration_Type.png">
+</div>
 <p><strong>Please note that registration fees for registrants from Low- and Middle-Income Countries is based on country of work.</strong>
 </p>
 <p></p>
@@ -90,7 +93,8 @@ the List of Low- and Middle-Income Countries.</p>
 <br>
 </p>
 <p></p><a class="isomer-image-wrapper" href="https://www.gevme.com/precise-ihcc-conference-2024-20682281"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Logos/Registration_Now_Open_V3.gif"></a>
-<p>
+<p></p>
+<p><strong>For inquiries about bulk purchases of conference tickets for your organization, please contact <a href="mailto:precise-ihcc@events-sp.com" rel="noopener noreferrer nofollow" target="_blank">precise-ihcc@events-sp.com</a></strong>
 <br>
 </p>
 <hr>
