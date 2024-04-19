@@ -493,12 +493,12 @@ Genentech
 								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Lyndon Mitnaul" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Dr Lyndon Mitnaul" src="/images/Speaker%20Photos%202024/Lyndon_Mitnaul.png">
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Lyndon Mitnaul
 </h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Regeneron Pharmaceuticals
+Regeneron Genetics Center
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -531,11 +531,11 @@ Regeneron Pharmaceuticals
 								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Prof Paul Thompson" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Prof Paul Thompson" src="/images/Speaker%20Photos%202024/Paul_Thompson.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Paul Thompson</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Paul Thompson</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-University of Southern California
+Keck School of Medicine - USC
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -735,7 +735,7 @@ National Cancer Institute, NIH
 								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Prof Eimear Kenny" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Prof Eimear Kenny" src="/images/Speaker%20Photos%202024/Eimear_Kenny.png">
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Eimear Kenny
 </h4>
