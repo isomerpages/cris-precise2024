@@ -1,8 +1,12 @@
 ---
 layout: homepage
 title: PRECISE-IHCC Conference 2024
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+description: Jointly organised by Precision Health Research, Singapore (PRECISE)
+  and the International Health Cohorts Consortium (IHCC), the conference will
+  bring together some 600 thought leaders, clinicians, scientists, biotechs, and
+  patient advocacy associations from across the world who are at the forefront
+  of precision medicine and public health innovation.
+image: /images/Singapore_Skyline__Large_v3_.png
 permalink: /
 notification: ""
 sections:
