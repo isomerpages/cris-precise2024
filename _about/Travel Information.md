@@ -66,11 +66,35 @@ Exit C.</p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="850" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.771462447102!2d103.8517982749657!3d1.3125456986750053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19c677cf7f6f%3A0xc21ef0b48ffd7759!2sOne%20Farrer%20Hotel!5e0!3m2!1sen!2ssg!4v1710209865650!5m2!1sen!2ssg"></iframe>
 </div>
+<p></p>
 <p>Address: 1 Farrer Park Station Road Singapore 217562
 <br>T. +65 6363 0101 | F. +65 6705 7856
 <br>Email: <a href="mailto:enquiry@onefarrer.com" rel="noopener noreferrer nofollow" target="_blank">enquiry@onefarrer.com</a>
 </p>
-<p>
+<h4><br><strong>One Farrer Hotel Room Reservation</strong></h4>
+<p><strong>PRECISE-IHCC Conference attendees will be entitled to booking of the </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mint Room (28sqm) at SGD 275.00++ per room, per night* inclusive of Breakfast
+(Single Occupancy); or</p>
+</li>
+<li>
+<p>Mint Room (28sqm) at SGD 295.00++ per room, per night* inclusive of Breakfast
+(Double Occupancy); or</p>
+</li>
+<li>
+<p>Mint Premier Room (33sqm) at SGD 335.00++ per room, per night* inclusive
+of Skyline Lounge access (Single Occupancy); or</p>
+</li>
+<li>
+<p>Mint Premier Room (33sqm) at SGD 375.00++ per room, per night* inclusive
+of Skyline Lounge access (Double Occupancy).</p>
+</li>
+</ul>
+<p><strong>For interested attendees, please complete and return this hotel reservation <a href="/files/One_Farrer_Hotel___PRECISE_IHCC_Conference__Aug_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a> to Sheila Ann Toleroso (<a href="mailto:sheilatoleroso@onefarrer.com" rel="noopener noreferrer nofollow" target="_blank">sheilatoleroso@onefarrer.com)</a> or Room Reservations (<a href="mailto:reservations@onefarrer.com" rel="noopener noreferrer nofollow" target="_blank">reservations@onefarrer.com)</a>.</strong>
+</p>
+<p><em>*Subject to terms and conditions and room availability.</em>
 <br>
 </p>
 <div class="isomer-image-wrapper">
