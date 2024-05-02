@@ -194,7 +194,7 @@ Tohoku University Tohoku Medical Megabank Organization (ToMMo)
 								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Prof Joanne Ngeow" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Prof Joanne Ngeow" src="/images/Speaker%20Photos%202024/Joanne_Ngeow.png">
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Joanne Ngeow</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
@@ -252,7 +252,7 @@ National University of Singapore
 								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Jimmy Lee" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Dr Jimmy Lee" src="/images/Speaker%20Photos%202024/Jimmy_Lee_Chee_Keong.png">
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Jimmy Lee
 </h4>
