@@ -547,7 +547,7 @@ Keck School of Medicine - USC
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Biju Viswanath
 </h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-National Institute of Mental Health and Neuro Sciences (NIMHANS)
+National Institute of Mental Health and Neurosciences
 										 </div>				 
 								 </div>
 								 <div></div>
