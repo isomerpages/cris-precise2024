@@ -542,9 +542,9 @@ Keck School of Medicine - USC
 								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Asst Prof Biju Viswanath" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Asst Prof Biju Viswanath" src="/images/Speaker%20Photos%202024/Biju_Viswanath.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Asst Prof Biju Viswanath
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Biju Viswanath
 </h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 National Institute of Mental Health and Neuro Sciences (NIMHANS)
@@ -810,7 +810,7 @@ Facultad de Medicina, Clinica Alemana Universidad del Desarrollo
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Dr Eva Maria Cutiongco-Dela Paz" src="/images/Speaker%20Photos%202024/Placeholder.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Eva Maria Cutiongco-Dela Paz</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Eva Maria Cutiongco-Dela Paz</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 											 University of the Philippines Manila
 										 </div>				 
