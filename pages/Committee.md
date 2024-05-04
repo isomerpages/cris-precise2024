@@ -18,22 +18,23 @@ description: ""
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Name" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Dr Seow Shih Wee" src="/images/Committee/Seow_Shih_Wee.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Name</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Seow Shih Wee</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 Organisation
+											 Precision Health Research, Singapore (PRECISE)
 										 </div>				 
 								 </div>
 								 <div></div>
 								 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Namel" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Dr Scott Sundseth" src="/images/Committee/Scott_Sundseth.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Name</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Scott Sundseth</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											Organisation
+											International
+Health Cohorts Consortium (IHCC)
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -76,11 +77,11 @@ description: ""
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Name" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Dr Arash Etemadi" src="/images/Speaker%20Photos%202024/Arash_Etemadi.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Name</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Arash Etemadi</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 Organisation
+											 National Cancer Institute, NIH, U.S.A.
 										 </div>				 
 								 </div>
 								 <div></div>
