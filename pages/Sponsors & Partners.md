@@ -38,7 +38,6 @@ description: ""
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Seow Shih Wee" src="/images/Committee/Seow_Shih_Wee.png">
 										 </div>
 								 </div>
 							 </div>
@@ -50,7 +49,7 @@ description: ""
 <section>
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Scientific Committee</h3>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Gold Sponsors</h3>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
@@ -58,34 +57,17 @@ description: ""
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Arash Etemadi" src="/images/Speaker%20Photos%202024/Arash_Etemadi.png">
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Arash Etemadi</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 National Cancer Institute, NIH, U.S.A.
-										 </div>				 
+											 <img alt="BC Platforms" src="/images/Logos/Sponsors/BC_Platforms.png">
+										 </div>		 
 								 </div>
-								 <div></div>
-								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Name" src="/images/Speaker%20Photos%202024/Placeholder.png">
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Name</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Organisation
-										 </div>				 
+											 <img alt="Novartis" src="/images/Logos/Sponsors/Novartis.png">
+										 </div>		 
 								 </div>
-								 <div></div>
-								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Name" src="/images/Speaker%20Photos%202024/Placeholder.png">
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Name
-</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Organisation
+											 <img alt="SomaLogic" src="/images/Logos/Sponsors/SomaLogic.png">
 										 </div>
 								 </div>
 							 </div>
@@ -93,6 +75,64 @@ Organisation
 					 </div>
 				 </div>
 		</section> 
+	<br>
+		<section>
+				 <div style="margin-left: 0;" class="">
+					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Silver Sponsors</h3>
+					 </div>
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
+										 </div>
+								 </div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+		</section>
+			<br>
+		<section>
+				 <div style="margin-left: 0;" class="">
+					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Bronze Sponsors</h3>
+					 </div>
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
+										  <img alt="Inqaba" src="/images/Logos/Sponsors/Inqaba.png">
+										 </div>
+								 </div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+		</section>
+	<br>
+		<section>
+				 <div style="margin-left: 0;" class="">
+					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Supporting Partners</h3>
+					 </div>
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
+										 </div>
+								 </div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+		</section>
 <div>
 	<img style="padding-top: 80px; widht: auto;" src="/images/Header%20Footer/Footer__4_.png" alt="footer">
 </div>
