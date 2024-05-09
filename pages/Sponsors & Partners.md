@@ -38,7 +38,8 @@ description: ""
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
-										 </div>
+									<img alt="BMRC_ASTAR" src="/images/Logos/Sponsors/BMRC_ASTAR.png">	 
+									 </div>
 								 </div>
 							 </div>
 						 </div>
@@ -87,7 +88,8 @@ description: ""
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
-										 </div>
+										<img alt="NovogeneAIT" src="/images/Logos/Sponsors/NovogeneAIT.png"> 
+									 </div>
 								 </div>
 							 </div>
 						 </div>
@@ -105,15 +107,24 @@ description: ""
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="BC Platforms" src="/images/Logos/Sponsors/BC_Platforms.png">
+										 </div>		 
+								 </div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
 										  <img alt="Inqaba" src="/images/Logos/Sponsors/Inqaba.png">
 										 </div>
 								 </div>
+								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Sanofi" src="/images/Logos/Sponsors/Sanofi.png">
+										 </div>
 							 </div>
 						 </div>
 					 </div>
 				 </div>
-		</section>
+		</div></section>
 	<br>
 		<section>
 				 <div style="margin-left: 0;" class="">
@@ -126,7 +137,8 @@ description: ""
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
-										 </div>
+										 <img alt="TwistBioscience" src="/images/Logos/Sponsors/TwistBioscience.png"> 
+									 </div>
 								 </div>
 							 </div>
 						 </div>
