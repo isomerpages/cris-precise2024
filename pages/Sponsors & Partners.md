@@ -66,7 +66,7 @@ description: ""
 					 </div>
 				 </div>
 		</section>
-		<br>
+		<br><br>
 <section>
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
@@ -106,7 +106,7 @@ description: ""
 					 </div>
 				 </div>
 		</section> 
-	<br>
+	<br><br>
 		<section>
 				 <div style="margin-left: 0;" class="">
 					 <div>
@@ -126,7 +126,7 @@ description: ""
 					 </div>
 				 </div>
 		</section>
-			<br>
+			<br><br>
 		<section>
 				 <div style="margin-left: 0;" class="">
 					 <div>
@@ -155,7 +155,7 @@ description: ""
 					 </div>
 				 </div>
 		</div></section>
-	<br>
+	<br><br>
 		<section>
 				 <div style="margin-left: 0;" class="">
 					 <div>
