@@ -30,6 +30,7 @@ description: ""
 						 </div>
 					 </div>
 				 </div>
+	<br>
 		</section>
 <section>
 				 <div style="margin-left: 0;" class="">
@@ -64,6 +65,7 @@ description: ""
 						 </div>
 					 </div>
 				 </div>
+		<br>
 		</section>
 <section>
 				 <div style="margin-left: 0;" class="col print-content">
@@ -103,8 +105,8 @@ description: ""
 						 </div>
 					 </div>
 				 </div>
+		<br>
 		</section> 
-	<br><br>
 		<section>
 				 <div style="margin-left: 0;" class="">
 					 <div>
@@ -123,6 +125,7 @@ description: ""
 						 </div>
 					 </div>
 				 </div>
+		<br>
 		</section>
 		<section>
 				 <div style="margin-left: 0;" class="">
@@ -151,7 +154,9 @@ description: ""
 						 </div>
 					 </div>
 				 </div>
-		</div></section>
+		</div>
+<br>
+</section>
 		<section>
 				 <div style="margin-left: 0;" class="">
 					 <div>
