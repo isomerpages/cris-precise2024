@@ -1,7 +1,7 @@
 ---
 title: Partners
 permalink: /about/partners/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
