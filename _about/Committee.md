@@ -81,16 +81,6 @@ description: ""
 								 <div></div>
 								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Tan Ee Shie" src="/images/Committee/Tan_Ee_Shien.png">
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Clinical A/Prof Tan Ee Shien</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-								Organisation
-										 </div>				 
-								 </div>
-								 <div></div>
-								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
-									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Meredith Towery" src="/images/Committee/Meredith_Towery.png">
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Ms Meredith Towery</h4>
@@ -124,7 +114,6 @@ description: ""
 										 </div>				 
 								 </div>
 								 <div></div>
-								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Segun Fatumo" src="/images/Committee/Segun_Fatumo.png">
@@ -135,7 +124,26 @@ Queen Mary University of London
 										 </div>				 
 								 </div>
 								 <div></div>
-								 							 <div></div>
+								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Max Lam" src="/images/Speaker%20Photos%202024/Max_Lam.png">
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Adj Asst Prof Max Lam</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+								Precision Health Research, Singapore (PRECISE)
+										 </div>				 
+								 </div>
+								 <div></div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Tan Ee Shie" src="/images/Committee/Tan_Ee_Shien.png">
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Clinical A/Prof Tan Ee Shien</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+								Precision Health Research, Singapore (PRECISE)
+										 </div>				 
+								 </div>
+								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Ricardo A. Verdugo" src="/images/Committee/Ricardo_A__Verdugo.png">
@@ -145,8 +153,7 @@ Queen Mary University of London
 Department of Basic-Applied Oncology, University of Chile, Chile and Faculty of Medicine, University of Talca, Chile
 										 </div>				 
 								 </div>
-								 <div></div>
-								 							 <div></div>								 
+								 <div></div>		 
 							 </div>
 						 </div>
 					 </div>
