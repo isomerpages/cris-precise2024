@@ -31,7 +31,7 @@ description: ""
 					 </div>
 				 </div>
 		</section>
-		<section>
+<section>
 				 <div style="margin-left: 0;" class="">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Academic and Healthcare Partners</h3>
