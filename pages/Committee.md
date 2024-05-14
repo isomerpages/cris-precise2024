@@ -136,11 +136,25 @@ Queen Mary University of London
 								 </div>
 								 <div></div>
 								 							 <div></div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Ricardo A. Verdugo" src="/images/Committee/Ricardo_A__Verdugo.png">
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Ricardo A. Verdugo </h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Department of Basic-Applied Oncology, University of Chile, Chile and Faculty of Medicine, University of Talca, Chile
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>								 
 							 </div>
 						 </div>
 					 </div>
 				 </div>
 		</section> 
+<div>
+	<h6><i>The committee members are arranged in alphabetical order based on their last names.</i></h6>
+</div>
 <div>
 	<img style="padding-top: 80px; widht: auto;" src="/images/Header%20Footer/Footer__4_.png" alt="footer">
 </div>
