@@ -107,7 +107,7 @@ description: ""
 				 </div>
 		<br>
 		</section> 
-		<section>
+<section>
 				 <div style="margin-left: 0;" class="">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Silver Sponsors</h3>
@@ -127,7 +127,7 @@ description: ""
 				 </div>
 		<br>
 		</section>
-		<section>
+<section>
 				 <div style="margin-left: 0;" class="">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Bronze Sponsors</h3>
@@ -157,7 +157,7 @@ description: ""
 		</div>
 <br>
 </section>
-		<section>
+<section>
 				 <div style="margin-left: 0;" class="">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Supporting Partners</h3>
