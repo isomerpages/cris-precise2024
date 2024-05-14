@@ -33,41 +33,6 @@ description: ""
 	<br>
 		</section>
 <section>
-				 <div style="margin-left: 0;" class="">
-					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Academic and Healthcare Partners</h3>
-					 </div>
-					 <div style="padding-top: 30px" class="font">
-						 <div class="has-text-centered">
-							 <div style="flex-wrap: wrap" class="row">
-								 <div></div>
-								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
-									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
-									<img alt="BMRC_ASTAR" src="/images/Logos/Sponsors/BMRC_ASTAR.png">	 
-									 </div>
-								 </div>
-								  <div class="col is-12-mobile is-6-tablet is-4-desktop">
-									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Duke_NUS" src="/images/Logos/Sponsors/Duke_NUS.png">
-										 </div>		 
-								 </div>
-								  <div class="col is-12-mobile is-6-tablet is-4-desktop">
-									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="NUHS" src="/images/Logos/Sponsors/NUHS.png">
-										 </div>		 
-								 </div>
-								  <div class="col is-12-mobile is-6-tablet is-4-desktop">
-									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="NUS_YLLSoM" src="/images/Logos/Sponsors/NUS_YLLSoM.png">
-										 </div>		 
-								 </div>
-							 </div>
-						 </div>
-					 </div>
-				 </div>
-		<br>
-		</section>
-<section>
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Gold Sponsors</h3>
@@ -138,7 +103,7 @@ description: ""
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="BC Platforms" src="/images/Logos/Sponsors/BC_Platforms.png">
+											 <img alt="Agilents" src="/images/Logos/Sponsors/Agilent.png">
 										 </div>		 
 								 </div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
@@ -157,6 +122,41 @@ description: ""
 		</div>
 <br>
 </section>
+<section>
+				 <div style="margin-left: 0;" class="">
+					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Academic and Healthcare Partners</h3>
+					 </div>
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
+									<img alt="BMRC_ASTAR" src="/images/Logos/Sponsors/BMRC_ASTAR.png">	 
+									 </div>
+								 </div>
+								  <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Duke_NUS" src="/images/Logos/Sponsors/Duke_NUS.png">
+										 </div>		 
+								 </div>
+								  <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="NUHS" src="/images/Logos/Sponsors/NUHS.png">
+										 </div>		 
+								 </div>
+								  <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="NUS_YLLSoM" src="/images/Logos/Sponsors/NUS_YLLSoM.png">
+										 </div>		 
+								 </div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+		<br>
+		</section>
 <section>
 				 <div style="margin-left: 0;" class="">
 					 <div>
