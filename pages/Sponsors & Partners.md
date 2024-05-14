@@ -18,8 +18,13 @@ description: ""
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Illumina" src="/images/Logos/Sponsors/Illumina_SG.png">
+											 <img alt="Illumina" src="/images/Logos/Sponsors/Illumina.png">
 										 </div>
+								 </div>
+								  <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="MGI" src="/images/Logos/Sponsors/MGI.png">
+										 </div>		 
 								 </div>
 							 </div>
 						 </div>
@@ -40,6 +45,21 @@ description: ""
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
 									<img alt="BMRC_ASTAR" src="/images/Logos/Sponsors/BMRC_ASTAR.png">	 
 									 </div>
+								 </div>
+								  <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Duke_NUS" src="/images/Logos/Sponsors/Duke_NUS.png">
+										 </div>		 
+								 </div>
+								  <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="NUHS" src="/images/Logos/Sponsors/NUHS.png">
+										 </div>		 
+								 </div>
+								  <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="NUS_YLLSoM" src="/images/Logos/Sponsors/NUS_YLLSoM.png">
+										 </div>		 
 								 </div>
 							 </div>
 						 </div>
@@ -68,9 +88,19 @@ description: ""
 								 </div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="SomaLogic" src="/images/Logos/Sponsors/SomaLogic.png">
+											 <img alt="Olink" src="/images/Logos/Sponsors/Olink.png">
 										 </div>
 								 </div>
+								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Oxford_Nanopore_Tech" src="/images/Logos/Sponsors/Oxford_Nanopore_Tech.png">
+										 </div>
+								 </div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="SomaLogic" src="/images/Logos/Sponsors/SomaLogic.png">
+										 </div>
+								 </div>								 
 							 </div>
 						 </div>
 					 </div>
