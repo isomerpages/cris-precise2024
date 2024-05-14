@@ -6,7 +6,7 @@ description: Jointly organised by Precision Health Research, Singapore (PRECISE)
   bring together some 600 thought leaders, clinicians, scientists, biotechs, and
   patient advocacy associations from across the world who are at the forefront
   of precision medicine and public health innovation.
-image: /images/Singapore_Skyline__Large_v3_.png
+image: /images/Logos/precise-ihcc conference logo.png
 permalink: /
 notification: Abstract submission date has been extended to 31 May 2024. Refer
   to Abstract Submission page for more information.
