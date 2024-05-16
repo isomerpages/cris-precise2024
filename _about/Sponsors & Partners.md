@@ -26,6 +26,11 @@ description: ""
 											 <img alt="MGI" src="/images/Logos/Sponsors/MGI.png">
 										 </div>		 
 								 </div>
+							 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="PacBio" src="/images/Logos/Sponsors/PacBio.png">
+										 </div>
+								 </div>
 							 </div>
 						 </div>
 					 </div>
@@ -109,6 +114,11 @@ description: ""
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
 										  <img alt="Inqaba" src="/images/Logos/Sponsors/Inqaba.png">
+										 </div>
+								 </div>
+								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
+										  <img alt="Macrogen APAC" src="/images/Logos/Sponsors/Macrogen_APAC.png">
 										 </div>
 								 </div>
 								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
