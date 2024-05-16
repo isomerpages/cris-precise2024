@@ -397,7 +397,7 @@ University of Cape Town
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Fatima Qafoud" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Dr Fatima Qafoud" src="/images/Speaker%20Photos%202024/Fatima_Qafoud.png">
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Fatima Qafoud
 </h4>
@@ -423,7 +423,7 @@ Qatar Biobank
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Yasmin Bylstra" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Yasmin Bylstra" src="/images/Speaker%20Photos%202024/Yasmin_Bylstra.png">
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Ms Yasmin Bylstra</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
@@ -713,7 +713,7 @@ Ramathibodi Hospital, Mahidol University
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Prof John Chambers" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Prof John Chambers" src="/images/Speaker%20Photos%202024/John_Chambers.png">
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof John Chambers</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
