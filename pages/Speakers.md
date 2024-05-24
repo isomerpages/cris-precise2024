@@ -205,11 +205,11 @@ National Cancer Centre Singapore
 								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="rof Datin Paduka Dr Teo Soo-Hwang" src="/images/Speaker%20Photos%202024/Soo_Hwang_Teo.png">
+											 <img alt="Dr Ho Weang Kee" src="/images/Speaker%20Photos%202024/Ho_Weang_Kee.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Datin Paduka Dr Teo Soo-Hwang</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Ho Weang Kee</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Cancer Research Malaysia
+University of Nottingham Malaysia/Cancer Research Malaysia
 										 </div>				 
 								 </div>
 								 <div></div>
