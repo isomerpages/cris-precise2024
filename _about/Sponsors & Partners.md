@@ -66,6 +66,11 @@ description: ""
 											 <img alt="Oxford_Nanopore_Tech" src="/images/Logos/Sponsors/Oxford_Nanopore_Tech.png">
 										 </div>
 								 </div>
+								 								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Nightingale Health" src="/images/Logos/Sponsors/Nightingale_Health.png">
+										 </div>
+								 </div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="SomaLogic" src="/images/Logos/Sponsors/SomaLogic.png">
@@ -159,6 +164,11 @@ description: ""
 								  <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="NUS_YLLSoM" src="/images/Logos/Sponsors/NUS_YLLSoM.png">
+										 </div>		 
+								 </div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="NTU" src="/images/Logos/Sponsors/NTU_LKCSoM.png">
 										 </div>		 
 								 </div>
 							 </div>
