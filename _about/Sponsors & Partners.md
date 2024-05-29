@@ -185,7 +185,16 @@ description: ""
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
-								 <div></div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
+									<img alt="Clavystbio" src="/images/Logos/Sponsors/Clavystbio.png">	 
+									 </div>
+								 </div>
+								<div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
+									<img alt="SGInnovate" src="/images/Logos/Sponsors/SGInnovate.png">	 
+									 </div>
+								 </div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
 										 <img alt="TwistBioscience" src="/images/Logos/Sponsors/TwistBioscience.png"> 
@@ -198,7 +207,8 @@ description: ""
 	<br>
 		</section>
 <div>
-<p>For any partnership and/or sponsorship opportunities, please contact
+<p><i>Sponsors are arranged in alphabetical order.</i></p>
+	<p> For any partnership and/or sponsorship opportunities, please contact
 <a href="mailto:peter_ivan@events-sp.com" rel="noopener noreferrer nofollow" target="_blank">peter_ivan@events-sp.com</a>
 </p></div>
 <div>
