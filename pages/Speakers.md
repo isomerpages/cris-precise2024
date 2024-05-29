@@ -103,6 +103,17 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
+								 								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Prof John Chambers" src="/images/Speaker%20Photos%202024/John_Chambers.png">
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof John Chambers</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Precision Health Research, Singapore
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Prof Chen Zhengming" src="/images/Speaker%20Photos%202024/Zhengming_Chen.png">
@@ -144,17 +155,6 @@ National Health Research Institutes, Taiwan
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Aarno Palotie</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 											 Institute for Molecular Medicine Finland (FIMM), HiLIFE, University of Helsinki
-										 </div>				 
-								 </div>
-								 <div></div>
-								 							 <div></div>
-								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
-									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Prof John Chambers" src="/images/Speaker%20Photos%202024/John_Chambers.png">
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof John Chambers</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Precision Health Research, Singapore
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -927,7 +927,7 @@ Baylor College of Medicine
 <section>
 	<br><br>
 	<div style="margin-top: 20px; margin-left:0" class="bp-container is-fluid">
-		<i>*Speaker list is accurate as of 30 May 2024.</i>
+		<i>*Speakers are arranged in alphabetical order based on their last names and list is accurate as of 30 May 2024.</i>
 	</div>
 </section>
 <div>
