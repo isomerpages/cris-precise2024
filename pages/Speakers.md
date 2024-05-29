@@ -33,6 +33,7 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 						 </div>
 					 </div>
 				 </div>
+				 <br>
 		</section>
 					 <section>
 				 <div style="margin-left: 0;" class="">
@@ -90,12 +91,14 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 						 </div>
 					 </div>
 				 </div>
+						 <br>
 		</section>
 <section>
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Biobanks for Precision Medicine</h3>
 					 </div>
+					 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims to explore the pivotal role of biobanks in Asia, Europe and the USA and how they are facilitating the seamless transition from cohort studies to clinical application.</div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
