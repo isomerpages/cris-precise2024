@@ -924,6 +924,12 @@ Baylor College of Medicine
 		</section>
 	</div>
 </section>
+<section>
+	<br><br>
+	<div style="margin-top: 20px; margin-left:0" class="bp-container is-fluid">
+		<i>*Speaker list is accurate as of 30 May 2024.</i>
+	</div>
+</section>
 <div>
 	<img style="padding-top: 80px; widht: auto;" src="/images/Header%20Footer/Footer__4_.png" alt="footer">
 </div>
