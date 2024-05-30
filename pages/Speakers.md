@@ -33,6 +33,7 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 						 </div>
 					 </div>
 				 </div>
+				 <br>
 		</section>
 					 <section>
 				 <div style="margin-left: 0;" class="">
@@ -90,16 +91,29 @@ Senior Minister of State, Ministry of Communications and Information &amp; Minis
 						 </div>
 					 </div>
 				 </div>
+						 <br>
 		</section>
 <section>
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Biobanks for Precision Medicine</h3>
 					 </div>
+					 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims to explore the pivotal role of biobanks in Asia, Europe and the USA and how they are facilitating the seamless transition from cohort studies to clinical application.</div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
+								 								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Prof John Chambers" src="/images/Speaker%20Photos%202024/John_Chambers.png">
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof John Chambers</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Precision Health Research, Singapore
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Prof Chen Zhengming" src="/images/Speaker%20Photos%202024/Zhengming_Chen.png">
@@ -147,17 +161,6 @@ National Health Research Institutes, Taiwan
 								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Prof Tai E Shyong" src="/images/Speaker%20Photos%202024/Tai_E_Shyong.png">
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Tai E Shyong</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Precision Health Research, Singapore
-										 </div>				 
-								 </div>
-								 <div></div>
-								 							 <div></div>
-								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
-									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Prof Masayuki Yamamoto" src="/images/Speaker%20Photos%202024/Masayuki_Yamamoto.png">
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Masayuki Yamamoto
@@ -171,12 +174,14 @@ Tohoku University Tohoku Medical Megabank Organization (ToMMo)
 						 </div>
 					 </div>
 				 </div>
+	<br>
 		</section>
 <section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Cancer Genetics</h3>
 					 </div>
+					 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims to inform healthcare professionals on recent discoveries related to the genetic basis of various cancers, and discuss the use of novel diagnostic tools to treat patients with the appropriate therapeutics.</div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
@@ -217,11 +222,13 @@ University of Nottingham Malaysia/Cancer Research Malaysia
 						 </div>
 					 </div>
 				 </div>
+	<br>
 		</section>
 <section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Complex Traits/Variant Resolution</h3>
+						 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims to discuss traits and diseases that are affected by multiple genes and environmental influences. Analytical techniques for associating specific genetic variants with complex traits will be demonstrated.</div>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
@@ -265,12 +272,14 @@ Institute of Mental Health
 						 </div>
 					 </div>
 				 </div>
+	<br>
 		</section>
 <section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Data Driven Discovery
 </h3>
+						 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims to highlight research discoveries accelerated by the advent of big data and global data sharing and collaboration among longitudinal population studies.</div>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
@@ -313,6 +322,7 @@ Massachusetts General Hospital and Broad Institute
 						 </div>
 					 </div>
 				 </div>
+	<br>
 </section>
 
 <section class="row">
@@ -320,6 +330,7 @@ Massachusetts General Hospital and Broad Institute
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Ethics and Policy
 </h3>
+						 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims to update researchers on the ethical and legal considerations as well as the implications surrounding data sharing and data analysis of an individual's genetic and genomic information.</div>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
@@ -362,6 +373,7 @@ National University of Singapore
 						 </div>
 					 </div>
 				 </div>
+	<br>
 		</section>
 <section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
@@ -410,12 +422,14 @@ Qatar Biobank
 						 </div>
 					 </div>
 				 </div>
+	<br>
 		</section>
 		<section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genetic Counselling &amp; Community Engagement
 </h3>
+						 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims to highlight the vital role genetic counselors and community engagement plays in fostering meaningful connections between participants and scientists to maximise translational value. </div>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
@@ -459,6 +473,7 @@ Garvan Institute of Medical Research
 						 </div>
 					 </div>
 				 </div>
+			<br>
 		</section>
 		<section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
@@ -506,6 +521,7 @@ Regeneron Genetics Center
 						 </div>
 					 </div>
 				 </div>
+			<br>
 </section>
 		
 <section class="row">
@@ -513,6 +529,7 @@ Regeneron Genetics Center
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic Diversity
 </h3>
+						 <div style="line-height: 24px" class="text-ellipsis speaker-position">Genomic diversity encompasses the vast array of genetic variations within human populations and has significant implications for research, healthcare and society. This session aims to explore the rich tapestry of genomic diversity and highlight its role in shaping individual traits and susceptibility to diseases. </div>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
@@ -555,12 +572,14 @@ National Institute of Mental Health and Neurosciences
 						 </div>
 					 </div>
 				 </div>
+	<br>
 </section>
 		<section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic Science in Cohorts</h3>
 					 </div>
+					 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims to explore how the cohort infrastructure can be used as a source for genomic research. It identifies the requirements for cohort studies, in terms of design, consent, and data and sample collection, to contribute to genomic science.</div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
@@ -602,6 +621,7 @@ Precision Health Research, Singapore
 						 </div>
 					 </div>
 				 </div>
+			<br>
 </section>
 		
 <section class="row">
@@ -609,6 +629,7 @@ Precision Health Research, Singapore
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic Screening
 </h3>
+						 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims to explore the use of genomic analysis technologies to deliver prognoses for both common and rare genetic diseases and what are the implications of the applications.</div>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
@@ -652,6 +673,7 @@ Universiti Tunku Abdul Rahman
 						 </div>
 					 </div>
 				 </div>
+	<br>
 </section>
 		
 <section class="row">
@@ -659,6 +681,7 @@ Universiti Tunku Abdul Rahman
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Pharmacogenomics</h3>
 					 </div>
+					 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims to explore the relationship between an individual’s genotype and their response to medicines. Specific population data and regional implementation practices that have the potential for making better medication and dosing decisions will be presented.</div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
@@ -700,6 +723,7 @@ Ramathibodi Hospital, Mahidol University
 						 </div>
 					 </div>
 				 </div>
+	<br>
 </section>
 		
 <section class="row">
@@ -707,21 +731,11 @@ Ramathibodi Hospital, Mahidol University
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Population Health</h3>
 					 </div>
+					 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims to  discuss the dynamics of population health within the context of the shifting global healthcare landscape, examining how population-level data can inform and enhance clinical practice, bridging the gap from cohorts to clinics.</div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
-									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Prof John Chambers" src="/images/Speaker%20Photos%202024/John_Chambers.png">
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof John Chambers</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Precision Health Research, Singapore
-										 </div>				 
-								 </div>
-								 <div></div>
-								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Dr Arash Etemadi" src="/images/Speaker%20Photos%202024/Arash_Etemadi.png">
@@ -744,16 +758,29 @@ Icahn School of Medicine at Mount Sinai
 										 </div>				 
 								 </div>
 								 <div></div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Prof Tai E Shyong" src="/images/Speaker%20Photos%202024/Tai_E_Shyong.png">
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Tai E Shyong</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Precision Health Research, Singapore
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
 							 </div>
 						 </div>
 					 </div>
 				 </div>
+	<br>
 		</section>
 		<section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Rare Diseases
 </h3>
+						 <div style="line-height: 24px" class="text-ellipsis speaker-position">Rare diseases pose unique challenges and collaboration is essential in addressing the complexities of rare diseases and to drive innovation in the research and patient care. This session aims to facilitate dialogue between researchers and clinicians invested in advancing rare disease research.</div>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
@@ -796,12 +823,14 @@ Facultad de Medicina, Clinica Alemana Universidad del Desarrollo
 						 </div>
 					 </div>
 				 </div>
+			<br>
 		</section>
 		<section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Research in LMICs</h3>
 					 </div>
+					 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims to encourage networking with and among researchers in low- and middle-income countries, identify challenges in these settings and foster the use of quality studies in such settings for precision medicine. </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
@@ -843,11 +872,13 @@ Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univerist
 						 </div>
 					 </div>
 				 </div>
+			<br>
 		</section>
 <section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Training/Early Career Scientists</h3>
+						 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims is open to all Early Career Scientists and will delve into the essential components of nurturing and supporting emerging scientists as they navigate through multifaceted ecosystems that make up their academic and professional pathways.</div>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
@@ -891,6 +922,12 @@ Baylor College of Medicine
 					 </div>
 				 </div>
 		</section>
+	</div>
+</section>
+<section>
+	<br><br>
+	<div style="margin-top: 20px; margin-left:0" class="bp-container is-fluid">
+		<i>*Speakers are arranged in alphabetical order based on their last names and list is accurate as of 30 May 2024.</i>
 	</div>
 </section>
 <div>
