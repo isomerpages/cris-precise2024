@@ -154,7 +154,7 @@ National Health Research Institutes, Taiwan
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Aarno Palotie</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 Institute for Molecular Medicine Finland (FIMM), HiLIFE, University of Helsinki
+											 Institute for Molecular Medicine Finland FIMM, HiLIFE, University of Helsinki, Finland and Broad institute and Massachusetts General Hospital, Boston, USA
 										 </div>				 
 								 </div>
 								 <div></div>
