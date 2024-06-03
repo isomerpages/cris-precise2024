@@ -25,7 +25,7 @@ sections:
           url: /speakers/
         - title: abstract submission
           description: Closed
-          url: /abstract/
+          url: /abstractsubmission/
         - title: travel information
           description: Getting to Singapore
           url: /about/travel/
@@ -71,7 +71,7 @@ sections:
           date: 31 May 2024
           announcement: Friday, 31 May 2024 at 11:59am EST / 11:59pm SGT
           link_text: Click on this link for more information on Abstract Submission
-          link_url: /abstract/
+          link_url: /abstractsubmission/
         - title: Registration Closes
           date: 14 August 2024
           announcement: Wednesday, 14 August 2024 at 11:59pm EST / 12:59pm SGT
