@@ -8,8 +8,7 @@ description: Jointly organised by Precision Health Research, Singapore (PRECISE)
   of precision medicine and public health innovation.
 image: /images/Logos/PRECISE_IHCC_Conference_2024_Logo.png
 permalink: /
-notification: Abstract submission date has been extended to 31 May 2024. Refer
-  to Abstract Submission page for more information.
+notification: ""
 sections:
   - hero:
       title: PRECISE-IHCC Conference 2024
