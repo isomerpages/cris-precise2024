@@ -298,9 +298,9 @@ Institute of Mental Health
 								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Rob Yang" src="/images/Speaker%20Photos%202024/Rob_Yang.png">
+											 <img alt="Dr Rob Yang" src="/images/Speaker%20Photos%202024/Rob_Yang.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Mr Rob Yang</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Rob Yang</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 CartaBio Inc
 										 </div>				 
@@ -497,9 +497,9 @@ Garvan Institute of Medical Research
 								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Mark Mccarthy" src="/images/Speaker%20Photos%202024/Mark_McCarthy.png">
+											 <img alt="Dr Mark McCarthy" src="/images/Speaker%20Photos%202024/Mark_McCarthy.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Mark Mccarthy</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Mark McCarthy</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 Genentech
 										 </div>				 
@@ -552,7 +552,7 @@ Regeneron Genetics Center
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Paul Thompson</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Keck School of Medicine - USC
+Keck School of Medicine, University of Southern California
 										 </div>				 
 								 </div>
 								 <div></div>
