@@ -879,7 +879,7 @@ Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univerist
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Training/Early Career Scientists</h3>
-						 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims is open to all Early Career Scientists and will delve into the essential components of nurturing and supporting emerging scientists as they navigate through multifaceted ecosystems that make up their academic and professional pathways.</div>
+						 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session is open to all Early Career Scientists and will delve into the essential components of nurturing and supporting emerging scientists as they navigate through multifaceted ecosystems that make up their academic and professional pathways.</div>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
