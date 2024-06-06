@@ -781,7 +781,7 @@ Precision Health Research, Singapore
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Rare Diseases
 </h3>
-						 <div style="line-height: 24px" class="text-ellipsis speaker-position">Rare diseases pose unique challenges and collaboration is essential in addressing the complexities of rare diseases and to drive innovation in the research and patient care. This session aims to facilitate dialogue between researchers and clinicians invested in advancing rare disease research.</div>
+						 <div style="line-height: 24px" class="text-ellipsis speaker-position">Rare diseases pose unique challenges and collaboration is essential in addressing the complexities of rare diseases and to drive innovation in research and patient care. This session aims to facilitate dialogue between researchers and clinicians invested in advancing rare disease research.</div>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
