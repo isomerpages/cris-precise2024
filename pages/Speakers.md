@@ -865,7 +865,7 @@ South African National Bioinformatics Institute, University of the Western Cape
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Janewit Wongboonsin</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univeristy, Thailand | Renal division, Brigham and Women's Hospital, Boston, USA
+Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol University, Thailand | Renal division, Brigham and Women's Hospital, Boston, USA
 										 </div>				 
 								 </div>
 								 <div></div>
