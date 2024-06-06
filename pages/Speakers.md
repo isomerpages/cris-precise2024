@@ -479,6 +479,7 @@ Garvan Institute of Medical Research
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic/Precision Medicine for Therapeutic R&amp;D</h3>
+						  <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims to explore the application of genomic analyses to discover, validate and develop novel therapeutic targets, biomarkers and genes that affect the efficacy and safety of new medicines.</div>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
