@@ -298,9 +298,9 @@ Institute of Mental Health
 								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Rob Yang" src="/images/Speaker%20Photos%202024/Rob_Yang.png">
+											 <img alt="Dr Rob Yang" src="/images/Speaker%20Photos%202024/Rob_Yang.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Mr Rob Yang</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Rob Yang</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 CartaBio Inc
 										 </div>				 
@@ -497,9 +497,9 @@ Garvan Institute of Medical Research
 								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Mark Mccarthy" src="/images/Speaker%20Photos%202024/Mark_McCarthy.png">
+											 <img alt="Dr Mark McCarthy" src="/images/Speaker%20Photos%202024/Mark_McCarthy.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Mark Mccarthy</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Mark McCarthy</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 Genentech
 										 </div>				 
@@ -552,7 +552,7 @@ Regeneron Genetics Center
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Paul Thompson</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Keck School of Medicine - USC
+Keck School of Medicine, University of Southern California
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -760,9 +760,9 @@ Icahn School of Medicine at Mount Sinai
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Prof Tai E Shyong" src="/images/Speaker%20Photos%202024/Tai_E_Shyong.png">
+											 <img alt="Dr Tai E Shyong" src="/images/Speaker%20Photos%202024/Tai_E_Shyong.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Tai E Shyong</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Tai E Shyong</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 Precision Health Research, Singapore
 										 </div>				 
@@ -839,7 +839,7 @@ Facultad de Medicina, Clinica Alemana Universidad del Desarrollo
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Dr Eva Maria Cutiongco-Dela Paz" src="/images/Speaker%20Photos%202024/Eva_Maria_Cutiongco_Dela_Paz.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Eva Maria Cutiongco-Dela Paz</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Eva Maria Cutiongco-Dela Paz</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 											 University of the Philippines Manila
 										 </div>				 
@@ -864,7 +864,7 @@ South African National Bioinformatics Institute, University of the Western Cape
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Janewit Wongboonsin</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univeristy, Thailand| Renal division, Brigham and Women's Hospital, Boston, USA
+Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univeristy, Thailand | Renal division, Brigham and Women's Hospital, Boston, USA
 										 </div>				 
 								 </div>
 								 <div></div>
