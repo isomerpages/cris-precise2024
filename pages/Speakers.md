@@ -154,7 +154,7 @@ National Health Research Institutes, Taiwan
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Aarno Palotie</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 Institute for Molecular Medicine Finland FIMM, HiLIFE, University of Helsinki, Finland and Broad institute and Massachusetts General Hospital, Boston, USA
+											 Institute for Molecular Medicine Finland (FIMM), HiLIFE, University of Helsinki, Finland and Broad institute and Massachusetts General Hospital, Boston, USA
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -479,6 +479,7 @@ Garvan Institute of Medical Research
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic/Precision Medicine for Therapeutic R&amp;D</h3>
+						  <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims to explore the application of genomic analyses to discover, validate and develop novel therapeutic targets, biomarkers and genes that affect the efficacy and safety of new medicines.</div>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
@@ -780,7 +781,7 @@ Precision Health Research, Singapore
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Rare Diseases
 </h3>
-						 <div style="line-height: 24px" class="text-ellipsis speaker-position">Rare diseases pose unique challenges and collaboration is essential in addressing the complexities of rare diseases and to drive innovation in the research and patient care. This session aims to facilitate dialogue between researchers and clinicians invested in advancing rare disease research.</div>
+						 <div style="line-height: 24px" class="text-ellipsis speaker-position">Rare diseases pose unique challenges and collaboration is essential in addressing the complexities of rare diseases and to drive innovation in research and patient care. This session aims to facilitate dialogue between researchers and clinicians invested in advancing rare disease research.</div>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
@@ -864,7 +865,7 @@ South African National Bioinformatics Institute, University of the Western Cape
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Janewit Wongboonsin</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univeristy, Thailand | Renal division, Brigham and Women's Hospital, Boston, USA
+Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol University, Thailand | Renal division, Brigham and Women's Hospital, Boston, USA
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -878,7 +879,7 @@ Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Univerist
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Training/Early Career Scientists</h3>
-						 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims is open to all Early Career Scientists and will delve into the essential components of nurturing and supporting emerging scientists as they navigate through multifaceted ecosystems that make up their academic and professional pathways.</div>
+						 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session is open to all Early Career Scientists and will delve into the essential components of nurturing and supporting emerging scientists as they navigate through multifaceted ecosystems that make up their academic and professional pathways.</div>
 					 </div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
