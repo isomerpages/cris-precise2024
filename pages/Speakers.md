@@ -928,7 +928,7 @@ Baylor College of Medicine
 <section>
 	<br><br>
 	<div style="margin-top: 20px; margin-left:0" class="bp-container is-fluid">
-		<i>*Speakers are arranged in alphabetical order based on their last names and list is accurate as of 30 May 2024.</i>
+		<i>*Speakers are arranged in alphabetical order based on their last names and list is accurate as of 11 June 2024.</i>
 	</div>
 </section>
 <div>
