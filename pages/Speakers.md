@@ -236,27 +236,15 @@ University of Nottingham Malaysia/Cancer Research Malaysia
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Assoc Prof Jonathan Berg" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Dr Ammira Al-Shabeeb Aki" src="/images/Speaker%20Photos%202024/Placeholder.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Assoc Prof Jonathan Berg</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Ammira Al-Shabeeb Akil</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 University of North Carolina at Chapel Hill
+											 Sidra Medicine
 										 </div>				 
 								 </div>
 								 <div></div>
 								 	<div></div>
-					 <div class="col is-12-mobile is-6-tablet is-4-desktop">
-									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Prof Wong Limsoon" src="/images/Speaker%20Photos%202024/Wong_Lim_Soon.png">
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Wong Limsoon
-</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-National University of Singapore
-										 </div>				 
-								 </div>		
-								 <div></div>
-								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Dr Jimmy Lee" src="/images/Speaker%20Photos%202024/Jimmy_Lee_Chee_Keong.png">
@@ -268,6 +256,18 @@ Institute of Mental Health
 										 </div>				 
 								 </div>
 								 <div></div>
+								 					 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Prof Wong Limsoon" src="/images/Speaker%20Photos%202024/Wong_Lim_Soon.png">
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Wong Limsoon
+</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+National University of Singapore
+										 </div>				 
+								 </div>		
+								 <div></div>
+								 							 <div></div>
 							 </div>
 						 </div>
 					 </div>
@@ -287,11 +287,11 @@ Institute of Mental Health
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Prof Steven Brenner" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Prof Raghib Ali" src="/images/Speaker%20Photos%202024/Placeholder.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Steven Brenner</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Raghib Ali</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 University of California, Berkeley
+											 Our Future Health
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -928,7 +928,7 @@ Baylor College of Medicine
 <section>
 	<br><br>
 	<div style="margin-top: 20px; margin-left:0" class="bp-container is-fluid">
-		<i>*Speakers are arranged in alphabetical order based on their last names and list is accurate as of 30 May 2024.</i>
+		<i>*Speakers are arranged in alphabetical order based on their last names and list is accurate as of 11 June 2024.</i>
 	</div>
 </section>
 <div>
