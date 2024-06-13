@@ -589,8 +589,7 @@ National Institute of Mental Health and Neurosciences
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Prof Liu Jian Jun" src="/images/Speaker%20Photos%202024/Liu_Jianjun.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Liu Jian Jun
-</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Liu Jian Jun</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 Genome Institute of Singapore
 										 </div>				 
@@ -601,7 +600,7 @@ Genome Institute of Singapore
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Adj Asst Prof Max Lam" src="/images/Speaker%20Photos%202024/Max_Lam.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Adj Asst Prof Max Lam</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Asst Prof Max Lam</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 Precision Health Research, Singapore
 										 </div>				 
@@ -887,9 +886,9 @@ Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Universit
 								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Victoria (Vicky) Nembaware" src="/images/Speaker%20Photos%202024/Vicky_Nembarawe.png">
+											 <img alt="Dr Victoria Nembaware" src="/images/Speaker%20Photos%202024/Vicky_Nembarawe.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Victoria (Vicky) Nembaware</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Victoria Nembaware</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 University of Cape Town
 										 </div>				 
