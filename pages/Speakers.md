@@ -186,17 +186,16 @@ Tohoku University Tohoku Medical Megabank Organization (ToMMo)
 						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%202024/Will_Foulkes.png">
+											 <img alt="Dr Ho Weang Kee" src="/images/Speaker%20Photos%202024/Ho_Weang_Kee.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr William Foulkes</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Ho Weang Kee</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 McGill University
+University of Nottingham Malaysia/Cancer Research Malaysia
 										 </div>				 
 								 </div>
 								 <div></div>
-								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Prof Joanne Ngeow" src="/images/Speaker%20Photos%202024/Joanne_Ngeow.png">
@@ -208,16 +207,6 @@ National Cancer Centre Singapore
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
-									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Ho Weang Kee" src="/images/Speaker%20Photos%202024/Ho_Weang_Kee.png">
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Ho Weang Kee</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-University of Nottingham Malaysia/Cancer Research Malaysia
-										 </div>				 
-								 </div>
-								 <div></div>
 							 </div>
 						 </div>
 					 </div>
@@ -761,9 +750,9 @@ Icahn School of Medicine at Mount Sinai
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Tai E Shyong" src="/images/Speaker%20Photos%202024/Tai_E_Shyong.png">
+											 <img alt="Prof Tai E Shyong" src="/images/Speaker%20Photos%202024/Tai_E_Shyong.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Tai E Shyong</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Tai E Shyong</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 Precision Health Research, Singapore
 										 </div>				 
@@ -928,7 +917,7 @@ Baylor College of Medicine
 <section>
 	<br><br>
 	<div style="margin-top: 20px; margin-left:0" class="bp-container is-fluid">
-		<i>*Speakers are arranged in alphabetical order based on their last names and list is accurate as of 11 June 2024.</i>
+		<i>*Speakers are arranged in alphabetical order based on their last names and list is accurate as of 13 June 2024.</i>
 	</div>
 </section>
 <div>
