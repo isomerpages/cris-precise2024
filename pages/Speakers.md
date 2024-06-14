@@ -186,17 +186,16 @@ Tohoku University Tohoku Medical Megabank Organization (ToMMo)
 						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
-								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Janil Puthucheary" src="/images/Speaker%20Photos%202024/Will_Foulkes.png">
+											 <img alt="Dr Ho Weang Kee" src="/images/Speaker%20Photos%202024/Ho_Weang_Kee.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr William Foulkes</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Ho Weang Kee</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 McGill University
+University of Nottingham Malaysia/Cancer Research Malaysia
 										 </div>				 
 								 </div>
 								 <div></div>
-								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Prof Joanne Ngeow" src="/images/Speaker%20Photos%202024/Joanne_Ngeow.png">
@@ -208,16 +207,6 @@ National Cancer Centre Singapore
 								 </div>
 								 <div></div>
 								 							 <div></div>
-								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
-									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Ho Weang Kee" src="/images/Speaker%20Photos%202024/Ho_Weang_Kee.png">
-										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Ho Weang Kee</h4>
-										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-University of Nottingham Malaysia/Cancer Research Malaysia
-										 </div>				 
-								 </div>
-								 <div></div>
 							 </div>
 						 </div>
 					 </div>
@@ -287,9 +276,9 @@ National University of Singapore
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Prof Raghib Ali" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Dr Raghib Ali" src="/images/Speaker%20Photos%202024/Raghib_Ali.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Raghib Ali</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Raghib Ali</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 											 Our Future Health
 										 </div>				 
@@ -378,9 +367,8 @@ National University of Singapore
 <section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">From Cohorts to Data Validation
-</h3>
-					 </div>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">From Cohorts to Data Validation</h3>
+						 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session will call to attention the complexities of cohort and participant data collection, large scale data management and analysis to prepare datasets for downstream health and biomedical research.</div></div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
@@ -600,8 +588,7 @@ National Institute of Mental Health and Neurosciences
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Prof Liu Jian Jun" src="/images/Speaker%20Photos%202024/Liu_Jianjun.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Liu Jian Jun
-</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Liu Jian Jun</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 Genome Institute of Singapore
 										 </div>				 
@@ -610,9 +597,9 @@ Genome Institute of Singapore
 								 	<div></div>						 
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Adj Asst Prof Max Lam" src="/images/Speaker%20Photos%202024/Max_Lam.png">
+											 <img alt="Dr Max Lam" src="/images/Speaker%20Photos%202024/Max_Lam.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Adj Asst Prof Max Lam</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Max Lam</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 Precision Health Research, Singapore
 										 </div>				 
@@ -761,9 +748,9 @@ Icahn School of Medicine at Mount Sinai
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Tai E Shyong" src="/images/Speaker%20Photos%202024/Tai_E_Shyong.png">
+											 <img alt="Prof Tai E Shyong" src="/images/Speaker%20Photos%202024/Tai_E_Shyong.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Tai E Shyong</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Tai E Shyong</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 Precision Health Research, Singapore
 										 </div>				 
@@ -898,9 +885,9 @@ Division of Nephrology, Faculty of Medicine, Siriraj Hospital, Mahidol Universit
 								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Victoria (Vicky) Nembaware" src="/images/Speaker%20Photos%202024/Vicky_Nembarawe.png">
+											 <img alt="Dr Victoria Nembaware" src="/images/Speaker%20Photos%202024/Vicky_Nembarawe.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Victoria (Vicky) Nembaware</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Victoria Nembaware</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 University of Cape Town
 										 </div>				 
@@ -928,7 +915,7 @@ Baylor College of Medicine
 <section>
 	<br><br>
 	<div style="margin-top: 20px; margin-left:0" class="bp-container is-fluid">
-		<i>*Speakers are arranged in alphabetical order based on their last names and list is accurate as of 11 June 2024.</i>
+		<i>*Speakers are arranged in alphabetical order based on their last names and list is accurate as of 13 June 2024.</i>
 	</div>
 </section>
 <div>
