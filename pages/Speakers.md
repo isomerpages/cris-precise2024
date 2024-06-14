@@ -367,9 +367,8 @@ National University of Singapore
 <section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
-						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">From Cohorts to Data Validation
-</h3>
-					 </div>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">From Cohorts to Data Validation</h3>
+						 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session will call to attention the complexities of cohort and participant data collection, large scale data management and analysis to prepare datasets for downstream health and biomedical research.</div></div>
 					 <div style="padding-top: 30px" class="font">
 						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
