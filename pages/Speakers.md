@@ -225,7 +225,7 @@ National Cancer Centre Singapore
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Ammira Al-Shabeeb Aki" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Dr Ammira Al-Shabeeb Aki" src="/images/Speaker%20Photos%202024/Ammira_Al_Shabeeb_Akil.png">
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Ammira Al-Shabeeb Akil</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
@@ -575,7 +575,7 @@ National Institute of Mental Health and Neurosciences
 								 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Prof Collet Dandara" src="/images/Speaker%20Photos%202024/Placeholder.png">
+											 <img alt="Prof Collet Dandara" src="/images/Speaker%20Photos%202024/Nicolas_Bertin.png">
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Nicolas Bertin</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
