@@ -95,8 +95,7 @@ of Skyline Lounge access (Single Occupancy); or</p>
 of Skyline Lounge access (Double Occupancy).</p>
 </li>
 </ul>
-<p><strong>For interested attendees, please complete and return this hotel reservation <a href="/files/One_Farrer_Hotel___PRECISE_IHCC_Conference__Aug_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">fo</a></strong>
-<a href="/files/One_Farrer_Hotel_PRECISE_IHCC_Conference_Aug_2024v2.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><strong><a href="/files/One_Farrer_Hotel___PRECISE_IHCC_Conference__Aug_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">rm</a> to Emily Wee (<a href="mailto:emilywee@onefarrer.com" rel="noopener noreferrer nofollow" target="_blank">emilywee@onefarrer.com</a>) or Room Reservations (<a href="mailto:reservations@onefarrer.com" rel="noopener noreferrer nofollow" target="_blank">reservations@onefarrer.com)</a>.</strong>
+<p><strong>For interested attendees, please complete and return this hotel reservation <a href="/files/One_Farrer_Hotel_PRECISE_IHCC_Conference_Aug_2024v2.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a> to Emily Wee (<a href="mailto:emilywee@onefarrer.com" rel="noopener noreferrer nofollow" target="_blank">emilywee@onefarrer.com</a>) or Room Reservations (<a href="mailto:reservations@onefarrer.com" rel="noopener noreferrer nofollow" target="_blank">reservations@onefarrer.com)</a>.</strong>
 </p>
 <p><em>*Subject to terms and conditions and room availability.</em>
 <br>
