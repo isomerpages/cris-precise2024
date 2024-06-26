@@ -186,6 +186,16 @@ Tohoku University Tohoku Medical Megabank Organization (ToMMo)
 						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
+								 							 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Dr Philip_Awadalla" src="/images/Speaker%20Photos%202024/Philip_Awadalla.png">
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Philip Awadalla</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Ontario Institute for Cancer Research
+										 </div>				 
+								 </div>
+								 <div></div>
 								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Dr Ho Weang Kee" src="/images/Speaker%20Photos%202024/Ho_Weang_Kee.png">
