@@ -827,9 +827,9 @@ Facultad de Medicina, Clinica Alemana Universidad del Desarrollo
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Dr Eva Maria Cutiongco-Dela Paz" src="/images/Speaker%20Photos%202024/Eva_Maria_Cutiongco_Dela_Paz.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Eva Maria Cutiongco-Dela Paz</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Eva Maria Cutiongco-de la Paz</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											 University of the Philippines Manila
+											 Institute of Human Genetics, National Institutes of Health, University of the Philippines and Philippine Genome Center
 										 </div>				 
 								 </div>
 								 <div></div>
