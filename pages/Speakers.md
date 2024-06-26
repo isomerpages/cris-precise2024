@@ -803,7 +803,7 @@ KK Women's and Children's Hospital
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Gabriela Repetto
 </h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Facultad de Medicina, Clinica Alemana Universidad del Desarrollo
+Universidad del Desarrollo
 										 </div>				 
 								 </div>
 								 <div></div>
