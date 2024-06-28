@@ -75,7 +75,7 @@ Exit C.</p>
 <br>Email: <a href="mailto:enquiry@onefarrer.com" rel="noopener noreferrer nofollow" target="_blank">enquiry@onefarrer.com</a>
 </p>
 <h3><strong>Accommodation</strong></h3>
-<h4><strong>One Farrer Hotel </strong></h4>
+<h4><strong>One Farrer Hotel</strong></h4>
 <p><strong>PRECISE-IHCC Conference attendees will be entitled to booking of the</strong>
 </p>
 <ul data-tight="true" class="tight">
