@@ -74,7 +74,8 @@ Exit C.</p>
 <br>T. +65 6363 0101 | F. +65 6705 7856
 <br>Email: <a href="mailto:enquiry@onefarrer.com" rel="noopener noreferrer nofollow" target="_blank">enquiry@onefarrer.com</a>
 </p>
-<h4><br><strong>One Farrer Hotel Room Reservation</strong></h4>
+<h3><strong>Accommodation</strong></h3>
+<h4><strong>One Farrer Hotel </strong></h4>
 <p><strong>PRECISE-IHCC Conference attendees will be entitled to booking of the</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -100,6 +101,29 @@ of Skyline Lounge access (Double Occupancy).</p>
 <p><em>*Subject to terms and conditions and room availability.</em>
 <br>
 </p>
+<h4><strong>Holiday Inn Singapore Little India</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holiday_Inn_Singapore_Little_India.jpg">
+</div>
+<p>Centrally situated in one of Singapore’s most vibrant heritage districts,
+Holiday Inn Singapore Little India enjoys an accessible location atop Farrer
+Park MRT station, providing unrivalled connectivity around the vicinity,
+to the city and Central Business District. This 20 storey hotel with its
+sleek glass exteriors offers panoramic views of the vibrant district, surrounding
+shopping complexes, quaint restaurants and heritage shop houses.</p>
+<p>Comprising 300 contemporary guest rooms fitted with modern amenities,
+Holiday Inn Singapore Little India also features a dining outlet, a lobby
+lounge, breezy al fresco bar, gymnasium and outdoor swimming pool.</p>
+<p>Whether you are on a business trip or travelling for leisure, there is
+something for everyone at Holiday Inn Singapore Little India.</p>
+<p>Address: 10 Farrer Park Station Road, Singapore 217564
+<br>T. 65-6-8248888 | Email: <a href="mailto:ailene.quek@ihg.com" rel="noopener noreferrer nofollow" target="_blank">ailene.quek@ihg.com</a> or <a href="mailto:sinli.reservations@ihg.com" rel="noopener noreferrer nofollow" target="_blank">sinli.reservations@ihg.com</a>
+</p>
+<p><strong>For interested attendees, please book via this <a href="https://imsva91-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fwww.holidayinn.com%2fredirect%3fpath%3dhd%26brandCode%3dHI%26localeCode%3den%26regionCode%3d925%26hotelCode%3dSINLI%26%5fPMID%3d99801505%26GPC%3dPIC%26cn%3dno%26viewfullsite%3dtrue&amp;umid=10014CC7-1BD9-1306-93C2-0E7801D6D529&amp;auth=6e3fe59570831a389716849e93b5d483c90c3fe4-3f19f4c53c6c81384a6c3e2af915051fb46ea2a6" rel="noopener noreferrer nofollow" target="_blank">Reservation Link</a>.</strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header Footer/Footer__4_.png">
 </div>
