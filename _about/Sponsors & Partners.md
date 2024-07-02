@@ -71,6 +71,11 @@ description: ""
 											 <img alt="Nightingale Health" src="/images/Logos/Sponsors/Nightingale_Health.png">
 										 </div>
 								 </div>
+								 								 								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Regeneron" src="/images/Logos/Sponsors/Regeneron.png">
+										 </div>
+								 </div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="SomaLogic" src="/images/Logos/Sponsors/SomaLogic.png">
