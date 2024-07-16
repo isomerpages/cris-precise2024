@@ -625,6 +625,45 @@ Precision Health Research, Singapore
 <section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
 					 <div>
+						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Industry Speaker</h3>
+						 <div style="line-height: 24px" class="text-ellipsis speaker-position">Attend the Lunchtime Industry Talks,  where industry experts will share valuable insights and the latest advancements. Connect with professionals and expand your knowledge at these informative sessions while you enjoy your lunch. 
+</div>
+					 </div>
+					 <div style="padding-top: 30px" class="font">
+						 <div class="has-text-centered">
+							 <div style="flex-wrap: wrap" class="row">
+								 <div></div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Dr Kyle Farh" src="/images/Speaker%20Photos%202024/Kyle_Farh.png">
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Kyle Farh</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+											 Illumina
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Cora Vacher" src="/images/Speaker%20Photos%202024/Cora_Vacher.png">
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Ms Cora Vacher</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+Oxford Nanopore Technologies
+										 </div>				 
+								 </div>
+								 <div></div>
+							 </div>
+						 </div>
+					 </div>
+				 </div>
+	<br>
+</section>
+
+<section class="row">
+				 <div style="margin-left: 0;" class="col print-content">
+					 <div>
 						 <h3 style="font-weight: bold; color: #6dc7e0; font-size: 24px; margin-bottom: 0">Genomic Screening
 </h3>
 						 <div style="line-height: 24px" class="text-ellipsis speaker-position">This session aims to explore the use of genomic analysis technologies to deliver prognoses for both common and rare genetic diseases and what are the implications of the applications.</div>
@@ -672,7 +711,7 @@ Universiti Tunku Abdul Rahman
 					 </div>
 				 </div>
 	<br>
-</section>
+</section>		
 		
 <section class="row">
 				 <div style="margin-left: 0;" class="col print-content">
