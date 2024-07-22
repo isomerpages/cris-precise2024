@@ -1832,7 +1832,7 @@ with Longevity</p>
 </tbody>
 </table>
 <details class="isomer-details">
-<summary><strong>Call For Abstract Submission - Close</strong>
+<summary><strong>Call For Abstract Submission - Closed</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4><br><strong>Call For Abstract Submission</strong><br>You are invited to submit your abstracts for poster presentations. Abstracts may also stand a chance to be shortlisted for an oral presentation at the Conference!</h4>
