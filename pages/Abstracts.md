@@ -14,7 +14,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h2><strong>Abstract Submissions</strong></h2>
+<h2><strong>Accepted Abstracts</strong></h2>
 </th>
 </tr>
 </tbody>
@@ -168,7 +168,7 @@ health insights</p>
 intervention strategies and community care models</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Moses Lim</p>
+<p>Dr Lim Wei-Yen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Tock Seng Hospital</p>
@@ -1169,7 +1169,7 @@ and Research</p>
 protein: a cross-sectional analysis from the ELSA-Brasil study</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Vandrize Meneghini</p>
+<p>Dr Isabela Bensenor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Universidade de São Paulo</p>
@@ -1184,7 +1184,7 @@ protein: a cross-sectional analysis from the ELSA-Brasil study</p>
 of coronary artery calcification: analysis of the ELSA-Brasil cohort study</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Vandrize Meneghini</p>
+<p>Dr Isabela Bensenor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Universidade de São Paulo</p>
@@ -1289,7 +1289,7 @@ prediction?</p>
 events – the Brazilian Longitudinal Study of Adult Health (ELSA-Brasil)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr William Tebar</p>
+<p>Dr Isabela Bensenor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Center for Clinical and Epidemiological Research, University Hospital,
@@ -1336,7 +1336,8 @@ Institute for Clinical Sciences, Agency for Science, Technology and Research</p>
 <p>Public expectations about the public interest of research</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr G. Owen Schaefer</p>
+<p>Dr G. Owen Schaefer, Marthe Smedinga, Toh Hui Jin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, National
@@ -1625,7 +1626,7 @@ Medicine Center</p>
 and Complications in Chinese Population</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Jin Xin</p>
+<p>Dr Zhu Huanhuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BGI Research</p>
