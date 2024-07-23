@@ -36,7 +36,7 @@ description: ""
 <h4><strong>Abstract title</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><strong>Main Author</strong></h4>
+<h4><strong>Presenting Author(s)</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
 <h4><strong>Institution / Organisation</strong></h4>
