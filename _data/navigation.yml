@@ -4,8 +4,8 @@ links:
     collection: about
   - title: Registration
     url: /registration/
-  - title: Abstract Submission
-    url: /abstractsubmission/
+  - title: Abstracts
+    url: /abstracts/
   - title: Programme
     collection: programme
   - title: Speakers

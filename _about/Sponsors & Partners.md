@@ -205,6 +205,11 @@ description: ""
 									<img alt="EnterpriseSG" src="/images/Logos/Sponsors/EnterpriseSG.png">	 
 									 </div>
 								 </div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
+									<img alt="Lifebit" src="/images/Logos/Sponsors/Lifebit.png">	 
+									 </div>
+								 </div>
 								<div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
 									<img alt="SGInnovate" src="/images/Logos/Sponsors/SGInnovate.png">	 
