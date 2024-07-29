@@ -1728,8 +1728,8 @@ of the Philippines Manila</p>
 <p>122</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>XY Leap Clinical Decision Support Software delivers DNA-guided individualized
-Medicine 3.0 therapeutics at point-of-care.</p>
+<p>XY Leap Clinical Decision Support Software delivers DNA-guided Individualized
+Medicine 3.0 therapeutics at Point-of-Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Andrew Winnington</p>
