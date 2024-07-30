@@ -865,8 +865,8 @@ Hospital</p>
 <p>60</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Remote Mentoring Programme: A Dementias Platform UK (DPUK) and IHCC
-initiative</p>
+<p>The Dementias Platform UK (DPUK) IHCC Remote Mentoring Programme: Democratizing
+collaboration and mentoring for Early Career Researchers (ECRs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Sarah Bauermeister</p>
@@ -880,7 +880,7 @@ initiative</p>
 <p>61</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Family cascade screening for patients with Familial Hypercholesterolemia
+<p>Cascade screening for family members of patients with Familial Hypercholesterolemia
 in Singapore: FHCARE program</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1125,7 +1125,7 @@ variant disease contribution</p>
 <p>Predictors for Positive Genetic Diagnosis of Monogenic Kidney Disease.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Lim Ru Sin</p>
+<p>Dr Regina Lim Shaoying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Tock Seng Hospital, National Healthcare Group</p>
@@ -1305,11 +1305,11 @@ University of Sao Paulo, Sao Paulo, Brazil</p>
 health, feeding practices and child eating behaviours in the GUSTO cohort.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monica Lazarus</p>
+<p>Dr Anna Magdalena Fogel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Human Potential Translational Research Programme, Yong Loo Lin School
-of Medicine, National University of Singapore (NUS)</p>
+<p>Singapore Institute for Clinical Sciences, Agency of Science, Technology
+and Research</p>
 </td>
 </tr>
 <tr>
@@ -1728,8 +1728,8 @@ of the Philippines Manila</p>
 <p>122</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>XY Leap Clinical Decision Support Software delivers DNA-guided individualized
-Medicine 3.0 therapeutics at point-of-care.</p>
+<p>XY Leap Clinical Decision Support Software delivers DNA-guided Individualized
+Medicine 3.0 therapeutics at Point-of-Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Andrew Winnington</p>
