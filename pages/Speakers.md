@@ -633,13 +633,24 @@ Precision Health Research, Singapore
 						 <div class="has-text-centered">
 							 <div style="flex-wrap: wrap" class="row">
 								 <div></div>
+								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Dr Jeffrey Barrett" src="/images/Speaker%20Photos%202024/Jeffrey_Barrett.png">
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Jeffrey Barrett</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+											 Nightingale Health
+											 										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
-											 <img alt="Dr Radoje (Rade) Drmanac" src="/images/Speaker%20Photos%202024/Radoje__Rade__Drmanac.png">
+											 <img alt="Dr Julia Carrasco-Zanini Sanchez" src="/images/Speaker%20Photos%202024/Julia_Carrasco_Zanini_Sanchez.png">
 										 </div>
-										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Radoje (Rade) Drmanac</h4>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Julia Carrasco-Zanini Sanchez</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											MGI Tech
+											Queen Mary University of London
 											 										 </div>				 
 								 </div>
 								 <div></div>
@@ -661,7 +672,18 @@ Precision Health Research, Singapore
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Lili Milani</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Estonia Biobank, Estonian Genome Center, University of Tartu (PacBio)
+Estonia Biobank, Estonian Genome Center, University of Tartu
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Dr Ting Teck Wah" src="/images/Speaker%20Photos%202024/Ting_Teck_Wah.png">
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Ting Teck Wah</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+KK Women’s and Children’s Hospital
 										 </div>				 
 								 </div>
 								 <div></div>
@@ -673,6 +695,17 @@ Estonia Biobank, Estonian Genome Center, University of Tartu (PacBio)
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Ms Cora Vacher</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
 Oxford Nanopore Technologies
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Dr Stephen A. Williams" src="/images/Speaker%20Photos%202024/Stephen_A__Williams.png">
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Stephen A. Williams</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+SomaLogic
 									 </div>				 
 								 </div>
 								 <div></div>
