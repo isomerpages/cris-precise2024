@@ -650,7 +650,7 @@ Precision Health Research, Singapore
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Julia Carrasco-Zanini Sanchez</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-											Queen Mary University of London (Olink)
+											Queen Mary University of London
 											 										 </div>				 
 								 </div>
 								 <div></div>
@@ -672,7 +672,18 @@ Precision Health Research, Singapore
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Prof Lili Milani</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Estonia Biobank, Estonian Genome Center, University of Tartu (PacBio)
+Estonia Biobank, Estonian Genome Center, University of Tartu
+										 </div>				 
+								 </div>
+								 <div></div>
+								 							 <div></div>
+								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Dr Ting Teck Wah" src="/images/Speaker%20Photos%202024/Ting_Teck_Wah.png">
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Ting Teck Wah</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+KK Women’s and Children’s Hospital
 										 </div>				 
 								 </div>
 								 <div></div>
