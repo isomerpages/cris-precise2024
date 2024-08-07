@@ -136,6 +136,11 @@ description: ""
 										  <img alt="Macrogen APAC" src="/images/Logos/Sponsors/Macrogen_APAC.png">
 										 </div>
 								 </div>
+								 								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
+										  <img alt="NalaGenetics" src="/images/Logos/Sponsors/NalaGenetics.png">
+										 </div>
+								 </div>
 								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Sanofi" src="/images/Logos/Sponsors/Sanofi.png">
