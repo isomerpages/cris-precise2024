@@ -29,7 +29,7 @@ description: ""
 the List of Low- and Middle-Income Countries.</p>
 <p></p>
 <p></p>
-<h4>Thank you for your interest in the PRECISE-IHCC Conference 2024. </h4>
+<h4>Thank you for your interest in the PRECISE-IHCC Conference 2024.</h4>
 <h3><strong>Registration is now closed due to oversubscription.</strong></h3>
 <h3>On behalf of the organising committee, thank you for your&nbsp;strong&nbsp;support!</h3>
 <p>
