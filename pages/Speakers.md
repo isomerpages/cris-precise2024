@@ -25,7 +25,7 @@ description: ""
 										 </div>
 										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Dr Janil Puthucheary</h4>
 										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
-Senior Minister of State, Ministry of Communications and Information &amp; Ministry of Health
+Senior Minister of State, Ministry of Digital Development and Information, and Ministry of Health 
 										 </div>				 
 								 </div>
 								 <div></div>
