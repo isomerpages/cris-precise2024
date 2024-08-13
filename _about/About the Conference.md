@@ -7,7 +7,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header Footer/Header__5_.png">
 </div>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -87,6 +90,9 @@ across borders, the IHCC has formed two working groups:</p>
 </li>
 </ol>
 <p>For more information, please visit <a href="https://ihccglobal.org" rel="noopener noreferrer nofollow" target="_blank">https://ihccglobal.org</a>
+</p>
+<p></p>
+<p><em>Note: IHCC is a program of the Global Genomic Medicine Collaborative (GGMC) <a href="https://globalgenomics.org" rel="noopener noreferrer nofollow" target="_blank">https://globalgenomics.org</a>.</em>
 </p>
 <p></p>
 <p></p>
