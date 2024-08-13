@@ -69,19 +69,14 @@ sections:
       title: Important Dates to Note
       id: announcements
       announcement_items:
-        - title: Registration Closes
-          date: 14 August 2024
-          announcement: Wednesday, 14 August 2024 at 11:59pm EST / 12:59pm SGT
-          link_text: Click here to Register Now
-          link_url: /registration
         - title: Conference Dates
           date: 21 August 2024
           announcement: Wednesday, 21 August 2024 to Friday, August 23, 2024
           link_text: Click here for more information on the Programme
           link_url: /day-1-21-aug-2024/
   - infobar:
-      title: Registration Now Open!
+      title: Registration Closed
       id: infobar
       url: /registration
-      button: Register
+      button: Closed
 ---
