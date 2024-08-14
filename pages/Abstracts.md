@@ -1758,8 +1758,8 @@ of 257 Pharmacogenes from a Chinese Newborn Cohort with 6,442 Individuals</p>
 <p>125</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pharmacogenetic Variability of UGT2B7, CYP3A4, CYP3A5 and CYP2B6 Genes
-in an American American Sickle Cell Disease Patient Cohort</p>
+<p>Pharmacogenetic Variability of UGT2B7, CYP3A4, CYP3A5 and CYP2B6 genes
+in an African-American Sickle Cell Disease Patient Cohort</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Cheedy Jaja</p>
