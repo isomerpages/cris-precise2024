@@ -1641,7 +1641,7 @@ and Complications in Chinese Population</p>
 Data</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Jacob Shujui Hsu</p>
+<p>Dr Jacob Hsu Shujui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Taiwan University</p>
