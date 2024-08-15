@@ -823,7 +823,7 @@ Treatment</p>
 Independent of Serum Cholesterol</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eugene goh</p>
+<p>Eugene Goh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National University of Singapore</p>
