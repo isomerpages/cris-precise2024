@@ -225,6 +225,11 @@ description: ""
 									<img alt="LifeStrands" src="/images/Logos/Sponsors/LifeStrands.png">	 
 									 </div>
 								 </div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
+									<img alt="Singapore Tourism Board" src="/images/Logos/Sponsors/Singapore_Tourism_Board.png">	 
+									 </div>
+								 </div>
 								<div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
 									<img alt="SGInnovate" src="/images/Logos/Sponsors/SGInnovate.png">	 
