@@ -69,7 +69,17 @@ description: ""
 										 </div>				 
 								 </div>
 								 <div></div>
-								 								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
+									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
+											 <img alt="Jasmine Tan" src="/images/Committee/Jasmine_Tan.png">
+										 </div>
+										 <h4 style="font-size: 18px; margin: 0; line-height: 18px; font-weight: bold; color: #354a77!important" class="speaker-name text-ellipsis">Ms Jasmine Tan</h4>
+										 <div style="font-size: 14px;line-height: 16px;" class="speaker-position text-ellipsis">
+								Precision Health Research, Singapore (PRECISE)
+										 </div>				 
+								 </div>
+								 <div></div>
+								 <div class="col is-12-mobile is-6-tablet is-4-desktop">
 									 <div style="margin: auto; margin-bottom: 12px" class="speaker-image-wrapper  col is-8-desktop is-12-mobile  is-12-tablet">
 											 <img alt="Tan Jia En" src="/images/Committee/Tan_Jia_En.png">
 										 </div>
