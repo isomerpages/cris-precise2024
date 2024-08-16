@@ -1125,10 +1125,10 @@ variant disease contribution</p>
 <p>Predictors for Positive Genetic Diagnosis of Monogenic Kidney Disease.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Regina Lim Shaoying</p>
+<p>Dr Lim Ru Sin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Tock Seng Hospital, National Healthcare Group</p>
+<p>Tan Tock Seng Hospital</p>
 </td>
 </tr>
 <tr>
