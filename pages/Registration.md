@@ -20,8 +20,9 @@ description: ""
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration_Type_v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration_Type_v3.png">
 </div>
+<p></p>
 <p><strong>Please note that registration fees for registrants from Low- and Middle-Income Countries is based on country of work.</strong>
 </p>
 <p></p>
