@@ -10,5 +10,7 @@ links:
     collection: programme
   - title: Speakers
     url: /speakers/
+  - title: Resources
+    resource_room: true
   - title: Contact
     url: /contact-us/
