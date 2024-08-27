@@ -10,7 +10,7 @@ links:
     collection: programme
   - title: Speakers
     url: /speakers/
-  - title: Contact
-    url: /contact-us/
   - title: Resources
     collection: resources
+  - title: Contact
+    url: /contact-us/
