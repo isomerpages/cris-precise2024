@@ -1,0 +1,7 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Day 1 (21 Aug 2024).md
+      - Day 2 (21 Aug 2024).md
+      - Day 3 (23 Aug 2024).md
