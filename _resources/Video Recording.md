@@ -1,5 +1,5 @@
 ---
-title: Video Recordings
+title: Video Recording
 permalink: /video-recordings/
 variant: tiptap
 description: ""
