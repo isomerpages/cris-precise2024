@@ -50,4 +50,15 @@ sections:
       url: https://www.preciseihcc-conference.sg/graphic-recording-day-1/
       image: /images/3__Graphic_Illustrations___Copy.jpg
       alt: Image alt text
+  - infopic:
+      title: Conference Highlights
+      subtitle: photos and highlights
+      id: infopic
+      description: Over the three days, the conference provided a unique platform to
+        spotlight advancements in precision medicine and sharing of diverse
+        insights.
+      button: gallery
+      url: /highlights
+      image: /images/013_crowd.jpg
+      alt: Image alt text
 ---
