@@ -40,7 +40,8 @@ sections:
         healthcare.
       button: Register now
       url: /registration
-      image: /images/Singapore_Skyline__Large_v3_.png
+      image: /images/Header
+        Footer/11___Thank_you_for_joining_us___PRECISE_IHCC_Conference_2024.jpg
       alt: New Landscape to Healthcare
   - infopic:
       title: Renowned International Speakers
