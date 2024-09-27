@@ -52,7 +52,7 @@ sections:
       image: /images/3__Graphic_Illustrations___Copy.jpg
       alt: resources
   - infopic:
-      title: The New Landscape of Global Healthcare in Pictures
+      title: PRECISE-IHCC Conference  in Pictures
       subtitle: Capturing the Energy
       id: infopic
       description: Over the three days, the conference provided a unique platform to
