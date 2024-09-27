@@ -52,7 +52,7 @@ sections:
       image: /images/3__Graphic_Illustrations___Copy.jpg
       alt: resources
   - infopic:
-      title: Photo gallery
+      title: Gallery
       subtitle: photos and highlights
       id: infopic
       description: Over the three days, the conference provided a unique platform to
