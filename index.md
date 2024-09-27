@@ -15,7 +15,7 @@ sections:
       subtitle: "From Cohorts to Clinics: The New Landscape of Global Healthcare"
       background: /images/PRECISE_IHCC_Banner_BG_1920_x_720_02.jpg
       button: THANK YOU FOR YOUR PARTICIPATION!
-      url: /resources
+      url: https://www.preciseihcc-conference.sg/graphic-recording-day-1/
       key_highlights:
         - title: Programme
           description: 21-23 Aug 2024
