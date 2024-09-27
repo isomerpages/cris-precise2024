@@ -43,17 +43,17 @@ sections:
       image: /images/PRECISE_IHCC_Conf_Highlights.jpg
       alt: highlights
   - infopic:
-      title: Resources
-      subtitle: advancing knowledge
+      title: Resources & Insights
+      subtitle: Discover & Download
       id: infopic
-      description: Access the full set of conference graphic illustrations here.
-        Conference session recordings will be made available soon.
+      description: Access the full set of easy-to-digest graphic illustrations
+        summarising the conference sessions and valuable key takeaways.
       url: https://www.preciseihcc-conference.sg/graphic-recording-day-1/
       image: /images/3__Graphic_Illustrations___Copy.jpg
       alt: resources
   - infopic:
-      title: Gallery
-      subtitle: photos and highlights
+      title: The New Landscape of Global Healthcare in Pictures
+      subtitle: Capturing the Energy
       id: infopic
       description: Over the three days, the conference provided a unique platform to
         spotlight advancements in precision medicine and sharing of diverse
