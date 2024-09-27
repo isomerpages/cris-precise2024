@@ -39,7 +39,7 @@ sections:
         translating advances in precision medicine to reshape the landscape of
         modern healthcare.
       button: Conference Highlights
-      url: /highlights
+      url: /gallery
       image: /images/PRECISE_IHCC_Conf_Highlights.jpg
   - infopic:
       title: Resources
