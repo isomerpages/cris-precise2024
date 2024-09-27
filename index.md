@@ -8,14 +8,14 @@ description: Jointly organised by Precision Health Research, Singapore (PRECISE)
   of precision medicine and public health innovation.
 image: /images/Logos/PRECISE_IHCC_Conference_2024_Logo.png
 permalink: /
-notification: Click on the "Resources" menu to access the conference graphic recording.
+notification: Click on the "Resources" menu to access the conference graphic recordings.
 sections:
   - hero:
       title: PRECISE-IHCC Conference 2024
       subtitle: "From Cohorts to Clinics: The New Landscape of Global Healthcare"
       background: /images/PRECISE_IHCC_Banner_BG_1920_x_720_02.jpg
       button: THANK YOU FOR YOUR PARTICIPATION!
-      url: https://www.preciseihcc-conference.sg/graphic-recording-day-1/
+      url: /highlights
       key_highlights:
         - title: Programme
           description: 21-23 Aug 2024
