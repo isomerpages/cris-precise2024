@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Gallery.md
+      - Conference Highlights.md
       - Graphic Recordings (21 Aug).md
       - Graphic Recordings (22 Aug).md
       - Graphic Recordings (23 Aug).md
