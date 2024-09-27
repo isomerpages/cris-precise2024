@@ -14,7 +14,7 @@ sections:
       title: PRECISE-IHCC Conference 2024
       subtitle: "From Cohorts to Clinics: The New Landscape of Global Healthcare"
       background: /images/PRECISE_IHCC_Banner_BG_1920_x_720_02.jpg
-      button: REGISTER NOW
+      button: THANK YOU FOR YOUR PARTICIPATION!
       url: /registration
       key_highlights:
         - title: Programme
@@ -35,47 +35,19 @@ sections:
       title: The New Landscape of Global Healthcare
       subtitle: From cohorts to clinics
       id: infopic
-      description: Join us to discuss opportunities and challenges in translating
-        advances in precision medicine to reshape the landscape of modern
-        healthcare.
-      button: Register now
-      url: /registration
-      image: /images/Header
-        Footer/11___Thank_you_for_joining_us___PRECISE_IHCC_Conference_2024.jpg
-      alt: New Landscape to Healthcare
+      description: The conference discussed opportunities and challenges in
+        translating advances in precision medicine to reshape the landscape of
+        modern healthcare.
+      button: Conference Highlights
+      url: /highlights
+      image: /images/PRECISE_IHCC_Conf_Highlights.jpg
   - infopic:
-      title: Renowned International Speakers
-      subtitle: meet our speakers
+      title: Resources
+      subtitle: advancing knowledge
       id: infopic
-      description: Learn from thought leaders, policy makers, and researchers around
-        the world at the forefront of the precision medicine space.
-      button: find out more
-      url: /speakers/
-      image: /images/Plenary_Speakers_V2.png
-      alt: Conference Plenary Speakers
-  - infopic:
-      title: Showcase of global precision medicine advancements
-      subtitle: Be part of a global community
-      id: infopic
-      description: Learn about the innovative, cost-effective, and clinically
-        effective solutions that make precision medicine accessible, equitable
-        and beneficial worldwide.
-      button: programme
-      url: /day-1-21-aug-2024/
-      image: /images/Advance_Medicine__Large_.jpg
-      alt: Precision medicine advancement
-  - announcements:
-      title: Important Dates to Note
-      id: announcements
-      announcement_items:
-        - title: Conference Dates
-          date: 21 August 2024
-          announcement: Wednesday, 21 August 2024 to Friday, August 23, 2024
-          link_text: Click here for more information on the Programme
-          link_url: /day-1-21-aug-2024/
-  - infobar:
-      title: Registration Closed
-      id: infobar
-      url: /registration
-      button: Closed
+      description: Access the full set of conference graphic illustrations here.
+        Conference session recordings will be made available soon.
+      url: https://www.preciseihcc-conference.sg/graphic-recording-day-1/
+      image: /images/3__Graphic_Illustrations___Copy.jpg
+      alt: Image alt text
 ---
