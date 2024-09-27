@@ -38,9 +38,10 @@ sections:
       description: The conference discussed opportunities and challenges in
         translating advances in precision medicine to reshape the landscape of
         modern healthcare.
-      button: Conference Highlights
+      button: view recap
       url: /highlights
       image: /images/PRECISE_IHCC_Conf_Highlights.jpg
+      alt: Conference highlights
   - infopic:
       title: Resources
       subtitle: advancing knowledge
@@ -49,16 +50,16 @@ sections:
         Conference session recordings will be made available soon.
       url: https://www.preciseihcc-conference.sg/graphic-recording-day-1/
       image: /images/3__Graphic_Illustrations___Copy.jpg
-      alt: Image alt text
+      alt: resources
   - infopic:
-      title: Conference Highlights
+      title: Photo gallery
       subtitle: photos and highlights
       id: infopic
       description: Over the three days, the conference provided a unique platform to
         spotlight advancements in precision medicine and sharing of diverse
         insights.
-      button: gallery
+      button: VIEW MORE
       url: /highlights
       image: /images/013_crowd.jpg
-      alt: Image alt text
+      alt: gallery
 ---
