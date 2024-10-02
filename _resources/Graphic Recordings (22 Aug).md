@@ -1,5 +1,5 @@
 ---
-title: Day 2 (21 Aug 2024)
+title: Graphic Recordings (22 Aug)
 permalink: /graphic-recording-day-2/
 variant: tiptap
 description: ""

@@ -2,15 +2,11 @@ logo: /images/Logos/precise-ihcc conference logo.png
 links:
   - title: About
     collection: about
-  - title: Registration
-    url: /registration/
+  - title: Resources
+    collection: resources
   - title: Abstracts
     url: /abstracts/
   - title: Programme
     collection: programme
   - title: Speakers
     url: /speakers/
-  - title: Resources
-    collection: resources
-  - title: Contact
-    url: /contact-us/
