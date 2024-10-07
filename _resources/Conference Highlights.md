@@ -4,7 +4,7 @@ permalink: /highlights/
 variant: tiptap
 description: Gallery
 ---
-<h4>PRECISE-IHCC Conference Highlights reel </h4>
+<h4>PRECISE-IHCC Conference Highlights reel</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/r9fYWC-uD7A?si=Vi3bt9bQTJ2l-HOj"></iframe>
 </div>
