@@ -1,5 +1,8 @@
 logo: /images/Logos/precise-ihcc conference logo.png
 links:
+  - title: About Us 1
+    url: /permalink
+    sublinks: []
   - title: About Us
     collection: about-us
   - title: News & Highlights
