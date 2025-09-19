@@ -2,6 +2,6 @@ collections:
   for-the-public:
     output: true
     order:
-      - Day 1 (21 Aug 2024).md
+      - Overview of Precision Medicine.md
       - Day 2 (22 Aug 2024).md
       - Day 3 (23 Aug 2024).md
