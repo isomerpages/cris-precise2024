@@ -2,17 +2,25 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: the PRECISE-IHCC Conference Secretariat
+agency_name: Precision Health Research, Singapore
 contacts:
   - content:
       - phone: +65 6338 7984
-      - email: precise-ihcc@events-sp.com
+      - email: contact@precise.cris.sg
       - other: ""
-    title: Conference Secretariat
+    title: Email
   - content:
       - phone: +65 6338 7984
       - email: peter_ivan@events-sp.com
       - other: ""
-    title: Sponsorship Secretariat
+    title: Join Us
+locations:
+  - address:
+      - "23 Rochester Park #06-01  Singapore 139234"
+      - ""
+      - ""
+    title: Address
+    operating_hours: []
+    maps_link: ""
 feedback: ""
 ---
