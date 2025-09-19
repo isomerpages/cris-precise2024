@@ -17,24 +17,6 @@ sections:
       variant: center
       backgroundColor: gray
       size: sm
-  - textcards:
-      title: Latest Updates
-      subtitle: News and Highlights
-      id: textcards
-      description: Access official announcements and updates from PRECISE.
-      cards:
-        - title: FinnGen
-          description: Besides cold winters and timeless architecture, Finland is also know
-          linktext: Learn more
-          url: ""
-        - title: Cholesterol Metabolite
-          description: Access official announcements and updates from PRECISE.
-          linktext: Learn more
-          url: ""
-        - title: Adcanacing Precision Medicine for All
-          description: Access official announcements and updates from PRECISE.
-          linktext: Learn more
-          url: ""
   - announcements:
       title: Latest Updates
       id: announcements
@@ -59,6 +41,24 @@ sections:
             enrolled over 860.0000 participants as of 1 May 2025.
           link_text: Read more
           link_url: https://www.npm.sg/
+  - textcards:
+      title: Latest Updates
+      subtitle: News and Highlights
+      id: textcards
+      description: Access official announcements and updates from PRECISE.
+      cards:
+        - title: FinnGen
+          description: Besides cold winters and timeless architecture, Finland is also know
+          linktext: Learn more
+          url: ""
+        - title: Cholesterol Metabolite
+          description: Access official announcements and updates from PRECISE.
+          linktext: Learn more
+          url: ""
+        - title: Adcanacing Precision Medicine for All
+          description: Access official announcements and updates from PRECISE.
+          linktext: Learn more
+          url: ""
   - infopic:
       title: For the Public
       id: infopic
