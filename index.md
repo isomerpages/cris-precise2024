@@ -12,7 +12,6 @@ notification: ""
 sections:
   - hero:
       title: Transforming Health in Singapore through Precision Medicine
-      subtitle: "From Cohorts to Clinics: The New Landscape of Global Healthcare"
       background: /images/PRECISE_IHCC_Banner_BG_1920_x_720_02.jpg
       button: Watch the event highlights reel here!
       url: /highlights
