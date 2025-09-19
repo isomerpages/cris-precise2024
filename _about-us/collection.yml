@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - About the Conference.md
+      - About PRECISE.md
       - Committee.md
       - Travel & Accommodation.md
       - Sponsors & Partners.md
