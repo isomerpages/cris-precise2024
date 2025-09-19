@@ -19,7 +19,7 @@ sections:
       size: sm
   - textcards:
       title: Latest Updates
-      subtitle: News & Highlights
+      subtitle: News and Highlights
       id: textcards
       description: Access official announcements and updates from PRECISE.
       cards:
