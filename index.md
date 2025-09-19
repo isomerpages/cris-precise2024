@@ -52,7 +52,7 @@ sections:
         - title: Overview of Precision Medicine
           description: Card description
           linktext: Learn more
-          url: ""
+          url: /for-th-public/
         - title: Genomics in Everyday Life
           description: Card description
           linktext: Learn more
