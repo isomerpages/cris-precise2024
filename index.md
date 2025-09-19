@@ -35,11 +35,30 @@ sections:
           description: Access official announcements and updates from PRECISE.
           linktext: Learn more
           url: ""
-  - resources:
+  - announcements:
       title: Latest Updates
+      id: announcements
       subtitle: News and Highlights
-      id: resources
-      button: more
+      announcement_items:
+        - title: Conference 2025
+          date: 21 October 2025
+          announcement: The conference discussed opportunities and challenges in
+            translating advances in precision medicine to reshape the landscape
+            of modern healthcare.
+          link_text: Sign up
+          link_url: https://www.npm.sg/
+        - title: FinnGen
+          date: 19 September 2025
+          announcement: Besides cold winters and timeless architecture, Finland is also
+            know for one of the world's leading genomic research projects.
+          link_text: Read more
+          link_url: https://www.npm.sg/
+        - title: "All of Us: Advancing Precision Medicine for all"
+          date: 19 September 2025
+          announcement: Begining recruitment in2018, the all of Us Research Program has
+            enrolled over 860.0000 participants as of 1 May 2025.
+          link_text: Read more
+          link_url: https://www.npm.sg/
   - infopic:
       title: For the Public
       id: infopic
