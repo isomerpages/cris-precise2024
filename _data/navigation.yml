@@ -4,9 +4,9 @@ links:
     collection: about-us
   - title: News and Highlights
     resource_room: true
-  - title: For the Public
-    collection: programme
-  - title: For Collaborators
-    collection: programme
+  - title: For The Public
+    collection: for-the-public
+  - title: For The Public
+    collection: for-the-public
   - title: Contact Us
     url: /contact-us/
