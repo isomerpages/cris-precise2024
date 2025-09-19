@@ -1,0 +1,1060 @@
+---
+title: Genomics in Everyday Life
+permalink: /day-2-22-aug-2024/
+variant: markdown
+description: ""
+---
+<div>
+	<img style="padding-bottom: 30px; widht: auto;" src="/images/Header%20Footer/Header__5_.png" alt="header">
+</div>
+
+<div>
+	<h3 style="color: #6dc7e0; font-weight: 700" class="font-bold">
+		DAY 2 – 22 AUGUST 2024 (THURSDAY)
+	</h3>
+</div>
+
+<section>
+	<div style="margin-left: 0; margin-bottom: 8px" class="bp-container is-fluid">
+		<div class="row">
+			<div class="col is-full">
+				<div class="row">
+					<div class="col is-12">
+						<div style="background-color: #f2f2f2; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); padding: 8px; padding-bottom: 6px; padding-left: 12px;" class="border bg-light h-100 position-relative bg-gray-light">
+								<div class="bg-notice">
+									<div style="padding-bottom: 0px" class="programme-time">
+										<b style="color: #000; font-weight: 700">8.30am - 9.00am (SGT) </b>
+									</div>
+									<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title font-bold">Registration</h4>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+		</div>
+	</div>
+</section>
+
+<section>
+	<div style="background: #354a77; margin-top: 16px; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); margin-left: 0px" class="bp-container is-fluid">
+		<h4 style="padding: 2px 12px; color: #fff!important; font-weight: 700; font-size: 22px;line-height: 36px;">Session 4</h4>
+	</div>
+</section>
+<section>
+	<div style="margin-left: 0; margin-bottom: 8px" class="bp-container is-fluid">
+		<div class="row">
+			<div class="col is-full">
+				<div class="row">
+					<div class="col is-12">
+						<div style="background-color: #fff; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); padding: 8px; padding-left: 12px;" class="border h-100 position-relative">
+							<div class="p-4">
+								<div style="padding-bottom: 6px" class="programme-time">
+									<b style="color: #000; font-weight: 700">9.00am - 9.30am (SGT) </b>
+								</div>
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
+									Plenary Talk 3
+								</h4>
+								<i style="font-weight: bold; color: #7f7f7f">Grand Ballroom</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Kathryn_North.png" alt="Prof Kathryn North">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column; flex:1" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Implementing genomic medicine into clinical practice – a national and international perspective</p>
+															<b style="color: #000; font-size: 16px;">Prof Kathryn North
+</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Murdoch Children's Research Institute
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section>
+	<div style="margin-left: 0; margin-bottom: 8px" class="bp-container is-fluid">
+		<div class="row">
+			<div class="col is-full">
+				<div class="row">
+					<div class="col is-12">
+						<div style="background-color: #fff; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); padding: 8px; padding-left: 12px;" class="border h-100 position-relative">
+							<div class="p-4">
+								<div style="padding-bottom: 6px" class="programme-time">
+									<b style="color: #000; font-weight: 700">9.30am - 10.55am (SGT)</b>
+								</div>
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
+									Biobanks for Precision Medicine
+								</h4>
+								<div style="line-height: 16px" class="text-ellipsis speaker-position">This session aims to explore the pivotal role of biobanks in Asia, Europe and the USA and how they are facilitating the seamless transition from cohort studies to clinical application.</div><br>
+								<i style="font-weight: bold; color: #7f7f7f">Grand Ballroom</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Aarno_Palotie.png" alt="Prof Aarno Palotie">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column; flex: 1" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">FinnGen, an example of a Northern European large scale biobank study</p>
+															<b style="color: #000; font-size: 16px;">Prof Aarno Palotie</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Institute for Molecular Medicine Finland (FIMM), HiLIFE, University of Helsinki, Finland and Broad institute and Massachusetts General Hospital, Boston, USA
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Geoffrey_Ginsburg.png" alt="Dr Geoffrey Ginsburg">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column; flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">The All of Us Research Program</p>
+															<b style="color: #000; font-size: 16px;">Dr Geoffrey Ginsburg </b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														All of Us Research Program, National Institutes of Health
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+																	<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Masayuki_Yamamoto.png" alt="Prof Masayuki Yamamoto">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Challenge for Personalized Healthcare: the Tohoku Medical Megabank Project</p>
+															<b style="color: #000; font-size: 16px;">Prof Masayuki Yamamoto</b>
+													</div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Tohoku University Tohoku Medical Megabank Organization (ToMMo)
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+									<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Nahla_Afifi.png" alt="Prof Nahla Afifi">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<div style="background-color: #d0e7ff; color: #000; padding: 5px; border-radius: 5px; display: inline-block; white-space: nowrap">
+													<p style="font-size: 20px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0">Moderator</p>
+													</div>
+														</div>
+													<b style="color: #000; font-size: 16px;">Prof Nahla Afifi</b>
+												<div style="line-height: 16px" class="text-ellipsis speaker-position">
+													International Health Cohorts Consortium (IHCC)
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+</div></div></div></div></div></div></div>
+</section>
+
+<section>
+			<div style="margin-left: 0" class="bp-container is-fluid">
+				<div class="row">
+					<div class="col is-full">
+						<div class="row">
+							<div class="col is-12">
+								<div style="background-color: #f2f2f2; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); padding: 8px; padding-bottom: 6px; padding-left: 12px;" class="border bg-light h-100 position-relative bg-gray-light">
+									<div class="bg-notice">
+										<div style="padding-bottom: 0px" class="programme-time">
+												<b>10.55am - 11.15am (SGT)</b>
+										</div>
+										<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title font-bold">Teabreak Networking Session
+</h4>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+		</div>
+	</div>
+</section>
+<section>
+	<div style="background: #354a77; margin-top: 16px; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); margin-left: 0px" class="bp-container is-fluid">
+		<h4 style="padding: 2px 12px; color: #fff!important; font-weight: 700; font-size: 22px;line-height: 36px;">Session 5</h4>
+	</div>
+</section>
+<section>
+	<div style="margin-left: 0; margin-bottom: 8px" class="bp-container is-fluid">
+		<div class="row">
+			<div class="col is-full">
+				<div class="row">
+					<div class="col is-12">
+						<div style="background-color: #fff; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); padding: 8px; padding-left: 12px;" class="border h-100 position-relative">
+							<div class="p-4">
+								<div style="padding-bottom: 6px" class="programme-time">
+									<b style="color: #000; font-weight: 700">11.15am - 12.40pm (SGT)</b>
+								</div>
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
+									Pharmacogenomics
+								</h4>
+								<div style="line-height: 16px" class="text-ellipsis speaker-position">This session aims to explore the relationship between an individual’s genotype and their response to medicines. Specific population data and regional implementation practices that have the potential for making better medication and dosing decisions will be presented.</div><br>
+								<i style="font-weight: bold; color: #7f7f7f">Grand Ballroom</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Elaine_Lo.png" alt="Dr Elaine Lo Ah G">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column; flex: 1" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Rethinking Pharmacogenomics - Implementing Pre-emptive Pharmacogenomics in a Singapore Healthcare System
+</p>
+															<b style="color: #000; font-size: 16px;">Dr Elaine Lo Ah Gi</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														National University Hospital
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Collet_Dandara.png" alt="Prof Collet Dandara">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column; flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+															<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Pharmacogenomics implementation: towards precision medicine</p>
+															<b style="color: #000; font-size: 16px;">Prof Collet Dandara </b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														University of Cape Town
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+									<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Chonlaphat_Sukasem.png" alt="Prof Chonlaphat Sukasem">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column; flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+															<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Clinical pharmacogenomics implementation in Thailand: a dream come true</p>
+															<b style="color: #000; font-size: 16px;">Prof Chonlaphat Sukasem</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Ramathibodi Hospital, Mahidol University
+</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+									<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Grant_M__Wood.png" alt="Mr Grant M. Wood">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<div style="background-color: #d0e7ff; color: #000; padding: 5px; border-radius: 5px; display: inline-block; white-space: nowrap">
+													<p style="font-size: 20px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0">Moderator</p>
+													</div>
+														</div>
+													<b style="color: #000; font-size: 16px;">Mr Grant M. Wood</b>
+												<div style="line-height: 16px" class="text-ellipsis speaker-position">
+													Global Genomic Medicine Collaborative (GGMC)
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+</div></div></div></div></div></div></div></section>
+
+<section>
+	<div style="margin-left: 0; margin-bottom: 8px" class="bp-container is-fluid">
+		<div class="row">
+			<div class="col is-full">
+				<div class="row">
+					<div class="col is-12">
+						<div style="background-color: #fff; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); padding: 8px; padding-left: 12px;" class="border h-100 position-relative">
+							<div class="p-4">
+								<div style="padding-bottom: 6px" class="programme-time">
+									<b style="color: #000; font-weight: 700">12.40pm - 2.00pm (SGT)</b>
+								</div>
+							<div style="padding-bottom: 10px">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
+									Parallel Track 1: Lunch Time Industry Talk
+								</h4><br>
+								<i style="font-weight: bold; color: #7f7f7f">Grand Ballroom</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Kyle_Farh.png" alt="Dr Kyle Farh">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<div style="background-color: #354a77; color: #000; padding: 5px; border-radius: 5px; display: inline-block;">
+													<p style="font-size: 20px; color: #ffffff!important; font-weight: 700; line-height: 20px; margin: 0">Presentation by Illumina</p>
+													</div>
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Deep learning for precision medicine and drug target discovery</p>
+															<b style="color: #000; font-size: 16px;">Dr Kyle Farh</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Illumina
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div><br><br>
+							<div style="padding-bottom: 10px">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
+									Parallel Track 2: Lunch Time Industry Talk
+								</h4><br>
+								<i style="font-weight: bold; color: #7f7f7f">Meeting Room</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+									<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Julia_Carrasco_Zanini_Sanchez.png" alt="Dr Julia Carrasco-Zanini Sanchez">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+																																																								<div style="background-color: #354a77; color: #000; padding: 5px; border-radius: 5px; display: inline-block;">
+													<p style="font-size: 20px; color: #ffffff!important; font-weight: 700; line-height: 20px; margin: 0">Presentation by Olink</p>
+													</div>
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Towards precision prevention: plasma proteomics for screening and risk prediction.</p>
+															<b style="color: #000; font-size: 16px;">Dr Julia Carrasco-Zanini Sanchez</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Queen Mary University of London
+													</div>
+											</div>
+										</div>
+									</div>
+								</div>
+									<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Cora_Vacher.png" alt="Ms Cora Vacher">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+																																																								<div style="background-color: #354a77; color: #000; padding: 5px; border-radius: 5px; display: inline-block;">
+													<p style="font-size: 20px; color: #ffffff!important; font-weight: 700; line-height: 20px; margin: 0">Presentation by Oxford Nanopore Technologies</p>
+													</div>
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">The Era of Complete Genomes</p>
+															<b style="color: #000; font-size: 16px;">Ms Cora Vacher</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Oxford Nanopore Technologies
+													</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div><br><br>
+							<div style="padding-bottom: 10px">
+								<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
+									Parallel Track 3: Oral Presentations (Early Career Investigators)
+								</h4><br>
+								<i style="font-weight: bold; color: #7f7f7f">Wisteria &amp; Camellia Villa</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+													<b style="color: #000; font-size: 18px;">Presenter 1:</b></div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-2">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">A proposed framework prioritizing pharmacogenomic drug-gene interactions in an Asian context for chemotherapy</p>
+															<b style="color: #000; font-size: 16px;">Dr Janice Goh</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Bioinformatics Institute, Agency for Science, Technology and Research
+													</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+													<b style="color: #000; font-size: 18px;">Presenter 2:</b></div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-2">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Empiric treatment with aspirin and ticagrelor is the most cost-effective strategy in patients with minor stroke or transient ischemic attack</p>
+															<b style="color: #000; font-size: 16px;">Dr Kaavya Narasimhalu</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														National Neuroscience Institute
+													</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+																	<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+													<b style="color: #000; font-size: 18px;">Presenter 3:</b></div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-2">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Statin Lactone Metabolism is a Determinant of 5-year Cardiovascular Outcomes Independent of Serum Cholesterol</p>
+															<b style="color: #000; font-size: 16px;">Eugene Goh</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														National University of Singapore
+													</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+																																			<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+													<b style="color: #000; font-size: 18px;">Presenter 4:</b></div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-2">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Cost-effectiveness of Pre-emptive Pharmacogenetic Panel Testing versus No Testing in a Multi-ethnic Asian Population</p>
+															<b style="color: #000; font-size: 16px;">Jamaica Roanne Briones</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														National University of Singapore
+													</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+																										<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+													<b style="color: #000; font-size: 18px;">Presenter 5:</b></div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-2">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Unlocking Medical Insights through the Power of Taiwan Biobank Whole Genome Data</p>
+															<b style="color: #000; font-size: 16px;">Dr Jacob Hsu Shujui</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														National Taiwan University
+													</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div></div></div></div></section>
+
+<section>
+	<div style="background: #354a77; margin-top: 16px; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); margin-left: 0px" class="bp-container is-fluid">
+		<h4 style="padding: 2px 12px; color: #fff!important; font-weight: 700; font-size: 22px;line-height: 36px;">Session 6</h4>
+	</div>
+</section>
+
+<section>
+	<div style="margin-left: 0; margin-bottom: 8px" class="bp-container is-fluid">
+		<div class="row">
+			<div class="col is-full">
+				<div class="row">
+					<div class="col is-12">
+						<div style="background-color: #fff; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); padding: 8px; padding-left: 12px;" class="border h-100 position-relative">
+							<div class="p-4">
+								<div style="padding-bottom: 6px" class="programme-time">
+									<b style="color: #000; font-weight: 700">2.00pm - 3.20pm (SGT)</b>
+								</div>
+								<div>
+									<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
+										Parallel Track 1: Biobanks for Precision Medicine
+								</h4>
+								<div style="line-height: 16px" class="text-ellipsis speaker-position">This session aims to explore the pivotal role of biobanks in Asia, Europe and the USA and how they are facilitating the seamless transition from cohort studies to clinical application.</div><br>		
+								<i style="font-weight: bold; color: #7f7f7f">Grand Ballroom</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+																		<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+													<img class="speaker-image" src="/images/Speaker%20Photos%202024/John_Chambers.png" alt="Prof John Chambers">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column; flex: 1" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+																												<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Functional Genomic Studies in Asia: Design and Exemplar Results from the 
+PRECISE-SG100K Program
+</p>
+															<b style="color: #000; font-size: 16px;">Prof John Chambers</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Precision Health Research, Singapore	
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+										<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Zhengming_Chen.png" alt="Prof Chen Zhengming">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column; flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Harnessing the power of proteomics in biobanks to advance precision health</p>
+															<b style="color: #000; font-size: 16px;">Prof Chen Zhengming</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														University of Oxford
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+										</div>
+										<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Lin_Yen_Feng.png" alt="Dr Lin Yen-Feng">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+															<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Genetic analysis of quantitative traits in the Taiwan Biobank</p>
+															<b style="color: #000; font-size: 16px;">Dr Lin Yen-Feng
+</b>
+													</div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														National Health Research Institutes, Taiwan
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+									<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Geoffrey_Ginsburg.png" alt="Dr Geoffrey Ginsburg">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<div style="background-color: #d0e7ff; color: #000; padding: 5px; border-radius: 5px; display: inline-block; white-space: nowrap">
+													<p style="font-size: 20px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0">Moderator</p>
+													</div>
+														</div>
+													<b style="color: #000; font-size: 16px;">Dr Geoffrey Ginsburg</b>
+												<div style="line-height: 16px" class="text-ellipsis speaker-position">
+													All of Us Research Program, National Institutes of Health
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;margin-top: 40px;" class="programme-title">
+									Parallel Track 2: Rare Diseases
+								</h4>
+									<div style="line-height: 16px" class="text-ellipsis speaker-position">Rare diseases pose unique challenges and collaboration is essential in addressing the complexities of rare diseases and to drive innovation in research and patient care. This session aims to facilitate dialogue between researchers and clinicians invested in advancing rare disease research.</div><br>
+								<i style="font-weight: bold; color: #7f7f7f">Meeting Room</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Saumya_Jamuar.png" alt="Dr Saumya Jamuar">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+															<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Singapore Undiagnosed Research Endeavour</p>
+															<b style="color: #000; font-size: 16px;">Dr Saumya Jamuar</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														KK Women's and Children's Hospital
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Claudia_Gonzaga_Juaregui.png" alt="Dr Claudia Gonzaga-Jauregui">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Genomics of Rare Diseases for Health Equity in Mexico and Latin America</p>
+															<b style="color: #000; font-size: 16px;">Dr Claudia Gonzaga-Jauregui</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														International Laboratory for Human Genome Research, UNAM
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Gabriela_Repetto.png" alt="Dr Gabriela Repetto">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Implementing a Rare Diseases Program in Chile. What have we learned?</p>
+															<b style="color: #000; font-size: 16px;">Dr Gabriela Repetto
+</b>
+													</div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Universidad del Desarrollo
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+									<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Duangrurdee_Wattanasirichaigoon.png" alt="Prof Duangrurdee Wattanasirichaigoon">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<div style="background-color: #d0e7ff; color: #000; padding: 5px; border-radius: 5px; display: inline-block; white-space: nowrap">
+													<p style="font-size: 20px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0">Moderator</p>
+													</div>
+														</div>
+													<b style="color: #000; font-size: 16px;">Prof Duangrurdee Wattanasirichaigoon</b>
+												<div style="line-height: 16px" class="text-ellipsis speaker-position">
+													Faculty of Medicine Ramathibodi Hospital, Mahidol University
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;margin-top: 40px;" class="programme-title">
+									Parallel Track 3: Fireside Chat
+								</h4>
+									<div style="line-height: 16px" class="text-ellipsis speaker-position"></div><br>
+								<i style="font-weight: bold; color: #7f7f7f">Wisteria &amp; Camellia Villa</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Mark_McCarthy.png" alt="Dr Mark McCarthy">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+															<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;"></p>
+															<b style="color: #000; font-size: 16px;">Dr Mark McCarthy</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Genentech
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Martin_Delatycki.png" alt="Prof Martin Delatycki">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;"></p>
+															<b style="color: #000; font-size: 16px;">Prof Martin Delatycki</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Murdoch Children's Research Institute
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Nicola_C_Tiffin.png" alt="Prof Nicki Tiffin">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;"></p>
+															<b style="color: #000; font-size: 16px;">Prof Nicki Tiffin
+</b>
+													</div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														South African National Bioinformatics Institute, University of the Western Cape
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+									<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Sarah_Bauermeister.png" alt="Prof Sarah Bauermeister">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<div style="background-color: #d0e7ff; color: #000; padding: 5px; border-radius: 5px; display: inline-block; white-space: nowrap">
+													<p style="font-size: 20px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0">Moderator</p>
+													</div>
+														</div>
+													<b style="color: #000; font-size: 16px;">Prof Sarah Bauermeister</b>
+												<div style="line-height: 16px" class="text-ellipsis speaker-position">
+													University of Oxford
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+</div></div></div></div></div></div></div></div></section>
+
+<section>
+			<div style="margin-left: 0" class="bp-container is-fluid">
+				<div class="row">
+					<div class="col is-full">
+						<div class="row">
+							<div class="col is-12">
+								<div style="background-color: #f2f2f2; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); padding: 8px; padding-bottom: 6px; padding-left: 12px;" class="border bg-light h-100 position-relative bg-gray-light">
+									<div class="bg-notice">
+										<div style="padding-bottom: 0px" class="programme-time">
+												<b>3.20pm - 4.00pm (SGT)</b>
+										</div>
+										<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px" class="programme-title font-bold">Teabreak Networking Session
+</h4>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+		</div>
+	</div>
+</section>
+
+<section>
+	<div style="background: #354a77; margin-top: 16px; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); margin-left: 0px" class="bp-container is-fluid">
+		<h4 style="padding: 2px 12px; color: #fff!important; font-weight: 700; font-size: 22px;line-height: 36px;">Session 7</h4>
+	</div>
+</section>
+
+<section>
+	<div style="margin-left: 0; margin-bottom: 8px" class="bp-container is-fluid">
+		<div class="row">
+			<div class="col is-full">
+				<div class="row">
+					<div class="col is-12">
+						<div style="background-color: #fff; box-shadow: 1px 2px 3px 2px rgb(215 215 215), -2px 0 6px -4px rgb(215 215 215); padding: 8px; padding-left: 12px;" class="border h-100 position-relative">
+							<div class="p-4">
+								<div style="padding-bottom: 6px" class="programme-time">
+									<b style="color: #000; font-weight: 700">4.00pm - 5.20pm (SGT)</b>
+								</div>
+								<div>
+									<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;" class="programme-title">
+									Parallel Track 1: Genomic/Precision Medicine for Therapeutic R&amp;D
+								</h4>
+										<div style="line-height: 16px" class="text-ellipsis speaker-position">This session aims to explore the application of genomic analyses to discover, validate and develop novel therapeutic targets, biomarkers and genes that affect the efficacy and safety of new medicines.</div><br>
+								<i style="font-weight: bold; color: #7f7f7f">Grand Ballroom</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Lyndon_Mitnaul.png" alt="Dr Lyndon Mitnaul">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">The Together for CHANGE™ Initiative:  A Public-Private Partnership Expanding Genomics Research</p>
+															<b style="color: #000; font-size: 16px;">Dr Lyndon Mitnaul</b>
+													</div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Regeneron Genetics Center
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Guillermo_del_Angel.png" alt="Dr Guillermo Del Angel">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column; flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Transforming Drug Discovery with large-scale genomics
+
+</p>
+															<b style="color: #000; font-size: 16px;">Dr Guillermo Del Angel</b>
+													</div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														AstraZeneca
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Mark_McCarthy.png" alt="Dr Mark McCarthy">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Embedding multimodal discovery in pharma R&amp;D</p>
+															<b style="color: #000; font-size: 16px;">Dr Mark McCarthy</b>
+													</div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Genentech
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+									<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Committee/Scott_Sundseth.png" alt="Dr Scott Sundseth">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<div style="background-color: #d0e7ff; color: #000; padding: 5px; border-radius: 5px; display: inline-block; white-space: nowrap">
+													<p style="font-size: 20px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0">Moderator</p>
+													</div>
+														</div>
+													<b style="color: #000; font-size: 16px;">Dr Scott Sundseth</b>
+												<div style="line-height: 16px" class="text-ellipsis speaker-position">
+													International Health Cohorts Consortium (IHCC)
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+									<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;margin-top: 40px;" class="programme-title">
+									Parallel Track 2: Training/Early Career Scientists
+								</h4>
+									<div style="line-height: 16px" class="text-ellipsis speaker-position">This session is open to all Early Career Scientists and will delve into the essential components of nurturing and supporting emerging scientists as they navigate through multifaceted ecosystems that make up their academic and professional pathways.</div><br>
+								<i style="font-weight: bold; color: #7f7f7f">Meeting Room</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Sharon_Plon.png" alt="Dr Sharon Plon">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+															<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Nurturing the physician-scientists needed to make precision medicine a reality</p>
+															<b style="color: #000; font-size: 16px;">Dr Sharon Plon</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Baylor College of Medicine
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Richard_Haspel.png" alt="Prof Richard Haspel">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Nanocourse:  Providing Genomics Researchers with Clinical Perspective</p>
+															<b style="color: #000; font-size: 16px;">Prof Richard Haspel</b></div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														Beth Israel Deaconess Medical Center and Harvard Medical School
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image mb-4" src="/images/Speaker%20Photos%202024/Vicky_Nembarawe.png" alt="Dr Victoria Nembaware">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+																												<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0;">Inclusion, Equity, and Capacity Building for Early Career Genomics Research Fellows</p>
+															<b style="color: #000; font-size: 16px;">Dr Victoria Nembaware</b>
+													</div>
+													<div style="line-height: 16px" class="text-ellipsis speaker-position">
+														University of Cape Town
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+									<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Speaker%20Photos%202024/Michele_Ramsay.png" alt="Prof Michele Ramsay">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<div style="background-color: #d0e7ff; color: #000; padding: 5px; border-radius: 5px; display: inline-block; white-space: nowrap">
+													<p style="font-size: 20px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 0">Moderator</p>
+													</div>
+														</div>
+													<b style="color: #000; font-size: 16px;">Prof Michele Ramsay</b>
+												<div style="line-height: 16px" class="text-ellipsis speaker-position">
+													University of the Witwatersrand
+																										</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div style="margin-top: 40px;" class="programme-time">
+									<b style="color: #000; font-weight: 700">4.00pm - 5.00pm (SGT)</b>
+								</div>
+								<div>
+									<h4 style="margin: 0; color: #354a77!important; font-weight: 700; font-size: 22px; line-height: 22px;margin-top: 5px;" class="programme-title">
+									Parallel Track 3: Industry Talk
+								</h4>
+									<div style="line-height: 16px" class="text-ellipsis speaker-position"></div><br>
+								<i style="font-weight: bold; color: #7f7f7f">Wisteria &amp; Camellia Villa</i>
+								<hr style="border-top: 1px solid #00000036;" class="my-3 border-primary">
+								<div style="padding-top: 16px" class="programme-time"></div>
+								<div class="speakers px-2">
+									<div style="padding-left: 10px" class="row">
+										<div class="col is-12 prog-speaker">
+											<div class="row">
+												<div class="col is-2">
+														<img class="speaker-image" src="/images/Logos/Sponsors/NalaGenetics.png" alt="DrGoh Liuh Ling">
+												</div>
+												<div style="display: flex; justify-content: center; flex-direction: column;flex:1;" class="col is-12">
+													<div class="speaker-name text-ellipsis">
+														<div style="background-color: #354a77; color: #000; padding: 5px; border-radius: 5px; display: inline-block;">
+													<p style="font-size: 20px; color: #ffffff!important; font-weight: 700; line-height: 20px; margin: 0">Panel Discussion by NalaGenetics</p>
+													</div>
+														<p style="font-size: 18px; color: #354a77!important; font-weight: 700; line-height: 20px; margin: 20px;"></p>
+															<b style="color: #000; font-size: 16px;"></b></div>
+													<div style="line-height: 16px;" class="text-ellipsis speaker-position">
+														Panelists: Dr Goh Liuh Ling, Dr Elaine Lo, Representative from BB Binomika, Ministry of Health Indonesia<br><br>
+														Moderator: Dr Mar Gonzalez-porta, NalaGenetics Pte Ltd
+													</div>
+												</div>
+											</div><br>
+										</div>
+									</div>
+								</div>
+</div></div></div></div></div></div></div></div></div></section>
+
+<section>
+	<div style="margin-top: 20px; margin-left:0" class="bp-container is-fluid">
+		<i>*Programme is accurate as of 15 August 2024.</i>
+	</div>
+</section>
+
+<div>
+	<img style="padding-top: 40px; widht: auto;" src="/images/Header%20Footer/Footer__4_.png" alt="footer">
+</div>
