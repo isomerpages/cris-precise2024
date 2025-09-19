@@ -35,6 +35,11 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - resources:
+      title: Latest Updates
+      subtitle: News and Highlights
+      id: resources
+      button: more
   - infopic:
       title: For the Public
       id: infopic
@@ -43,7 +48,7 @@ sections:
         modern healthcare.
       button: Find out more
       url: /highlights
-      image: /images/PRECISE_IHCC_Conf_Highlights.jpg
+      image: /images/Advance_Medicine__Large_.jpg
       alt: highlights
   - infopic:
       title: For Collaborators
