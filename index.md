@@ -18,10 +18,10 @@ sections:
       backgroundColor: gray
       size: sm
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Latest Updates
+      subtitle: News & Highlights
       id: textcards
-      description: Text card description
+      description: Access official announcements and updates from PRECISE.
       cards:
         - title: Card
           description: Card description
