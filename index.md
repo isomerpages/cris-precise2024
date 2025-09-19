@@ -68,7 +68,7 @@ sections:
         translating advances in precision medicine to reshape the landscape of
         modern healthcare.
       button: Find out more
-      url: /highlights
+      url: /for-the-public/
       image: /images/Advance_Medicine__Large_.jpg
       alt: highlights
   - infopic:
