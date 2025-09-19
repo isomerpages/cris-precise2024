@@ -54,7 +54,7 @@ sections:
       description: The conference discussed opportunities and challenges in
         translating advances in precision medicine to reshape the landscape of
         modern healthcare.
-      button: View recap
+      button: Find out more
       url: /highlights
       image: /images/PRECISE_IHCC_Conf_Highlights.jpg
       alt: highlights
