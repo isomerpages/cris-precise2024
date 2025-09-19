@@ -8,7 +8,7 @@ description: Jointly organised by Precision Health Research, Singapore (PRECISE)
   of precision medicine and public health innovation.
 image: /images/Logos/PRECISE_IHCC_Conference_2024_Logo.png
 permalink: /
-notification: THANK YOU FOR YOUR PARTICIPATION!
+notification: welcome
 sections:
   - hero:
       title: PRECISE-IHCC Conference 2024
