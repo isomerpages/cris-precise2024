@@ -1,21 +1,14 @@
 logo: /images/1_Email_Signature_Logo_10cm_72dpi.png
 links:
-  - title: About Us 1
-    url: /permalink
-    sublinks:
-      - title: About PRECISE
-        url: about us
-      - title: Leadership
-        url: /permalink
-      - title: Partners
-        url: /permalink
   - title: About Us
     collection: about-us
   - title: News and Highlights
     resource_room: true
   - title: For the Public
-    url: /abstracts/
+    collection: about-us
   - title: For Collaborators
     collection: programme
   - title: Contact Us
     url: /speakers/
+  - title: Contact Us
+    collection: about-us
