@@ -66,4 +66,5 @@ sections:
       url: https://www.preciseihcc-conference.sg/graphic-recording-day-1/
       image: /images/3__Graphic_Illustrations___Copy.jpg
       alt: resources
+      button: Find out more
 ---
