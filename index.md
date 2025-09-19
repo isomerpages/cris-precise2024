@@ -80,4 +80,22 @@ sections:
       image: /images/3__Graphic_Illustrations___Copy.jpg
       alt: resources
       button: Find out more
+  - textcards:
+      title: For the Public
+      id: textcards
+      description: Precision medicine can improve healthcare by giving doctors a more
+        detailed understanding of each patient.
+      cards:
+        - title: Overview of Precision Medicine
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Genomics in Everyday Life
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Where is my data being used?
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
