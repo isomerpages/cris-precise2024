@@ -14,7 +14,7 @@ sections:
       title: Transforming Health in Singapore through Precision Medicine
       background: /images/PRECISE_IHCC_Banner_BG_1920_x_720_02.jpg
       url: /highlights
-      variant: side
+      variant: center
       backgroundColor: gray
       size: sm
   - textcards:
