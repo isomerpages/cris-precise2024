@@ -11,8 +11,8 @@ links:
         url: /permalink
   - title: About Us
     collection: about-us
-  - title: News & Highlights
-    collection: resources
+  - title: News and Highlights
+    resource_room: true
   - title: For the Public
     url: /abstracts/
   - title: For Collaborators
