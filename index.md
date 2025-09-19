@@ -8,10 +8,10 @@ description: Jointly organised by Precision Health Research, Singapore (PRECISE)
   of precision medicine and public health innovation.
 image: /images/Logos/PRECISE_IHCC_Conference_2024_Logo.png
 permalink: /
-notification: welcome
+notification: ""
 sections:
   - hero:
-      title: transforming
+      title: Transforming Health in Singapore through Precision Medicine
       subtitle: "From Cohorts to Clinics: The New Landscape of Global Healthcare"
       background: /images/PRECISE_IHCC_Banner_BG_1920_x_720_02.jpg
       button: Watch the event highlights reel here!
