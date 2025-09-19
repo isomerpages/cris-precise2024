@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Public content/.keep
-      - About Precision Health.md
       - Genomics in Everyday Life.md
       - Where is my data being used?.md
