@@ -35,14 +35,14 @@ sections:
             deliver preventive care at scale—for 68 million people—in a way that
             is evidence-based and cost-effective?
           link_text: Read more
-          link_url: https://www.npm.sg/
+          link_url: /News-and-Highlights/
         - title: "China Kadoorie Biobank: Lessons from a Visionary Cohort Study"
           date: 29 August 2025
           announcement: In 2003, the over a decade-long Human Genome Project was
             completed—with the cost of genome sequencing at a staggering US$3
             billion
           link_text: Read more
-          link_url: https://www.npm.sg/
+          link_url: /News-and-Highlights/
   - textcards:
       title: For the Public
       id: textcards
