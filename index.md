@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: PRECISE-IHCC Conference 2024
+title: PRECISE
 description: Jointly organised by Precision Health Research, Singapore (PRECISE)
   and the International Health Cohorts Consortium (IHCC), the conference will
   bring together some 600 thought leaders, clinicians, scientists, biotechs, and
