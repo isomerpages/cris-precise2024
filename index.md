@@ -27,8 +27,8 @@ sections:
           description: Besides cold winters and timeless architecture, Finland is also know
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Cholesterol Metabolite
+          description: Access official announcements and updates from PRECISE.
           linktext: Learn more
           url: ""
         - title: Card
