@@ -29,16 +29,18 @@ sections:
             of modern healthcare.
           link_text: Sign up
           link_url: https://www.npm.sg/
-        - title: FinnGen
-          date: 19 September 2025
-          announcement: Besides cold winters and timeless architecture, Finland is also
-            know for one of the world's leading genomic research projects.
+        - title: "Our Future Health: Reimagining Prevention for the NHS"
+          date: 17 September 2025
+          announcement: As the saying goes, prevention is better than cure. But how do you
+            deliver preventive care at scale—for 68 million people—in a way that
+            is evidence-based and cost-effective?
           link_text: Read more
           link_url: https://www.npm.sg/
-        - title: "All of Us: Advancing Precision Medicine for all"
-          date: 19 September 2025
-          announcement: Begining recruitment in2018, the all of Us Research Program has
-            enrolled over 860.0000 participants as of 1 May 2025.
+        - title: "China Kadoorie Biobank: Lessons from a Visionary Cohort Study"
+          date: 29 August 2025
+          announcement: In 2003, the over a decade-long Human Genome Project was
+            completed—with the cost of genome sequencing at a staggering US$3
+            billion
           link_text: Read more
           link_url: https://www.npm.sg/
   - textcards:
