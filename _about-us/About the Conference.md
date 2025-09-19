@@ -14,7 +14,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>About the Conference</strong></h3>
+<h3><strong>About Us</strong></h3>
 <p>Jointly organised by <strong>Precision Health Research, Singapore (PRECISE)</strong> and
 the <strong>International Health Cohorts Consortium (IHCC)</strong>, the
 conference will bring together some 600 thought leaders, clinicians, scientists,
