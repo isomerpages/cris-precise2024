@@ -52,15 +52,15 @@ sections:
         - title: Overview of Precision Medicine
           description: Card description
           linktext: Learn more
-          url: /for-th-public/
+          url: /for-the-public/
         - title: Genomics in Everyday Life
           description: Card description
           linktext: Learn more
-          url: ""
+          url: /for-the-public/
         - title: Where is my data being used?
           description: Card description
           linktext: Learn more
-          url: ""
+          url: /for-the-public/
   - textcards:
       title: For Collaborators
       id: textcards
