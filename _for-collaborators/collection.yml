@@ -1,5 +1,5 @@
 collections:
-  resources:
+  for-collaborators:
     output: true
     order:
       - Conference Highlights.md
