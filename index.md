@@ -44,43 +44,6 @@ sections:
           link_text: Read more
           link_url: https://www.npm.sg/
   - textcards:
-      title: Latest Updates
-      subtitle: News and Highlights
-      id: textcards
-      description: Access official announcements and updates from PRECISE.
-      cards:
-        - title: FinnGen
-          description: Besides cold winters and timeless architecture, Finland is also know
-          linktext: Learn more
-          url: ""
-        - title: Cholesterol Metabolite
-          description: Access official announcements and updates from PRECISE.
-          linktext: Learn more
-          url: ""
-        - title: Adcanacing Precision Medicine for All
-          description: Access official announcements and updates from PRECISE.
-          linktext: Learn more
-          url: ""
-  - infopic:
-      title: For the Public
-      id: infopic
-      description: The conference discussed opportunities and challenges in
-        translating advances in precision medicine to reshape the landscape of
-        modern healthcare.
-      button: Find out more
-      url: /for-the-public/
-      image: /images/Advance_Medicine__Large_.jpg
-      alt: highlights
-  - infopic:
-      title: For Collaborators
-      id: infopic
-      description: Access the full set of easy-to-digest graphic illustrations
-        summarising the conference sessions and valuable key takeaways.
-      url: https://www.preciseihcc-conference.sg/graphic-recording-day-1/
-      image: /images/3__Graphic_Illustrations___Copy.jpg
-      alt: resources
-      button: Find out more
-  - textcards:
       title: For the Public
       id: textcards
       description: Precision medicine can improve healthcare by giving doctors a more
@@ -96,6 +59,33 @@ sections:
           url: ""
         - title: Where is my data being used?
           description: Card description
+          linktext: Learn more
+          url: ""
+  - infopic:
+      title: For Collaborators
+      id: infopic
+      description: Access the full set of easy-to-digest graphic illustrations
+        summarising the conference sessions and valuable key takeaways.
+      url: https://www.preciseihcc-conference.sg/graphic-recording-day-1/
+      image: /images/3__Graphic_Illustrations___Copy.jpg
+      alt: resources
+      button: Find out more
+  - textcards:
+      title: Latest Updates
+      subtitle: News and Highlights
+      id: textcards
+      description: Access official announcements and updates from PRECISE.
+      cards:
+        - title: FinnGen
+          description: Besides cold winters and timeless architecture, Finland is also know
+          linktext: Learn more
+          url: ""
+        - title: Cholesterol Metabolite
+          description: Access official announcements and updates from PRECISE.
+          linktext: Learn more
+          url: ""
+        - title: Adcanacing Precision Medicine for All
+          description: Access official announcements and updates from PRECISE.
           linktext: Learn more
           url: ""
 ---
