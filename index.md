@@ -32,7 +32,7 @@ sections:
       variant: center
       backgroundColor: gray
   - infopic:
-      title: The New Landscape of Global Healthcare
+      title: change
       subtitle: From cohorts to clinics
       id: infopic
       description: The conference discussed opportunities and challenges in
