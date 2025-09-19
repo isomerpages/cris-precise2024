@@ -5,10 +5,6 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="padding-bottom: 30px; widht: auto;" height="auto" width="100%" alt="header" src="/images/Header%20Footer/Header__5_.png">
-</div>
-<h3><strong>Leadership</strong></h3>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lee Yee Shuan" src="/images/Committee/Lee_Yee_Shuan.png">
 </div>
 <h4><strong>Ms Lee Yee Shuan</strong></h4>
