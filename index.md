@@ -30,8 +30,26 @@ sections:
       variant: center
       backgroundColor: gray
       size: sm
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
   - infopic:
-      title: change
+      title: For the Public
       subtitle: From cohorts to clinics
       id: infopic
       description: The conference discussed opportunities and challenges in
@@ -42,7 +60,7 @@ sections:
       image: /images/PRECISE_IHCC_Conf_Highlights.jpg
       alt: highlights
   - infopic:
-      title: Resources & Insights
+      title: For Collaborators
       subtitle: Discover & Download
       id: infopic
       description: Access the full set of easy-to-digest graphic illustrations
@@ -50,15 +68,4 @@ sections:
       url: https://www.preciseihcc-conference.sg/graphic-recording-day-1/
       image: /images/3__Graphic_Illustrations___Copy.jpg
       alt: resources
-  - infopic:
-      title: PRECISE-IHCC Conference  in Pictures
-      subtitle: Capturing the Energy
-      id: infopic
-      description: Over the three days, the conference provided a unique platform to
-        spotlight advancements in precision medicine and sharing of diverse
-        insights.
-      button: VIEW MORE
-      url: /highlights
-      image: /images/013_crowd.jpg
-      alt: gallery
 ---
