@@ -50,7 +50,6 @@ sections:
           url: ""
   - infopic:
       title: For the Public
-      subtitle: From cohorts to clinics
       id: infopic
       description: The conference discussed opportunities and challenges in
         translating advances in precision medicine to reshape the landscape of
@@ -61,7 +60,6 @@ sections:
       alt: highlights
   - infopic:
       title: For Collaborators
-      subtitle: Discover & Download
       id: infopic
       description: Access the full set of easy-to-digest graphic illustrations
         summarising the conference sessions and valuable key takeaways.
