@@ -61,6 +61,19 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - textcards:
+      title: For Collaborators
+      id: textcards
+      description: For Collaborators
+      cards:
+        - title: Research Programmes
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Resources
+          description: Card description
+          linktext: Learn more
+          url: ""
   - infopic:
       title: For Collaborators
       id: infopic
