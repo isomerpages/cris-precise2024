@@ -31,8 +31,8 @@ sections:
           description: Access official announcements and updates from PRECISE.
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Adcanacing Precision Medicine for All
+          description: Access official announcements and updates from PRECISE.
           linktext: Learn more
           url: ""
   - resources:
