@@ -14,19 +14,6 @@ sections:
       title: Transforming Health in Singapore through Precision Medicine
       background: /images/PRECISE_IHCC_Banner_BG_1920_x_720_02.jpg
       url: /highlights
-      key_highlights:
-        - title: Programme
-          description: 21-23 Aug 2024
-          url: /day-1-21-aug-2024/
-        - title: Speakers
-          description: ""
-          url: /speakers/
-        - title: abstracts
-          description: ""
-          url: /abstracts/
-        - title: travel information
-          description: Getting to Singapore
-          url: /about/travel/
       variant: center
       backgroundColor: gray
       size: sm
