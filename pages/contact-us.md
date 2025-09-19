@@ -19,8 +19,8 @@ locations:
       - "23 Rochester Park #06-01  Singapore 139234"
       - ""
       - ""
-    title: Address
     operating_hours: []
     maps_link: ""
+    title: Address
 feedback: ""
 ---
