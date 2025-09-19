@@ -13,7 +13,6 @@ sections:
   - hero:
       title: Transforming Health in Singapore through Precision Medicine
       background: /images/PRECISE_IHCC_Banner_BG_1920_x_720_02.jpg
-      button: Watch the event highlights reel here!
       url: /highlights
       key_highlights:
         - title: Programme
@@ -30,6 +29,7 @@ sections:
           url: /about/travel/
       variant: center
       backgroundColor: gray
+      size: sm
   - infopic:
       title: change
       subtitle: From cohorts to clinics
