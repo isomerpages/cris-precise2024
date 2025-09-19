@@ -6,7 +6,7 @@ links:
     resource_room: true
   - title: For The Public
     collection: for-the-public
-  - title: For The Public
+  - title: For Collaborators
     collection: for-the-public
   - title: Contact Us
     url: /contact-us/
