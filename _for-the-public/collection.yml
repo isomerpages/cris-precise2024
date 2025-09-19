@@ -2,6 +2,6 @@ collections:
   for-the-public:
     output: true
     order:
-      - Overview of Precision Medicine.md
+      - About Precision Health.md
       - Day 2 (22 Aug 2024).md
       - Day 3 (23 Aug 2024).md
