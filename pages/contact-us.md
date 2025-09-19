@@ -10,9 +10,10 @@ contacts:
       - other: ""
     title: Email
   - content:
-      - phone: +65 6338 7984
-      - email: peter_ivan@events-sp.com
-      - other: ""
+      - phone: ""
+      - email: ""
+      - other: <a href="https://careers.mohh.com.sg/CRIS/go/CRIS/680844/">View available
+          roles</a>
     title: Join Us
 locations:
   - address:
