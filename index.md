@@ -68,6 +68,15 @@ sections:
       alt: Image alt text
       url: https://www.npm.sg/our-future-health-reimagining-prevention-for-the-nhs/
       image: /images/future_Health.jpg
+  - infopic:
+      title: Lessons from a Visionary Cohort Study
+      subtitle: Add an image and text
+      id: infopic
+      description: In 2003, the over a decade-long Human Genome Project was completed
+        with the cost of genome sequencing at a staggering US$3 billion.
+      button: READ more
+      url: https://www.npm.sg/china-kadoorie-biobank-lessons-from-a-visionary-cohort-study/
+      alt: Image alt text
   - textcards:
       title: For the Public
       id: textcards
