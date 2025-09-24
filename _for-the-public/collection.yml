@@ -2,5 +2,5 @@ collections:
   for-the-public:
     output: true
     order:
-      - Genomics in Everyday Life.md
       - About Precision Health.md
+      - Genomics in Everyday Life.md
