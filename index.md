@@ -77,6 +77,7 @@ sections:
       button: READ more
       url: https://www.npm.sg/china-kadoorie-biobank-lessons-from-a-visionary-cohort-study/
       alt: Image alt text
+      image: /images/Biobank.jpg
   - textcards:
       title: For the Public
       id: textcards
