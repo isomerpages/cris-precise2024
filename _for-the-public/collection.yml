@@ -2,11 +2,11 @@ collections:
   for-the-public:
     output: true
     order:
-      - Genomics in Everyday Life/.keep
-      - Genomics in Everyday Life/Stories.md
-      - Genomics in Everyday Life/Testimonials.md
-      - Genomics in Everyday Life/Impact of Genomics on Daily Health.md
       - About Precision Health2/.keep
       - About Precision Health2/test1.md
       - About Precision Health2/test2.md
       - About Precision Health2/test3.md
+      - Genomics in Everyday Life/.keep
+      - Genomics in Everyday Life/Stories.md
+      - Genomics in Everyday Life/Testimonials.md
+      - Genomics in Everyday Life/Impact of Genomics on Daily Health.md
