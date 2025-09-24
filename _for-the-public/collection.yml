@@ -2,7 +2,6 @@ collections:
   for-the-public:
     output: true
     order:
-      - Where is my data being used?.md
       - About Precision Health/.keep
       - About Precision Health/test1.md
       - About Precision Health/test2.md
@@ -11,3 +10,4 @@ collections:
       - Genomics in Everyday Life/Stories.md
       - Genomics in Everyday Life/Testimonials.md
       - Genomics in Everyday Life/Impact of Genomics on Daily Health.md
+      - Where is my data being used?.md
