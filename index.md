@@ -58,6 +58,16 @@ sections:
       alt: Image alt text
       url: https://www.preciseihcc-conference.sg/graphic-recording-day-1/
       image: /images/Singapore_Skyline__Large_v3_.png
+  - infopic:
+      title: "Our Future Health: Reimagining Prevention for the NHS"
+      subtitle: Latest Update
+      id: infopic
+      description: As the saying goes, prevention is better than cure. But how do you
+        deliver preventive care at scale for 68 million people
+      button: read more
+      alt: Image alt text
+      url: https://www.npm.sg/our-future-health-reimagining-prevention-for-the-nhs/
+      image: /images/future_Health.jpg
   - textcards:
       title: For the Public
       id: textcards
@@ -89,11 +99,4 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
