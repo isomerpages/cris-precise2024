@@ -2,6 +2,7 @@ collections:
   for-the-public:
     output: true
     order:
+      - About Precision Health.md
       - Public content/Where is my data being used?.md
       - Public content/Genomics in Everyday Life.md
       - Public content/About Precision Health.md
