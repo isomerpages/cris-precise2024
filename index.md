@@ -43,6 +43,10 @@ sections:
             billion
           link_text: Read more
           link_url: /News-and-Highlights/
+  - resources:
+      title: Latest Updates
+      subtitle: News and Highlights
+      id: resources
   - textcards:
       title: For the Public
       id: textcards
@@ -72,33 +76,6 @@ sections:
           url: ""
         - title: Resources
           description: Card description
-          linktext: Learn more
-          url: ""
-  - infopic:
-      title: For Collaborators
-      id: infopic
-      description: Access the full set of easy-to-digest graphic illustrations
-        summarising the conference sessions and valuable key takeaways.
-      url: https://www.preciseihcc-conference.sg/graphic-recording-day-1/
-      image: /images/3__Graphic_Illustrations___Copy.jpg
-      alt: resources
-      button: Find out more
-  - textcards:
-      title: Latest Updates
-      subtitle: News and Highlights
-      id: textcards
-      description: Access official announcements and updates from PRECISE.
-      cards:
-        - title: FinnGen
-          description: Besides cold winters and timeless architecture, Finland is also know
-          linktext: Learn more
-          url: ""
-        - title: Cholesterol Metabolite
-          description: Access official announcements and updates from PRECISE.
-          linktext: Learn more
-          url: ""
-        - title: Adcanacing Precision Medicine for All
-          description: Access official announcements and updates from PRECISE.
           linktext: Learn more
           url: ""
 ---
