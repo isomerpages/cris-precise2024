@@ -47,6 +47,13 @@ sections:
       title: Latest Updates
       subtitle: News and Highlights
       id: resources
+  - infopic:
+      title: Conference 2025
+      subtitle: Latest Updates
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - textcards:
       title: For the Public
       id: textcards
