@@ -2,5 +2,6 @@ collections:
   for-collaborators:
     output: true
     order:
+      - Research Programmes/.keep
       - Research Programmes2.md
       - Resources.md
