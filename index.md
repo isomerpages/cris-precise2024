@@ -60,7 +60,7 @@ sections:
       image: /images/Singapore_Skyline__Large_v3_.png
   - infopic:
       title: "Our Future Health: Reimagining Prevention for the NHS"
-      subtitle: Latest Update
+      subtitle: Latest Updates
       id: infopic
       description: As the saying goes, prevention is better than cure. But how do you
         deliver preventive care at scale for 68 million people
@@ -70,7 +70,7 @@ sections:
       image: /images/future_Health.jpg
   - infopic:
       title: Lessons from a Visionary Cohort Study
-      subtitle: Add an image and text
+      subtitle: Latest Updates
       id: infopic
       description: In 2003, the over a decade-long Human Genome Project was completed
         with the cost of genome sequencing at a staggering US$3 billion.
