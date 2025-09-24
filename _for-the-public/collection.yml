@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About Precision Health/.keep
-      - About Precision Health/test1.md
+      - About Precision Health/Overview of Precision.md
       - About Precision Health/test2.md
       - About Precision Health/test3.md
       - Genomics in Everyday Life/.keep
