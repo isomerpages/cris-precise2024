@@ -51,9 +51,13 @@ sections:
       title: Conference 2025
       subtitle: Latest Updates
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: The conference discussed opportunities and challenges in
+        translating advances in precision medicine to reshape the landscape of
+        modern healthcare.
+      button: Find out more
       alt: Image alt text
+      url: https://www.preciseihcc-conference.sg/graphic-recording-day-1/
+      image: /images/Singapore_Skyline__Large_v3_.png
   - textcards:
       title: For the Public
       id: textcards
@@ -85,4 +89,11 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
