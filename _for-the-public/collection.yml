@@ -2,6 +2,7 @@ collections:
   for-the-public:
     output: true
     order:
+      - Where is my data being used?.md
       - About Precision Health/.keep
       - About Precision Health/test1.md
       - About Precision Health/test2.md
