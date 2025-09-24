@@ -2,8 +2,8 @@ collections:
   for-the-public:
     output: true
     order:
-      - About Precision Health2/test2.md
-      - About Precision Health2/test1.md
       - About Precision Health2/.keep
+      - About Precision Health2/test1.md
+      - About Precision Health2/test2.md
       - About Precision Health.md
       - Genomics in Everyday Life.md
