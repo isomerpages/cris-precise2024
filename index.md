@@ -22,8 +22,8 @@ sections:
           description: ""
           url: /for-the-public/
         - title: For Collaborators
-          description: Key Highlight description
-          url: ""
+          description: ""
+          url: /for-collaborators/
   - announcements:
       title: Latest Updates
       id: announcements
