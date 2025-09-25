@@ -23,7 +23,7 @@ sections:
           url: /overview-of-precision/
         - title: For Collaborators
           description: ""
-          url: /for-collaborators/
+          url: /data-access/
   - announcements:
       title: Latest Updates
       id: announcements
