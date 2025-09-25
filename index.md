@@ -19,8 +19,8 @@ sections:
       size: sm
       key_highlights:
         - title: For the Public
-          description: Key Highlight description
-          url: ""
+          description: ""
+          url: /for-the-public/
         - title: For Collaborators
           description: Key Highlight description
           url: ""
