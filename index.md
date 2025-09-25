@@ -20,7 +20,7 @@ sections:
       key_highlights:
         - title: For the Public
           description: ""
-          url: /for-the-public/about-precise-health
+          url: /overview-of-precision/
         - title: For Collaborators
           description: ""
           url: /for-collaborators/
