@@ -17,6 +17,13 @@ sections:
       variant: center
       backgroundColor: gray
       size: sm
+      key_highlights:
+        - title: For the Public
+          description: Key Highlight description
+          url: ""
+        - title: For Collaborators
+          description: Key Highlight description
+          url: ""
   - announcements:
       title: Latest Updates
       id: announcements
