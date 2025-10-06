@@ -2,10 +2,10 @@ collections:
   for-everyone:
     output: true
     order:
-      - About Precision Health/.keep
-      - About Precision Health/Overview of Precision.md
-      - About Precision Health/Phase III SG INSIGHT.md
-      - About Precision Health/FAQs.md
+      - About PRECISE/.keep
+      - About PRECISE/Overview of Precision.md
+      - About PRECISE/Phase III SG INSIGHT.md
+      - About PRECISE/FAQs.md
       - Genomics in Everyday Life/.keep
       - Genomics in Everyday Life/Stories.md
       - Genomics in Everyday Life/Testimonials.md
