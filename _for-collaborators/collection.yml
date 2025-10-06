@@ -2,13 +2,13 @@ collections:
   for-collaborators:
     output: true
     order:
-      - Resources/.keep
-      - Resources/Data Access.md
-      - Resources/Call for Proposals (CFP).md
-      - Resources/Tools.md
-      - Resources/Research Highlights.md
       - Research Programmes/.keep
       - "Research Programmes/Phase I: SG10K Health.md"
       - "Research Programmes/Phase II : PRECISE SG100K.md"
       - Research Programmes/Phase III.md
       - Research Programmes/GLOW.md
+      - Resources/.keep
+      - Resources/Data Access.md
+      - Resources/Call for Proposals (CFP).md
+      - Resources/Tools.md
+      - Resources/Research Highlights.md
