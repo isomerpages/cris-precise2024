@@ -4,7 +4,7 @@ collections:
     order:
       - Resources/.keep
       - Resources/Data Access.md
-      - Resources/Publications aka Research Highlights.md
+      - Resources/Call for Proposals (CFP).md
       - Resources/Tools.md
       - Research Programmes/.keep
       - "Research Programmes/Phase I: SG10K Health.md"
