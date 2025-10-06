@@ -20,7 +20,7 @@ sections:
       key_highlights:
         - title: For Everyone
           description: ""
-          url: /overview-of-precision/
+          url: /singapore-big-health-project/
         - title: For Collaborators
           description: ""
           url: /data-access/
