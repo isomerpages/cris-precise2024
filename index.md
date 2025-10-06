@@ -99,7 +99,7 @@ sections:
           description: Card description
           linktext: Learn more
           url: /for-the-public/
-        - title: Where is my data being used?
+        - title: Our Data Users
           description: Card description
           linktext: Learn more
           url: /for-the-public/
