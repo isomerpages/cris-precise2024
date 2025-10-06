@@ -1,5 +1,5 @@
 collections:
-  for-the-public:
+  for-everyone:
     output: true
     order:
       - About Precision Health/.keep
