@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - About PRECISE.md
+      - Our Story.md
       - Leadership.md
       - Partners.md
