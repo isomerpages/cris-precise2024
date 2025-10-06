@@ -5,7 +5,7 @@ links:
   - title: News and Highlights
     resource_room: true
   - title: For Everyone
-    collection: for-the-public
+    collection: for-everyone
   - title: For Collaborators
     collection: for-collaborators
   - title: FAQs
