@@ -18,7 +18,7 @@ sections:
       backgroundColor: gray
       size: sm
       key_highlights:
-        - title: For the Public
+        - title: For Everyone
           description: ""
           url: /overview-of-precision/
         - title: For Collaborators
