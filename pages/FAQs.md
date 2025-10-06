@@ -34,4 +34,16 @@ Singaporeans’ health.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2. CAN I PARTICIPATE IN THE NATIONAL PRECISION MEDICINE PROGRAMME?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>We are working with the SG100K study to bring participants into the precision
+medicine programme. SG100K is a state-of-the-art population health research
+study, established as a collaboration between leading researchers at Singapore’s
+National Universities and hospitals. SG100K is coordinated by Professor
+John Chambers at LKC Medicine, NTU.</p>
+</div>
+</details>
+</div>
 <p></p>
