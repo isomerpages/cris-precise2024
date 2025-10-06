@@ -86,16 +86,16 @@ sections:
       alt: Image alt text
       image: /images/Biobank.jpg
   - textcards:
-      title: For the Public
+      title: For Everyone
       id: textcards
       description: Precision medicine can improve healthcare by giving doctors a more
         detailed understanding of each patient.
       cards:
-        - title: Overview of Precision Medicine
+        - title: Singapore's Big Health Project
           description: Card description
           linktext: Learn more
           url: /for-the-public/
-        - title: Genomics in Everyday Life
+        - title: Everyday Genomics
           description: Card description
           linktext: Learn more
           url: /for-the-public/
