@@ -20,7 +20,7 @@ sections:
       key_highlights:
         - title: For Everyone
           description: ""
-          url: /about-precise/
+          url: /overview-of-precision/
         - title: For Collaborators
           description: ""
           url: /data-access/
