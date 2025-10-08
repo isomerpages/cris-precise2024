@@ -24,36 +24,6 @@ sections:
         - title: For Collaborators
           description: ""
           url: /data-access/
-  - announcements:
-      title: Latest Updates
-      id: announcements
-      subtitle: News and Highlights
-      announcement_items:
-        - title: Conference 2025
-          date: 21 October 2025
-          announcement: The conference discussed opportunities and challenges in
-            translating advances in precision medicine to reshape the landscape
-            of modern healthcare.
-          link_text: Sign up
-          link_url: https://www.npm.sg/
-        - title: "Our Future Health: Reimagining Prevention for the NHS"
-          date: 17 September 2025
-          announcement: As the saying goes, prevention is better than cure. But how do you
-            deliver preventive care at scale—for 68 million people—in a way that
-            is evidence-based and cost-effective?
-          link_text: Read more
-          link_url: /News-and-Highlights/
-        - title: "China Kadoorie Biobank: Lessons from a Visionary Cohort Study"
-          date: 29 August 2025
-          announcement: In 2003, the over a decade-long Human Genome Project was
-            completed—with the cost of genome sequencing at a staggering US$3
-            billion
-          link_text: Read more
-          link_url: /News-and-Highlights/
-  - resources:
-      title: Latest Updates
-      subtitle: News and Highlights
-      id: resources
   - infopic:
       title: Conference 2025
       subtitle: Latest Updates
@@ -85,6 +55,32 @@ sections:
       url: https://www.npm.sg/china-kadoorie-biobank-lessons-from-a-visionary-cohort-study/
       alt: Image alt text
       image: /images/Biobank.jpg
+  - announcements:
+      title: Latest Updates
+      id: announcements
+      subtitle: News and Highlights
+      announcement_items:
+        - title: Conference 2025
+          date: 21 October 2025
+          announcement: The conference discussed opportunities and challenges in
+            translating advances in precision medicine to reshape the landscape
+            of modern healthcare.
+          link_text: Sign up
+          link_url: https://www.npm.sg/
+        - title: "Our Future Health: Reimagining Prevention for the NHS"
+          date: 17 September 2025
+          announcement: As the saying goes, prevention is better than cure. But how do you
+            deliver preventive care at scale—for 68 million people—in a way that
+            is evidence-based and cost-effective?
+          link_text: Read more
+          link_url: /News-and-Highlights/
+        - title: "China Kadoorie Biobank: Lessons from a Visionary Cohort Study"
+          date: 29 August 2025
+          announcement: In 2003, the over a decade-long Human Genome Project was
+            completed—with the cost of genome sequencing at a staggering US$3
+            billion
+          link_text: Read more
+          link_url: /News-and-Highlights/
   - textcards:
       title: For Everyone
       id: textcards
