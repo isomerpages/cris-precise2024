@@ -12,7 +12,7 @@ notification: ""
 sections:
   - hero:
       title: Transforming Health in Singapore through Precision Medicine
-      background: /images/PRECISE_IHCC_Banner_BG_1920_x_720_02.jpg
+      background: /images/Generated_Image_September_26__2025___4_30PM.png
       url: /highlights
       variant: center
       backgroundColor: gray
