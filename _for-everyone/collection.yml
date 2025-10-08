@@ -2,7 +2,6 @@ collections:
   for-everyone:
     output: true
     order:
-      - Example Titletest.md
       - About PRECISE/.keep
       - About PRECISE/Singapore's Big Health Project.md
       - About PRECISE/FAQs.md
